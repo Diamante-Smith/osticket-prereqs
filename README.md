@@ -13,7 +13,7 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> 
+- Windows 10 or Mac OS</b> 
 
 <h2>List of Prerequisites</h2>
 
@@ -24,7 +24,8 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 - MySQL 5.5.62
 - Heidi SQL
 
-<img width="660" alt="1" src="https://github.com/user-attachments/assets/03be369b-46c7-430e-89e7-4e2d6c408b42">
+<img width="386" alt="1" src="https://github.com/user-attachments/assets/39c7d56c-ecdc-4d3b-a3ed-1fdec093ad96">
+
 <h2>Installation Steps</h2>
 
 <p>
