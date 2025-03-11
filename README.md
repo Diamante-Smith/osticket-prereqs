@@ -28,9 +28,11 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 <h2>Installation Steps</h2>
 
-<h3>&#9312; Create a Virtual Machine on Azure</h3>
+<h3>&#9312; Create a Resource Group </h3>
 
 <img width="660" alt="1" src="https://github.com/user-attachments/assets/14cae5bd-4fbf-4972-8386-f45b088848f1" />
+
+
 
 <br>
 
