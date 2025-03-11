@@ -24,13 +24,18 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 - MySQL 5.5.62
 - Heidi SQL
 
-<img width="386" alt="1" src="https://github.com/user-attachments/assets/39c7d56c-ecdc-4d3b-a3ed-1fdec093ad96">
+
 
 <h2>Installation Steps</h2>
 
-<p>
-</p>
-<p>
+<h3>&#9312; Create a Virtual Machine on Azure</h3>
+
+<img width="660" alt="1" src="https://github.com/user-attachments/assets/14cae5bd-4fbf-4972-8386-f45b088848f1" />
+
+<br>
+
+
+
 <h3>&#9312; Create a Virtual Machine on Azure</h3>
 The first step is to create a Virtual Machine (VM) on Azure. 
 Choose the image or base operating machine as Windows 10 Pro, version 22H2.</p>
