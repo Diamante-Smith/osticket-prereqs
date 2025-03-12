@@ -39,14 +39,13 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 
 <h3>&#9312; Create a Virtual Machine on Azure</h3>
-The first step is to create a Virtual Machine (VM) on Azure. 
-Choose the image or base operating machine as Windows 10 Pro, version 22H2.</p>
-<p>
+- The first step is to create a Virtual Machine (VM) on Azure
+
+- Choose the image or base operating machine as Windows 10 Pro, version 22H2
+
 <img width="800" src="https://imgur.com/INXIICl.png">
 
-<p>
-</p>
-<p>
+
 <strong> NOTE: Make sure to set the size to either 2 or 4 vcpus and 16 GiB memory. 
 Confirm that RDP (3389) is allowed in "Select inbound ports" to allow Remote Desktop access to the VM.</strong> </p>
 <p>
