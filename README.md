@@ -30,18 +30,31 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 <h3>&#9312; Create a Resource Group </h3>
 
-<img width="660" alt="1" src="https://github.com/user-attachments/assets/14cae5bd-4fbf-4972-8386-f45b088848f1" />
+<img width="660" alt="1" src="https://github.com/user-attachments/assets/14cae5bd-4fbf-4972-8386-f45b088848f1"/>
 
+<br>
 
+- Go to https://portal.azure.com/#home to get started
+  
+- Once you are there, click on/ search Resource Groups and afterward click on create
+  
+- For me, I named mine RG-osTicket, and for the region, since I'm located in the Eastcoast, East US 2 worked out
 
+- Create the resource group once you receive the Validation passed green check mark
+  
+<br>
 
 
 
 
 <h3>&#9312; Create a Virtual Machine on Azure</h3>
-- The first step is to create a Virtual Machine (VM) on Azure
 
-- 
+
+- To begin this step first search for Virtual Machines and hit create; Make sure to click on Azure Virtual Machine 
+
+- Please select your designated resource group. For the name of the virtual machine, I have chosen "VM-osTicket"
+  
+- I have selected my region, "East US 2," and configured the availability options to "Availability Zone," ensuring that "Self-Selected Zone" is also marked. For all other settings, I have retained the options as displayed. Furthermore, I have chosen the image for this virtual machine as "Windows Server 2022 Datacenter Azure Edition - x64 Gen 2"
 
 - Choose the image or base operating machine as Windows 10 Pro, version 22H2
 
