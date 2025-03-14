@@ -84,27 +84,27 @@ Allow a small time window for your deployment to complete, then locate your VM's
 
   
 
-<p>Enable and expand the following features:</p>
-<p><img width="400" src="https://imgur.com/DdrwoVU.png">
-</p>
-<p> [X] Internet Information Services</p>
-<p>[X] Web Management Tools </p>
-<p>[X] IIS Management Console </p>
-<p>[X] World Wide Web Services  </p>
-<p>[X] Application Development Features </p>
-<p>[X] CGI</p>
-<p>[X] Common HTTP Features</p>
+Enable and expand the following features:</p>
+<img width="400" src="https://imgur.com/DdrwoVU.png">
+
+ [X] Internet Information Services
+[X] Web Management Tools 
+[X] IIS Management Console 
+[X] World Wide Web Services  
+[X] Application Development Features 
+[X] CGI
+[X] Common HTTP Features
 <br>
-<p> Click okay and the features should be enabled.</p>
+Click okay and the features should be enabled.
 <br>
-<p> <strong> NOTE: To test if the changes were applied succesfully, type "127.0.0.1" on your browser and this page below should appear. </strong></p>
+ NOTE: To test if the changes were applied succesfully, type "127.0.0.1" on your browser and this page below should appear. </strong></p>
 <img width="900" src="https://imgur.com/nqv8e9h.png">
 <br> <br>
 <h3>&#9317; Download and Install PHP Manager</h3>
-<p> Download and install PHP manager from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a>(PHPManagerForIIS_V1.5.0.msi) 
-</p> <br>
-<p><img width="386" src="https://imgur.com/DbU0lk6.png">
-</p> 
+<Download and install PHP manager from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a>(PHPManagerForIIS_V1.5.0.msi) 
+ <br>
+<img width="386" src="https://imgur.com/DbU0lk6.png">
+
 <br>
 <h3>&#9318; Download and Install the Rewrite Module</h3>
 <p> Download and install the rewrite module (rewrite_amd64_en-US.msi) from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a> </p>
