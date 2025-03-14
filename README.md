@@ -34,58 +34,56 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 
 
-<br>
+
 
 
 
 <h3>&#9312; Create a Virtual Machine on Azure</h3>
 - The first step is to create a Virtual Machine (VM) on Azure
 
+- 
+
 - Choose the image or base operating machine as Windows 10 Pro, version 22H2
+
+<br>
 
 <img width="800" src="https://imgur.com/INXIICl.png">
 
 
-<strong> NOTE: Make sure to set the size to either 2 or 4 vcpus and 16 GiB memory. 
-Confirm that RDP (3389) is allowed in "Select inbound ports" to allow Remote Desktop access to the VM.</strong> </p>
-<p>
+NOTE: Make sure to set the size to either 2 or 4 vcpus and 16 GiB memory. 
+Confirm that RDP (3389) is allowed in "Select inbound ports" to allow Remote Desktop access to the VM.
+
 <img width="750" src="https://imgur.com/aTcFD7k.png">
 
 
 
-</p>
-<br />
 
-<p>
-</p>
-<p>
 <h3>&#9313; Review and Create </h3>
-<p>Click on the last check box to confirm an eligible Windows 10 license, then proceed to "Review + Create". A validation process will occur before being able to create.</p>
+Click on the last check box to confirm an eligible Windows 10 license, then proceed to "Review + Create". A validation process will occur before being able to create.
 
-</p>
+
 <br>
 <h3>&#9314; Find your VM's public IP address</h3>
-<p></p>Allow a small time window for your deployment to complete, then locate your VM's public IP address and copy it.</p>
-<p>
+Allow a small time window for your deployment to complete, then locate your VM's public IP address and copy it
+<br>
 <img width="700" src="https://imgur.com/9HWXoRu.png">
 
 
-</p>
-<p>
+
 <h3>&#9315; Connect to your VM using the Remote Desktop Connection app</h3>
-<p>Open your Remote Desktop Connection app and paste the VM's IP address, then login credentials used to create the VM.</p>
-<p>
+<p>Open your Remote Desktop Connection app and paste the VM's IP address, then login credentials used to create the VM
+
 <img width="700" src="https://imgur.com/TL41GIq.png">
 
 
-</p>
+
 <br />
 <h3>&#9316; Enable IIS </h3>
 <p> Once the VM is open, we will need to install/enable IIS. Open Control Panel -> Programs -> Turn Windows features on or off</p>
-<p> <img width="750" src="https://imgur.com/Llx72Yj.png">
+<img width="750" src="https://imgur.com/Llx72Yj.png">
 
   
-</p>
+
 <p>Enable and expand the following features:</p>
 <p><img width="400" src="https://imgur.com/DdrwoVU.png">
 </p>
