@@ -66,6 +66,26 @@ pic 3:45
 
 - Open Remote Desktop
 
+- First, copy the public IP address in dc-1
+
+<img width="276" alt="Screenshot 2025-01-13 at 1 12 03 PM" src="https://github.com/user-attachments/assets/f63c13d1-7408-4d1c-9568-884061a5557e" /> 
+
+<br>
+
+
+- Go to the App Store on Mac and download this app. We are going to use remote desktop to connect to our Windows Server virtual machine
+
+- Open Microsoft Remote Desktop --> Click on the Plus icon and click on add Pc --> Name it dc-1 in "Friendly Name:" ---> paste the public IP address in the PC name ---> press add to connect (if needed put in the username and password u made to connect)
+
+<br>
+
+<img width="601" alt="Screenshot 2025-01-12 at 8 00 32 PM" src="https://github.com/user-attachments/assets/a82711e7-80c0-4aa3-9bea-3e06a4c41c91" />
+
+<br>
+
+
+
+
 <br>
 
 <img width="750" src="https://imgur.com/aTcFD7k.png">
