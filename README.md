@@ -58,26 +58,33 @@ pic 2:21
 
 - Please ensure that the licensing agreement presented is checked, and then proceed by selecting "Review + Create," followed by "Create"
 
+- Then the virtual machine will be created
+
 <br>
+<h3>&#9313; Find your VM's public IP address</h3>
 
 pic 3:45
 
 <br>
 
-- Open Remote Desktop
+- First, copy the public IP address from the newly created virtual machine
 
-- First, copy the public IP address
+- Then Open Remote Desktop 
+
+
 
 <img width="276" alt="Screenshot 2025-01-13 at 1 12 03 PM" src="https://github.com/user-attachments/assets/f63c13d1-7408-4d1c-9568-884061a5557e" /> 
 
 <br>
+
+<h3>&#9314; Connect to your VM using the Remote Desktop Connection app</h3>
 
 
 - Go to the App Store on Mac and download this app. We are going to use remote desktop to connect to our Windows Server virtual machine
 
 <img width="287" alt="Screenshot 2024-09-19 at 12 28 36 PM" src="https://github.com/user-attachments/assets/fc0b9142-ae88-4315-9a78-b2649a841455">
 
-- Open Microsoft Remote Desktop --> Click on the Plus icon and click on add Pc --> Name it .. in "Friendly Name:" ---> paste the public IP address in the PC name ---> press add to connect (if needed put in the username and password u made to connect)
+- Open Microsoft Remote Desktop --> Click on the Plus icon and click on add Pc --> Name it "osTicket" in "Friendly Name:" ---> paste the public IP address in the PC name ---> press add to connect (if needed put in the username and password u made to connect)
 
 <br>
 
@@ -95,26 +102,21 @@ pic 3:45
 
 
 
-<h3>&#9313; Review and Create </h3>
-Click on the last check box to confirm an eligible Windows 10 license, then proceed to "Review + Create". A validation process will occur before being able to create.
+<h3>&#9315;  </h3>
+
 
 
 <br>
-<h3>&#9314; Find your VM's public IP address</h3>
-Allow a small time window for your deployment to complete, then locate your VM's public IP address and copy it
-<br>
-<img width="700" src="https://imgur.com/9HWXoRu.png">
 
 
 
-<h3>&#9315; Connect to your VM using the Remote Desktop Connection app</h3>
-<p>Open your Remote Desktop Connection app and paste the VM's IP address, then login credentials used to create the VM
-
-<img width="700" src="https://imgur.com/TL41GIq.png">
 
 
 
-<br />
+
+
+
+
 <h3>&#9316; Enable IIS </h3>
 <p> Once the VM is open, we will need to install/enable IIS. Open Control Panel -> Programs -> Turn Windows features on or off</p>
 <img width="750" src="https://imgur.com/Llx72Yj.png">
