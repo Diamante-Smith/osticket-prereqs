@@ -26,9 +26,11 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 
 
-<h2>Installation Steps</h2>
+<h1>Creating Our Resource, Network, & Virtual Machines/ Connecting to Remote Desktop </h1> 
 
-<h3>&#9312; Create a Virtual Machine on Azure</h3>
+<br>
+
+<h2>&#9312; Create a Virtual Machine on Azure</h2>
 
 
 - To begin this step, first search for Virtual Machines and hit create; Make sure to click on Azure Virtual Machine 
@@ -61,7 +63,7 @@ pic 2:21
 - Then the virtual machine will be created
 
 <br>
-<h3>&#9313; Find your VM's public IP address</h3>
+<h2>&#9313; Find your VM's public IP address</h2>
 
 pic 3:45
 
@@ -77,12 +79,16 @@ pic 3:45
 
 <br>
 
-<h3>&#9314; Connect to your VM using the Remote Desktop Connection app</h3>
+<h2>&#9314; Connect to your VM using the Microsoft Remote Desktop app</h2>
 
-
-- Go to the App Store on Mac and download this app. We are going to use remote desktop to connect to our Windows Server virtual machine
 
 <img width="287" alt="Screenshot 2024-09-19 at 12 28 36 PM" src="https://github.com/user-attachments/assets/fc0b9142-ae88-4315-9a78-b2649a841455">
+
+<br>
+
+- Go to the App Store on Mac and download this app. We are going to use the Microsoft Remote Desktop app to connect to our Windows Server virtual machine
+
+
 
 - Open Microsoft Remote Desktop --> Click on the Plus icon and click on add Pc --> Name it "osTicket" in "Friendly Name:" ---> paste the public IP address in the PC name ---> press add to connect (if needed put in the username and password u made to connect)
 
@@ -92,21 +98,26 @@ pic 3:45
 
 <br>
 
+<h3>- Resetting Passwords </h3>
+
+pic 4:29
+
+<br>
+
+- If you are confident that you have entered all the information accurately, yet you are still unable to establish a remote desktop connection to the virtual machine, the issue may be related to the password.
+
+- To reset your password, please access the Azure portal. Select your Windows virtual machine, navigate to the "Help" section, and click "Reset password." Enter your new password and then select "Update." This process should effectively resolve the issue.
+
+
+<h1>Installation Steps</h1>
+
+
+<h2>&#9312; Professional Installation of osTicket from Scratch  </h2>
 
 
 
 <br>
 
-<img width="750" src="https://imgur.com/aTcFD7k.png">
-
-
-
-
-<h3>&#9315;  </h3>
-
-
-
-<br>
 
 
 
@@ -116,8 +127,7 @@ pic 3:45
 
 
 
-
-<h3>&#9316; Enable IIS </h3>
+<h2>&#9313; Enable IIS </h2>
 <p> Once the VM is open, we will need to install/enable IIS. Open Control Panel -> Programs -> Turn Windows features on or off</p>
 <img width="750" src="https://imgur.com/Llx72Yj.png">
 
