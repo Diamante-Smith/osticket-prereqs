@@ -88,15 +88,17 @@ pic 3:45
 
 - Go to the App Store on Mac and download this app. We are going to use the Microsoft Remote Desktop app to connect to our Windows Server virtual machine
 
-
-
-- Open Microsoft Remote Desktop --> Click on the Plus icon and click on add Pc --> Name it "osTicket" in "Friendly Name:" ---> paste the public IP address in the PC name ---> press add to connect (if needed put in the username and password u made to connect)
-
 <br>
 
 <img width="601" alt="Screenshot 2025-01-12 at 8 00 32 PM" src="https://github.com/user-attachments/assets/a82711e7-80c0-4aa3-9bea-3e06a4c41c91" />
 
+- Open Microsoft Remote Desktop --> Click on the Plus icon and click on add Pc --> Name it "osTicket" in "Friendly Name:" ---> paste the public IP address in the PC name ---> press add to connect (if needed put in the username and password u made to connect)
+
+
+- After that you should be able to connect to your newly created virtual machine 
+
 <br>
+
 
 <h3>- Resetting Passwords </h3>
 
@@ -111,14 +113,25 @@ pic 4:29
 
 <h1>Installation Steps</h1>
 
+<br>
 
-<h2>&#9312; Professional Installation of osTicket from Scratch  </h2>
-
-
+<h2>&#9312; Professional Installation & Configuration of osTicket from Scratch  </h2>
 
 <br>
 
+pic 
 
+<br>
+
+- Download the osTicket installation files here
+  <https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>
+
+
+- We are going to unzip them onto the desktop and then into a folder called "osTicket-Installation-Files"
+  
+-
+
+<br>
 
 
 
