@@ -29,6 +29,7 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 <h1>Creating Our Resource, Network, & Virtual Machines/ Connecting to Remote Desktop </h1> 
 
 <br>
+<br>
 
 <h2>&#9312; Create a Virtual Machine on Azure</h2>
 
@@ -114,6 +115,7 @@ pic 4:29
 <h1>Installation Steps</h1>
 
 <br>
+<br>
 
 <h2>&#9312; Professional Installation & Configuration of osTicket from Scratch  </h2>
 
@@ -126,6 +128,11 @@ pic 7:18
 - Download the osTicket installation files here
   <https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>
 
+- After the update go to downloads there should be a folder named "osTicket-Installation-Files"             
+                                                                                                            
+    7:52                                                                                                        
+                                                                                                            
+           
 
 - We are going to unzip them onto the desktop and then into a folder called "osTicket-Installation-Files"
   
