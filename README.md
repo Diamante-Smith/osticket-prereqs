@@ -128,15 +128,25 @@ pic 7:18
 - Download the osTicket installation files here
   <https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>
 
-- After the update go to downloads there should be a folder named "osTicket-Installation-Files"             
+- After the instillation Click Folder -> go to downloads there should be a folder named "osTicket-Installation-Files"             
                                                                                                             
-    7:52                                                                                                        
-                                                                                                            
+pic 7:52                                                                                                        
+<br>                                                                                                          
            
 
 - We are going to unzip them onto the desktop and then into a folder called "osTicket-Installation-Files"
   
--
+- Drag the folder from downloads to the Desktop
+
+<br>
+
+pic 07:58
+
+<br>
+
+- Right Click on the folder -> Click on Extract all
+
+- Make sure that it is going towards the Desktop\osTicket-Installation-Files -> then hit "Extract"
 
 <br>
 
@@ -147,9 +157,13 @@ pic 7:18
 
 
 
+
 <h2>&#9313; Enable IIS </h2>
-<p> Once the VM is open, we will need to install/enable IIS. Open Control Panel -> Programs -> Turn Windows features on or off</p>
-<img width="750" src="https://imgur.com/Llx72Yj.png">
+
+<br>
+- IIS, or Internet Information Services, is a web server platform that operates on virtual machines (VMs). It will be utilized to host and serve the osTicket application effectively.
+9:55
+
 
   
 
