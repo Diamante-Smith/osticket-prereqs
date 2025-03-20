@@ -161,11 +161,15 @@ pic 07:58
 <h2>&#9313; Enable IIS </h2>
 
 <br>
+
 - IIS, or Internet Information Services, is a web server platform that operates on virtual machines (VMs). It will be utilized to host and serve the osTicket application effectively.
+
+- 
+
 9:55
 
 
-  
+ <br> 
 
 Enable and expand the following features:</p>
 <img width="400" src="https://imgur.com/DdrwoVU.png">
