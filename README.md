@@ -164,9 +164,17 @@ pic 07:58
 
 - IIS, or Internet Information Services, is a web server platform that operates on virtual machines (VMs). It will be utilized to host and serve the osTicket application effectively.
 
-- 
+<br>
 
-9:55
+pic 9:30
+
+<br>
+
+- For example, if you open a new tab and type in 127.0.0.1 in the web browser nothing will happen you will receive a page that cannot be reached
+
+- 127.0.0.1
+
+
 
 
  <br> 
