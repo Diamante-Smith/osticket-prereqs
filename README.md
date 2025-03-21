@@ -170,9 +170,9 @@ pic 9:30
 
 <br>
 
-- For example, if you open a new tab and type in 127.0.0.1 in the web browser nothing will happen you will receive a page that cannot be reached
+- open a new tab and type in 127.0.0.1 in the web browser nothing will happen you will receive a page that cannot be reached
 
-- 127.0.0.1
+- 127.0.0.1 This address refers to the computer as itself, if you try to run it and if you have a web server running on the computer then a default webpage should be loaded
 
 
 
