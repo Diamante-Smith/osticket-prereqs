@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+
 
 <h1>osTicket: Prerequisites and Installation</h1>
 This tutorial provides a step-by-step guide for setting up the prerequisites and installing osTicket, an open-source help desk ticketing system. It details the configuration of a Windows 10 virtual machine in Azure, installation of necessary software like IIS, PHP Manager, and MySQL, and the final setup of osTicket. The guide ensures a comprehensive installation process for users setting up osTicket in a virtualized environment.<br />
@@ -33,10 +33,11 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 <h2>&#9312; Create a Virtual Machine on Azure</h2>
 
+<br>
 
-- To begin this step, first search for Virtual Machines and hit create; Make sure to click on Azure Virtual Machine 
+- To begin this step, first search for Virtual Machines and hit Create; Make sure to click on Azure Virtual Machine 
 
-- For the resource group, click on "Create New" so that you can make a new resource group. I named it "osTicket" it can be any name you choose -> Click "OK"
+- For the resource group, click on "Create New" so that you can make a new resource group. I named it "osTicket" It can be any name you choose -> Click "OK"
   
 - For the name of the virtual machine, I have chosen "osTicket-VM"
   
@@ -64,7 +65,10 @@ pic 2:21
 - Then the virtual machine will be created
 
 <br>
+
 <h2>&#9313; Find your VM's public IP address</h2>
+
+<br>
 
 pic 3:45
 
@@ -72,9 +76,11 @@ pic 3:45
 
 - First, copy the public IP address from the newly created virtual machine
 
+
+
 - Then Open Remote Desktop 
 
-
+<br>
 
 <img width="276" alt="Screenshot 2025-01-13 at 1 12 03 PM" src="https://github.com/user-attachments/assets/f63c13d1-7408-4d1c-9568-884061a5557e" /> 
 
@@ -82,6 +88,7 @@ pic 3:45
 
 <h2>&#9314; Connect to your VM using the Microsoft Remote Desktop app</h2>
 
+<br>
 
 <img width="287" alt="Screenshot 2024-09-19 at 12 28 36 PM" src="https://github.com/user-attachments/assets/fc0b9142-ae88-4315-9a78-b2649a841455">
 
@@ -93,6 +100,8 @@ pic 3:45
 
 <img width="601" alt="Screenshot 2025-01-12 at 8 00 32 PM" src="https://github.com/user-attachments/assets/a82711e7-80c0-4aa3-9bea-3e06a4c41c91" />
 
+<br>
+
 - Open Microsoft Remote Desktop --> Click on the Plus icon and click on add Pc --> Name it "osTicket" in "Friendly Name:" ---> paste the public IP address in the PC name ---> press add to connect (if needed put in the username and password u made to connect)
 
 
@@ -100,14 +109,16 @@ pic 3:45
 
 <br>
 
-
 <h3>- Resetting Passwords </h3>
+
+<br>
 
 pic 4:29
 
 <br>
 
 - If you are confident that you have entered all the information accurately, yet you are still unable to establish a remote desktop connection to the virtual machine, the issue may be related to the password.
+
 
 - To reset your password, please access the Azure portal. Select your Windows virtual machine, navigate to the "Help" section, and click "Reset password." Enter your new password and then select "Update." This process should effectively resolve the issue.
 
@@ -127,14 +138,15 @@ pic 7:18
 
 - Download the osTicket installation files here
   <https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>
+  
 
 - After the instillation Click Folder -> go to downloads there should be a folder named "osTicket-Installation-Files"             
                                                                                                             
 pic 7:52                                                                                                        
-<br>                                                                                                          
-           
+<br>                                                                                                                  
 
 - We are going to unzip them onto the desktop and then into a folder called "osTicket-Installation-Files"
+  
   
 - Drag the folder from downloads to the Desktop
 
@@ -146,23 +158,19 @@ pic 07:58
 
 - Right Click on the folder -> Click on Extract all
 
+
 - Make sure that it is going towards the Desktop\osTicket-Installation-Files -> then hit "Extract"
 
+
+
 <br>
-
-
-
-
-
-
-
 
 
 <h2>&#9313; Enable IIS </h2>
 
 <br>
 
-- IIS, or Internet Information Services, is a web server platform that operates on virtual machines (VMs). It will be utilized to host and serve the osTicket application effectively.
+- IIS, or Internet Information Services, is a web server platform that operates on virtual machines (VMs), it will be utilized to host and serve the osTicket application effectively.
 
 <br>
 
@@ -170,31 +178,59 @@ pic 9:30
 
 <br>
 
-- open a new tab and type in 127.0.0.1 in the web browser nothing will happen you will receive a page that cannot be reached
+- Open a new tab and type in 127.0.0.1 in the web browser nothing will happen you will receive a page that cannot be reached
 
 - 127.0.0.1 This address refers to the computer as itself, if you try to run it and if you have a web server running on the computer then a default webpage should be loaded
 
-
-
-
  <br> 
 
-Enable and expand the following features:</p>
-<img width="400" src="https://imgur.com/DdrwoVU.png">
+pic 9:55
 
- [X] Internet Information Services
-[X] Web Management Tools 
-[X] IIS Management Console 
-[X] World Wide Web Services  
-[X] Application Development Features 
-[X] CGI
-[X] Common HTTP Features
 <br>
-Click okay and the features should be enabled.
+
+- Open Control Panel -> Under programs click on "Uninstall a program"
+
 <br>
- NOTE: To test if the changes were applied succesfully, type "127.0.0.1" on your browser and this page below should appear. </strong></p>
-<img width="900" src="https://imgur.com/nqv8e9h.png">
-<br> <br>
+
+pic 10:21
+
+<br>
+
+- Click on "Turn Windows features on or off" -> Check the box that says "Internet Information Services" and Expand that folder
+  
+
+- We also have to install CGI as well since osTicket depends on this program as well
+
+<br>
+
+pic 10:40
+
+<br>
+
+- Expand on "World Wide Web Services" -> Expand "Application Development Features" -> Click on "CGI" -> Click on "OK" and wait a few minutes for it all to install
+
+<br>
+
+
+<img width="793" alt="15" src="https://github.com/user-attachments/assets/09c9262b-093e-42b0-8a5d-faa039ef56ae" />
+
+
+<br>
+
+- Once it is finished click on close go back to the webpage and load 127.0.0.1
+
+
+
+- Here will be the default webpage for IIS
+
+11:12
+
+<br> 
+
+
+<br>
+
+
 <h3>&#9317; Download and Install PHP Manager</h3>
 <Download and install PHP manager from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a>(PHPManagerForIIS_V1.5.0.msi) 
  <br>
