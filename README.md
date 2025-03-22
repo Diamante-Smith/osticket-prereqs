@@ -86,7 +86,9 @@ pic 3:45
 
 <br>
 
+
 <h2>&#9314; Connect to your VM using the Microsoft Remote Desktop app</h2>
+
 
 <br>
 
