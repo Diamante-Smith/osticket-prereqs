@@ -199,6 +199,8 @@ pic 10:21
 <br>
 
 - Click on "Turn Windows features on or off" -> Check the box that says "Internet Information Services" and Expand that folder
+
+<img width="376" alt="13" src="https://github.com/user-attachments/assets/489920cc-fae1-4930-8713-4ecaf8be4c8e" />
   
 
 - We also have to install CGI as well since osTicket depends on this program as well
@@ -225,16 +227,38 @@ pic 10:40
 
 - Here will be the default webpage for IIS
 
-11:12
 
 <br> 
 
 
+
+<h2>&#9314; Download and Install PHP Manager</h2>
+
 <br>
 
+- From the osTicket-Installation-Files folder We will install PHP manager for IIS
+  
 
-<h3>&#9317; Download and Install PHP Manager</h3>
-<Download and install PHP manager from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a>(PHPManagerForIIS_V1.5.0.msi) 
+- PHP is like a web server language where osTicket runs on PHP so for osTicket to run you need this installed
+  
+
+<br>
+
+pic 13:20 
+
+<br>
+
+- go into the osTicket-Installation-Files folder -> Click on PHP manager
+
+<br>
+
+pic 13:40
+
+<br>
+
+- Click Next
+
+href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a>(PHPManagerForIIS_V1.5.0.msi) 
  <br>
 <img width="386" src="https://imgur.com/DbU0lk6.png">
 
