@@ -258,6 +258,22 @@ pic 13:40
 
 - Click Next
 
+<br>
+
+pic 13:42
+
+<br>
+
+- Click I Agree then Next
+
+<br>
+
+pic 13:47
+
+<br>
+
+- Say yes to everything and install it -> Click Close 
+
 href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a>(PHPManagerForIIS_V1.5.0.msi) 
  <br>
 <img width="386" src="https://imgur.com/DbU0lk6.png">
