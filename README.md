@@ -264,7 +264,7 @@ pic 13:42
 
 <br>
 
-- Click I Agree then Next
+- Click I Agree, then Next
 
 <br>
 
@@ -272,7 +272,19 @@ pic 13:47
 
 <br>
 
-- Say yes to everything and install it -> Click Close 
+- Say yes to everything and install it -> Click Close
+
+<br>
+
+pic 14:00
+
+<br>
+
+- In the same folder, we will install the Rewrite module. Double-click it and press Install
+
+
+
+
 
 href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a>(PHPManagerForIIS_V1.5.0.msi) 
  <br>
