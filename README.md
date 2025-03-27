@@ -280,9 +280,9 @@ pic 14:00
 
 <br>
 
-- In the same folder, we will install the Rewrite module. Double-click it and press Install
+- In the same folder, we will install the Rewrite module, another requirement for osTicket -> Double-click it and press Install
 
-
+- Next, we are gonna create a directory 
 
 
 
