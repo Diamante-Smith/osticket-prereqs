@@ -282,10 +282,19 @@ pic 14:00
 
 - In the same folder, we will install the Rewrite module, another requirement for osTicket -> Double-click it and press Install
 
-- Next, we are gonna create a directory 
+- Next, we are gonna create a directory on the C drive called PHP "C:\PHP"  
 
 
+<br>
 
+pic 14:47
+
+<br>
+
+right cliclk on folder -> Click on File Exploerer and another should be opened to be used as well
+
+14:50
+      
 href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a>(PHPManagerForIIS_V1.5.0.msi) 
  <br>
 <img width="386" src="https://imgur.com/DbU0lk6.png">
