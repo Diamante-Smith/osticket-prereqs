@@ -291,9 +291,19 @@ pic 14:47
 
 <br>
 
-right cliclk on folder -> Click on File Exploerer and another should be opened to be used as well
+- Right-click on the folder on your start menu -> Click on File Explorer, and another folder should be opened to be used as well
 
-14:50
+<br>
+
+pic 14:59
+
+<br>
+
+- Go to the C:\ Drive We are going to make a folder -> Right-click on Windows (C:) drive -> Hit New -> go to Folder -> name it "PHP"
+
+- 15:22
+
+
       
 href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a>(PHPManagerForIIS_V1.5.0.msi) 
  <br>
