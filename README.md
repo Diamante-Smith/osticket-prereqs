@@ -280,6 +280,10 @@ pic 14:00
 
 <br>
 
+<h3>&#9315; Download and Install the Rewrite Module</h3>
+
+<br>
+
 - In the same folder, we will install the Rewrite module, another requirement for osTicket -> Double-click it and press Install
 
 - Next, we are gonna create a directory on the C drive called PHP "C:\PHP"  
@@ -301,16 +305,36 @@ pic 14:59
 
 - Go to the C:\ Drive We are going to make a folder -> Right-click on Windows (C:) drive -> Hit New -> go to Folder -> name it "PHP"
 
-- 15:22
 
 
-      
-href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a>(PHPManagerForIIS_V1.5.0.msi) 
- <br>
-<img width="386" src="https://imgur.com/DbU0lk6.png">
+
+- From the “osTicket-Installation-Files” folder, unzip this file PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 
 <br>
-<h3>&#9318; Download and Install the Rewrite Module</h3>
+
+pic 15:37
+
+<br>
+
+- First, Double-click on the PHP file that will be unzipped, Here are the actual language files
+
+- Right-click on this and press Extract all
+
+<br>
+
+pic 15:41
+
+<br>
+
+- Before pressing Extract at the top where it says browse, type in "C:\PHP" -> then hit Extract
+  
+
+- Basically, we are putting the PHP files the osTicket is going to use on the C:\ Drive
+  
+
+
+
+
 <p> Download and install the rewrite module (rewrite_amd64_en-US.msi) from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a> </p>
 <p><img width="386" alt="rewrite module" src="https://imgur.com/dM5GWpc.png"></p>
 <h3>&#9319; Create a new directory</h3>
