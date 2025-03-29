@@ -280,11 +280,13 @@ pic 14:00
 
 <br>
 
-<h3>&#9315; Download and Install the Rewrite Module</h3>
+<h2>&#9315; Download and Install the Rewrite Module</h2>
 
 <br>
 
 - In the same folder, we will install the Rewrite module, another requirement for osTicket -> Double-click it and press Install
+
+  
 
 - Next, we are gonna create a directory on the C drive called PHP "C:\PHP"  
 
@@ -318,6 +320,8 @@ pic 15:37
 
 - First, Double-click on the PHP file that will be unzipped, Here are the actual language files
 
+
+
 - Right-click on this and press Extract all
 
 <br>
@@ -327,6 +331,8 @@ pic 15:41
 <br>
 
 - Before pressing Extract at the top where it says browse, type in "C:\PHP" -> then hit Extract
+
+  
   
 
 - Basically, we are putting the PHP files the osTicket is going to use on the C:\ Drive
