@@ -286,6 +286,8 @@ pic 14:00
 
 - In the same folder, we will install the Rewrite module, another requirement for osTicket -> Double-click it and press Install
 
+
+<h2>&#9319; Create a new directory</h2>
   
 
 - Next, we are gonna create a directory on the C drive called PHP "C:\PHP"  
@@ -341,9 +343,7 @@ pic 15:41
 
 
 
-<p> Download and install the rewrite module (rewrite_amd64_en-US.msi) from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a> </p>
-<p><img width="386" alt="rewrite module" src="https://imgur.com/dM5GWpc.png"></p>
-<h3>&#9319; Create a new directory</h3>
+
 <p>Proceed to File Explorer and create the directory in "C:" naming the new folder "PHP" </p>
 <img width="647" alt="PHP" src="https://imgur.com/AP3sxXs.png">
 <br>
