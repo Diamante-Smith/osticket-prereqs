@@ -351,9 +351,11 @@ pic 15:41
 pic 16:55
 
 <br>
+- We are going to install VC -> Double-click the file
 
+<h3>&#9322; Download and install MySQL 5.5.62 </h3>
 
-
+- Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> 
 
 
 <p> Download and install php-7.3.8-nts-Win32-VC15-x86.zip from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a> and extract the contents into the newly created PHP folder </p>
@@ -361,8 +363,10 @@ pic 16:55
 <br>
 
 <br>
-<h3>&#9322; Download and install MySQL 5.5.62 </h3>
-<p> Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a>  and select the following configurations:</p>
+
+
+
+installation files </a>  and select the following configurations:</p>
 <p> Typical Setup -> Launch Configuration Wizard after install -> Standard Configuration
 </p>
 <br>
