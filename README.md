@@ -13,7 +13,7 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 or Mac OS</b> 
+- Windows 10 or Mac OS 
 
 <h2>List of Prerequisites</h2>
 
@@ -333,26 +333,33 @@ pic 15:41
 <br>
 
 - Before pressing Extract at the top where it says browse, type in "C:\PHP" -> then hit Extract
-
   
+
+- After the extraction, you will see in the C:\ Drive the PHP folder that was created plus other things that were extracted inside of it   
   
 
 - Basically, we are putting the PHP files the osTicket is going to use on the C:\ Drive
+
+<br>
+
+
+<h2>&#9321; Download and install VC_redist.x86.exe </h2>
   
 
-
-
-
-
-<p>Proceed to File Explorer and create the directory in "C:" naming the new folder "PHP" </p>
-<img width="647" alt="PHP" src="https://imgur.com/AP3sxXs.png">
 <br>
+
+pic 16:55
+
 <br>
-<h3>&#9320; Download and install PHP 7.3.8 </h3>
+
+
+
+
+
 <p> Download and install php-7.3.8-nts-Win32-VC15-x86.zip from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a> and extract the contents into the newly created PHP folder </p>
 <img width="720" alt="PHP zip" src="https://imgur.com/AgERChE.png">
 <br>
-<h3>&#9321; Download and install VC_redist.x86.exe </h3>
+
 <br>
 <h3>&#9322; Download and install MySQL 5.5.62 </h3>
 <p> Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a>  and select the following configurations:</p>
