@@ -138,11 +138,16 @@ pic 7:18
 
 <br>
 
+- To get all the files needed for osTicket, go to osTicket documentation and collect them all to install them 1 at a time
+  
+<https://docs.osticket.com/en/latest/Getting%20Started/Installation.html>
+
 - Download the osTicket installation files here
+  
   <https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>
   
 
-- After the instillation Click Folder -> go to downloads there should be a folder named "osTicket-Installation-Files"             
+- After the installation, Click Folder -> go to downloads there should be a folder named "osTicket-Installation-Files"             
                                                                                                             
 pic 7:52                                                                                                        
 <br>                                                                                                                  
