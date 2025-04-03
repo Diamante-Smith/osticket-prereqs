@@ -2,7 +2,7 @@
 
 
 <h1>osTicket: Prerequisites and Installation</h1>
-This tutorial provides a step-by-step guide for setting up the prerequisites and installing osTicket, an open-source help desk ticketing system. It details the configuration of a Windows 10 virtual machine in Azure, installation of necessary software like IIS, PHP Manager, and MySQL, and the final setup of osTicket. The guide ensures a comprehensive installation process for users setting up osTicket in a virtualized environment.<br />
+This tutorial provides a step-by-step guide for setting up the prerequisites and installing osTicket, an open-source help desk ticketing system. It details the configuration of a Windows 10 virtual machine in Azure, the installation of necessary software like IIS, PHP Manager, and MySQL, and the final setup of osTicket. The guide ensures a comprehensive installation process for users setting up osTicket in a virtualized environment.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -107,7 +107,7 @@ pic 3:45
 - Open Microsoft Remote Desktop --> Click on the Plus icon and click on add Pc --> Name it "osTicket" in "Friendly Name:" ---> paste the public IP address in the PC name ---> press add to connect (if needed put in the username and password u made to connect)
 
 
-- After that you should be able to connect to your newly created virtual machine 
+- After that, you should be able to connect to your newly created virtual machine 
 
 <br>
 
@@ -142,9 +142,9 @@ pic 7:18
   
 <https://docs.osticket.com/en/latest/Getting%20Started/Installation.html>
 
-- Download the osTicket installation files here
+- You can instead also download the osTicket installation files here provided by Josh Madakor, our instructor
   
-  <https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>
+<https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>
   
 
 - After the installation, Click Folder -> go to downloads there should be a folder named "osTicket-Installation-Files"             
@@ -163,7 +163,7 @@ pic 07:58
 
 <br>
 
-- Right Click on the folder -> Click on Extract all
+- Right-click on the folder -> Click on Extract all
 
 
 - Make sure that it is going towards the Desktop\osTicket-Installation-Files -> then hit "Extract"
@@ -185,9 +185,9 @@ pic 9:30
 
 <br>
 
-- Open a new tab and type in 127.0.0.1 in the web browser nothing will happen you will receive a page that cannot be reached
+- Open a new tab and type in 127.0.0.1 in the web browser Nothing will happen; you will receive a page that cannot be reached
 
-- 127.0.0.1 This address refers to the computer as itself, if you try to run it and if you have a web server running on the computer then a default webpage should be loaded
+- 127.0.0.1 This address refers to the computer itself, If you try to run it and if you have a web server running on the computer, then a default webpage should be loaded
 
  <br> 
 
@@ -195,7 +195,7 @@ pic 9:55
 
 <br>
 
-- Open Control Panel -> Under programs click on "Uninstall a program"
+- Open Control Panel -> Under programs, click on "Uninstall a program"
 
 <br>
 
@@ -203,7 +203,7 @@ pic 10:21
 
 <br>
 
-- Click on "Turn Windows features on or off" -> Check the box that says "Internet Information Services" and Expand that folder
+- Click on "Turn Windows features on or off" -> Check the box that says "Internet Information Services" and expand that folder
 
 <img width="376" alt="13" src="https://github.com/user-attachments/assets/489920cc-fae1-4930-8713-4ecaf8be4c8e" />
   
@@ -226,7 +226,7 @@ pic 10:40
 
 <br>
 
-- Once it is finished click on close go back to the webpage and load 127.0.0.1
+- Once it is finished, click on close go back to the webpage and load 127.0.0.1
 
 
 
@@ -241,10 +241,10 @@ pic 10:40
 
 <br>
 
-- From the osTicket-Installation-Files folder We will install PHP manager for IIS
+- From the osTicket-Installation-Files folder, We will install PHP manager for IIS
   
 
-- PHP is like a web server language where osTicket runs on PHP so for osTicket to run you need this installed
+- PHP is like a web server language where osTicket runs on PHP, so for osTicket to run, you need this installed
   
 
 <br>
@@ -359,10 +359,24 @@ pic 16:55
 
 - We are going to install the "VC redistributable file" -> Double-click the file -> make sure to press yes 
 
-<h3>&#9318; Download and install MySQL 5.5.62 </h3>
+<br>
 
-- Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> 
 
+<h2>&#9318; Download and install MySQL 5.5.62 </h2>
+
+
+<br>
+
+pic 17:06
+
+<br>
+
+- MySQL is a database that osTicket uses to store all the data in, like user accounts, ticketing information, etc
+
+- It's something that's on the backend and needs to be there for us to get to work
+
+- Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) 
+<https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link>
 
 <p> Download and install php-7.3.8-nts-Win32-VC15-x86.zip from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a> and extract the contents into the newly created PHP folder </p>
 <img width="720" alt="PHP zip" src="https://imgur.com/AgERChE.png">
@@ -379,7 +393,7 @@ installation files </a>  and select the following configurations:</p>
 <img width="420" alt="mysql" src="https://imgur.com/UXdU64D.png">
 <br>
 <h3>&#9319; Launch IIS as an administrator</h3>
-<p> Search IIS in the Windows search bar, then right click and select "Open as Administrator"</p>
+<p> Search IIS in the Windows search bar, then right-click and select "Open as Administrator"</p>
 <br>
 <h3>&#9319; Register PHP Manager </h3>
 <br>
@@ -387,7 +401,7 @@ installation files </a>  and select the following configurations:</p>
 
 <br>
 <br>
-<p><strong> NOTE: Registration will require you to provide a path to "php-cgie.exe". Lead it to the PHP folder previously created and you will find the file "php-cgi"
+<p><strong> NOTE: Registration will require you to provide a path to "php-cgie.exe". Lead it to the PHP folder previously created, and you will find the file "php-cgi"
 </strong></p>
 <br>
 <img width="700" alt="PHP path " src="https://imgur.com/Pewjk2r.png">
