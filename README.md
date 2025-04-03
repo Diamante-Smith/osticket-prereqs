@@ -351,7 +351,8 @@ pic 15:41
 pic 16:55
 
 <br>
-- We are going to install VC -> Double-click the file
+
+- We are going to install the "VC redistributable file" -> Double-click the file -> make sure to press yes 
 
 <h3>&#9318; Download and install MySQL 5.5.62 </h3>
 
