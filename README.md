@@ -287,7 +287,7 @@ pic 14:00
 - In the same folder, we will install the Rewrite module, another requirement for osTicket -> Double-click it and press Install
 
 
-<h2>&#9319; Create a new directory</h2>
+<h2>&#9316; Create a New Directory</h2>
   
 
 - Next, we are gonna create a directory on the C drive called PHP "C:\PHP"  
@@ -343,7 +343,7 @@ pic 15:41
 <br>
 
 
-<h2>&#9321; Download and install VC_redist.x86.exe </h2>
+<h2>&#9317; Download and install VC_redist.x86.exe </h2>
   
 
 <br>
@@ -353,7 +353,7 @@ pic 16:55
 <br>
 - We are going to install VC -> Double-click the file
 
-<h3>&#9322; Download and install MySQL 5.5.62 </h3>
+<h3>&#9318; Download and install MySQL 5.5.62 </h3>
 
 - Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> 
 
@@ -372,10 +372,10 @@ installation files </a>  and select the following configurations:</p>
 <br>
 <img width="420" alt="mysql" src="https://imgur.com/UXdU64D.png">
 <br>
-<h3>&#9323; Launch IIS as an administrator</h3>
+<h3>&#9319; Launch IIS as an administrator</h3>
 <p> Search IIS in the Windows search bar, then right click and select "Open as Administrator"</p>
 <br>
-<h3>&#9324; Register PHP Manager </h3>
+<h3>&#9319; Register PHP Manager </h3>
 <br>
 <img width="720" alt="PHP registration 2" src="https://imgur.com/BEmvAuY.png">
 
