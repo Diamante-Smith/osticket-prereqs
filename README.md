@@ -373,25 +373,65 @@ pic 17:06
 
 - MySQL is a database that osTicket uses to store all the data in, like user accounts, ticketing information, etc
 
-- It's something that's on the backend and needs to be there for us to get to work
+- It's something that's on the backend and needs to be there for us to get to work in this field
 
-- Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) 
+- Download and install MySQL Server 5.5.62 (mysql-5.5.62-win32.msi) 
 <https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link>
 
-<p> Download and install php-7.3.8-nts-Win32-VC15-x86.zip from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> installation files </a> and extract the contents into the newly created PHP folder </p>
-<img width="720" alt="PHP zip" src="https://imgur.com/AgERChE.png">
+
 <br>
+
+pic 17:20
+
+
+<br>
+
+- When choosing Setup type, click on "Typical" -> Press Install -> Click "Yes"
+
+-> Wait for that to finish installing -> Once complete, check mark where it says
+
+"Launch" so the wizard can be launched -> Click on Finish -> Then click on "Yes"
+
+to allow the app to make changes
+
+
+<br>
+
+pic 17:52
+
+
+<br>
+
+- Press "Next" -> Choose "Standard Configuration" -> Press "Next" -> Leave 
+
+everything as is and press "Next"
+
+
+<br>
+
+pic 18:06
+
+
+<br>
+
+- For this part, make sure you DO NOT mess this one up
+
+- For new root password, just type in the word "root" for both to keep
+
+everything simple for this project, write down this on a notepad as well for 
+
+later
 
 <br>
 
 
+pic 19:19
 
-installation files </a>  and select the following configurations:</p>
-<p> Typical Setup -> Launch Configuration Wizard after install -> Standard Configuration
-</p>
 <br>
-<img width="420" alt="mysql" src="https://imgur.com/UXdU64D.png">
+
 <br>
+
+
 <h3>&#9319; Launch IIS as an administrator</h3>
 <p> Search IIS in the Windows search bar, then right-click and select "Open as Administrator"</p>
 <br>
