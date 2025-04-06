@@ -386,6 +386,7 @@ pic 17:20
 
 <br>
 
+
 - When choosing Setup type, click on "Typical" -> Press Install -> Click "Yes"
 
 -> Wait for that to finish installing -> Once complete, check mark where it says
