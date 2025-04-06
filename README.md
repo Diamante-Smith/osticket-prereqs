@@ -388,11 +388,8 @@ pic 17:20
 
 
 - When choosing Setup type, click on "Typical" -> Press Install -> Click "Yes"
-
 -> Wait for that to finish installing -> Once complete, check mark where it says
-
 "Launch" so the wizard can be launched -> Click on Finish -> Then click on "Yes"
-
 to allow the app to make changes
 
 
@@ -403,9 +400,7 @@ pic 17:52
 
 <br>
 
-- Press "Next" -> Choose "Standard Configuration" -> Press "Next" -> Leave 
-
-everything as is and press "Next"
+- Press "Next" -> Choose "Standard Configuration" -> Press "Next" -> Leave everything as is and press "Next"
 
 
 <br>
@@ -417,11 +412,7 @@ pic 18:06
 
 - For this part, make sure you DO NOT mess this one up
 
-- For new root password, just type in the word "root" for both to keep
-
-everything simple for this project, write down this on a notepad as well for 
-
-later
+- For new root password, just type in the word "root" for both to keep everything simple for this project, write down this on a notepad as well for later
 
 <br>
 
@@ -433,7 +424,10 @@ pic 19:19
 <br>
 
 
-<h3>&#9319; Launch IIS as an administrator</h3>
+<h2>&#9319; Launch IIS as an administrator</h2>
+
+<br> 
+
 <p> Search IIS in the Windows search bar, then right-click and select "Open as Administrator"</p>
 <br>
 <h3>&#9319; Register PHP Manager </h3>
