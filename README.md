@@ -414,21 +414,27 @@ pic 18:06
 
 - For new root password, just type in the word "root" for both to keep everything simple for this project, write down this on a notepad as well for later
 
-<br>
+- Click Next, then Execute on the 2 check marked bubbled options that will automatically appear
 
 
-pic 19:19
-
-<br>
 
 <br>
 
 
 <h2>&#9319; Launch IIS as an administrator</h2>
 
+<br>
+
+
+pic 20:22
+
+<br>
+
+- Search IIS in the Windows search bar, then right-click and select "run as Administrator"
+
 <br> 
 
-<p> Search IIS in the Windows search bar, then right-click and select "Open as Administrator"</p>
+
 <br>
 <h3>&#9319; Register PHP Manager </h3>
 <br>
