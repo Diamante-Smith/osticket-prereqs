@@ -430,17 +430,28 @@ pic 20:22
 
 <br>
 
-- Search IIS in the Windows search bar, then right-click and select "run as Administrator"
+- We are going to open IIS as an Admin -> Search IIS in the Windows search bar, then right-click and select "run as Administrator"
 
 <br> 
 
 
 <br>
 <h3>&#9319; Register PHP Manager </h3>
-<br>
-<img width="720" alt="PHP registration 2" src="https://imgur.com/BEmvAuY.png">
 
 <br>
+
+
+pic 20:51
+
+<br>
+
+- We are gonna be registering PHP from within IIS
+
+- So we are making the webserver aware of the existence of PHOP on the computer and where it is
+
+- 
+<br>
+
 <br>
 <p><strong> NOTE: Registration will require you to provide a path to "php-cgie.exe". Lead it to the PHP folder previously created, and you will find the file "php-cgi"
 </strong></p>
