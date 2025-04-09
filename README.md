@@ -447,9 +447,20 @@ pic 20:51
 
 - We are gonna be registering PHP from within IIS
 
-- So we are making the webserver aware of the existence of PHOP on the computer and where it is
+- So we are making the webserver aware of the existence of PHP on the computer and where it is
 
-- 
+
+<br>
+
+
+pic 21:11
+  
+<br>
+
+
+- Open the PHP manager that we installed -> Click on register a new PHP version
+
+
 <br>
 
 <br>
