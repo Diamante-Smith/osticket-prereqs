@@ -483,16 +483,22 @@ pic 21:14
 
 
 
-<h3>&#9321; Restart the IIS server</h3>
+<h2>&#9321; Restart the IIS server</h2>
 
 <br> 
 
-<p> The restart button can be found on the right side of the window under Actions -> Manage Server.</p>
+
 <br>
 <img width="623" alt="Restart IIS" src="https://imgur.com/KHl2nlC.png">
 <br>
+
+
+
+
+<h2>&#9322; Download and install osTicket</h2>
+
 <br>
-<h3>&#9326; Download and install osTicket</h3>
+
 <p> Download and install osTicket v1.15.8 from the installation files and extract the contents to c:\inetpub\wwwroot </p>
 <br>
 <img width="547" alt="inetpub" src="https://imgur.com/KqDNCsS.png">
