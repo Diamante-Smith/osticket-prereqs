@@ -412,7 +412,7 @@ pic 18:06
 
 - For this part, make sure you DO NOT mess this one up
 
-- For new root password, just type in the word "root" for both to keep everything simple for this project, write down this on a notepad as well for later
+- For new root password, just type in the word "root" for both to keep everything simple for this project, write this down on a notepad as well for later
 
 - Click Next, then Execute on the 2 check marked bubbled options that will automatically appear
 
@@ -430,13 +430,17 @@ pic 20:22
 
 <br>
 
-- We are going to open IIS as an Admin -> Search IIS in the Windows search bar, then right-click and select "run as Administrator"
+- We are going to open IIS as an Admin
+
+
+- Search IIS in the Windows search bar, then right-click and select "run as Administrator"
 
 <br> 
 
 
 <br>
-<h3>&#9319; Register PHP Manager </h3>
+
+<h2>&#9320; Register PHP Manager </h2>
 
 <br>
 
@@ -458,21 +462,31 @@ pic 21:11
 <br>
 
 
-- Open the PHP manager that we installed -> Click on register a new PHP version
+- Open the PHP manager that we installed -> Click on register a new PHP version and browse to it by clicking on the 3 dots on the right side to browse
 
 
 <br>
 
+pic 21:14
+  
 <br>
-<p><strong> NOTE: Registration will require you to provide a path to "php-cgie.exe". Lead it to the PHP folder previously created, and you will find the file "php-cgi"
-</strong></p>
-<br>
-<img width="700" alt="PHP path " src="https://imgur.com/Pewjk2r.png">
+
+- Once the folder shows up, click on "Windows (C:) A.K.A the C: Drive" -> Click on the PHP folder -> Finally acutualy the php.cgi is the only executable binary for PHP
+
+
 
 <br>
-<p>
-</p> 
-<h3>&#9325; Restart the IIS server</h3>
+
+pic 21:14
+  
+<br>
+
+
+
+<h3>&#9321; Restart the IIS server</h3>
+
+<br> 
+
 <p> The restart button can be found on the right side of the window under Actions -> Manage Server.</p>
 <br>
 <img width="623" alt="Restart IIS" src="https://imgur.com/KHl2nlC.png">
