@@ -471,7 +471,7 @@ pic 21:14
   
 <br>
 
-- Once the folder shows up, click on "Windows (C:) A.K.A the C: Drive" -> Click on the PHP folder -> Finally acutualy the php.cgi is the only executable binary for PHP
+- Once the folder shows up, click on "Windows (C:) A.K.A the C: Drive" -> Click on the PHP folder -> Finally, actually the php.cgi is the only executable binary for PHP -> Double click what comes up and press ok
 
 
 
