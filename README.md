@@ -451,7 +451,7 @@ pic 20:51
 
 - We are gonna be registering PHP from within IIS
 
-- So we are making the webserver aware of the existence of PHP on the computer and where it is
+- So we are making the web server aware of the existence of PHP on the computer and telling it where it is
 
 
 <br>
@@ -471,35 +471,48 @@ pic 21:14
   
 <br>
 
-- Once the folder shows up, click on "Windows (C:) A.K.A the C: Drive" -> Click on the PHP folder -> Finally, actually the php.cgi is the only executable binary for PHP -> Double click what comes up and press ok
+- Once the folder shows up, click on "Windows (C:) A.K.A the C: Drive" -> Click on the PHP folder -> When you see php.cgi that is the only executable binary for PHP -> Double click it, and then click OK
+
 
 
 
 <br>
 
-pic 21:14
+
+<h2>&#9321; Stop and Restart the IIS server</h2>
+
+
+<br>
+
+pic 21:48
   
 <br>
 
+- Under "Connections" located on the left side, click on "osticket-vm"
 
+- Then on the right side under "Actions" Click on "Stop"
 
-<h2>&#9321; Restart the IIS server</h2>
+- You could also right-click on "osticket-vm", then click on "Stop" to get the same results
 
-<br> 
-
+- Give it a moment to stop, then right-click on "osticket-vm" and click on "Start"
 
 <br>
-<img width="623" alt="Restart IIS" src="https://imgur.com/KHl2nlC.png">
-<br>
-
-
 
 
 <h2>&#9322; Download and install osTicket</h2>
 
 <br>
 
-<p> Download and install osTicket v1.15.8 from the installation files and extract the contents to c:\inetpub\wwwroot </p>
+pic 22:49
+  
+<br>
+
+- Go back to the osTicket installation files folder
+
+- Right-click on the file name osTicket-v1.15.8 -> Click "Extract All" and wait for it to finish, during the process, you will see another folder pop up at the top with the same name
+
+
+ 
 <br>
 <img width="547" alt="inetpub" src="https://imgur.com/KqDNCsS.png">
 <br>
