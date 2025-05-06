@@ -511,25 +511,35 @@ pic 22:49
 
 - Right-click on the file name osTicket-v1.15.8 -> Click "Extract All" and wait for it to finish, during the process, you will see another folder pop up at the top with the same name
 
+<br>
+
+pic 23:22
+  
+<br>
+
+- Open that folder up, which will contain 2 other folders as well
+
+- Open another File Explorer window -> Click Windows (c:) -> Click inetpub -> Click wwwroot
+
+- "wwwroot" is the root of the web server
+
+- Copy the Upload folder into the wwwroot folder -> Rename upload to osTicket with no spaces or anything, just exact
 
  
-<br>
-<img width="547" alt="inetpub" src="https://imgur.com/KqDNCsS.png">
-<br>
-<br>
-<p> Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”</p>
-<br>
-<h3>&#9327; Restart the IIS Again.</h3>
-<img width="623" alt="Restart IIS" src="https://imgur.com/KHl2nlC.png">
+
+<h2>&#9323; Restart the IIS Again</h2>
+
 <br>
 <br>
-<h3>&#9328; Launch osTicket </h3>
+<h2>&#9324; Launch osTicket </h2>
+
+
 <p>Under Connections in IIS, VM-osTicket -> Sites -> Default Web Site -> osTicket</p>
 <img width="623" alt="osTicket" src="https://imgur.com/bgZrJzV.png">
 <p></p>
 <p><strong>NOTE: Click on osTicket</strong></p>
 
-<h3>&#9329; Select Browse *80 to launch osTicket</h3>
+<h2>&#9325; Select Browse *80 to launch osTicket</h2>
 <p> On the right side of the window, under Actions -> Manage Folder -> Click on Browse *:80 (http) </p>
 <img width="623" alt="browse80" src="https://imgur.com/yiQjEcK.png">
 <br>
