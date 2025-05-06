@@ -525,12 +525,21 @@ pic 23:22
 
 - Copy the Upload folder into the wwwroot folder -> Rename upload to osTicket with no spaces or anything, just exact
 
+
+<br>
  
 
 <h2>&#9323; Restart the IIS Again</h2>
 
 <br>
+
+pic 25:06
+  
 <br>
+
+- Type and open up "Internet Information Services (IIS) Manager, remember to run as an administrator
+
+
 <h2>&#9324; Launch osTicket </h2>
 
 
