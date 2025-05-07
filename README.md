@@ -538,37 +538,29 @@ pic 25:06
 <br>
 
 - Type and open up "Internet Information Services (IIS) Manager, remember to run as an administrator
+  
+- right-click on "osticket-vm", then click on "Stop" -> wait for it to stop then right-click on it again and press "Start" for it to begin
 
+<br>
 
 <h2>&#9324; Launch osTicket </h2>
 
+<br>
 
-<p>Under Connections in IIS, VM-osTicket -> Sites -> Default Web Site -> osTicket</p>
-<img width="623" alt="osTicket" src="https://imgur.com/bgZrJzV.png">
-<p></p>
-<p><strong>NOTE: Click on osTicket</strong></p>
+pic 25:44
+  
+<br>
 
-<h2>&#9325; Select Browse *80 to launch osTicket</h2>
-<p> On the right side of the window, under Actions -> Manage Folder -> Click on Browse *:80 (http) </p>
-<img width="623" alt="browse80" src="https://imgur.com/yiQjEcK.png">
-<br>
-<br>
-<p><strong>This should lead to osTicket opening in a separate Windows broswer</strong>.</p>
-<br>
-<br>
-<img width="664" alt="osTicket browser" src="https://imgur.com/yOa0Jy8.png">
-<br>
-<br>
-<h3>&#9330; Enable extensions</h3>
-<p>Open IIS -> PHP Manager -> Select "Enable or Disable Extension". </p>
-<p>Enable the following extensions:</p>
-<p>[X]Enable: php_imap.dll</p>
-<p>[X]Enable: php_intl.dll</p>
-<p>[X]Enable: php_opcache.dll</p>
-<img width="273" alt="php enable 2" src="https://imgur.com/8QO0yIO.png">
-<br>
-<br>
-<h3>&#9331; Refresh osTicket</h3>
+- To Launch osTicket Under "Connections" located on the left side, expand "osticket-vm" with the down arrow 
+
+- Expand "sites" -> Expand "Default Web site" -> Click on "osTicket"
+
+- On the right side click on Browse *80 to launch osTicket
+
+
+<h2>&#9325; </h2>
+
+<h2>&#9331; Refresh osTicket</h2>
 
 <p>After refreshing your web browser on osTicket, notice how more features are now available to use.</p>
 <img width="608" alt="OSticket changes" src="https://imgur.com/bdJ05kP.png">
