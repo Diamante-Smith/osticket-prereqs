@@ -414,7 +414,7 @@ pic 18:06
 
 - For new root password, just type in the word "root" for both to keep everything simple for this project, write this down on a notepad as well for later
 
-- Click Next, then Execute on the 2 check marked bubbled options that will automatically appear
+- Click Next, then Execute on the 2 check-marked bubbled options that will automatically appear
 
 
 
@@ -539,7 +539,7 @@ pic 25:06
 
 - Type and open up "Internet Information Services (IIS) Manager, remember to run as an administrator
   
-- right-click on "osticket-vm", then click on "Stop" -> wait for it to stop then right-click on it again and press "Start" for it to begin
+- right-click on "osticket-vm", then click on "Stop" -> wait for it to stop, then right-click on it again and press "Start" for it to begin
 
 <br>
 
@@ -551,23 +551,35 @@ pic 25:44
   
 <br>
 
-- To Launch osTicket Under "Connections" located on the left side, expand "osticket-vm" with the down arrow 
+- To launch osTicket under "Connections" located on the left side, expand "osticket-vm" with the down arrow 
 
 - Expand "sites" -> Expand "Default Web site" -> Click on "osTicket"
 
-- On the right side click on Browse *80 to launch osTicket
+- On the right side, click on Browse *80 to launch osTicket
+
+- * If osTicket didn't load for you normally then that would indicate that you did something wrong and would have to delete your Virtual Machine and do the steps over but more precise
 
 
-<h2>&#9325; </h2>
+<br>
 
-<h2>&#9331; Refresh osTicket</h2>
+<h2>&#9325; Enable Extensions </h2>
+
+<br>
+
+pic 27:58
+  
+<br>
+
+- Some of the Extensions are not enabled
+
+<h2>&#9326; Refresh osTicket</h2>
 
 <p>After refreshing your web browser on osTicket, notice how more features are now available to use.</p>
 <img width="608" alt="OSticket changes" src="https://imgur.com/bdJ05kP.png">
 <br>
 <br>
 
-<h3>&#12881; Rename ost-config.php</h3>
+<h2>&#9327; Rename ost-config.php</h2>
 
 <p> Under c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php, rename "ost-sampleconfig.php" to "ost-config.php"</p>
 <img width="527" alt="ostconfig rename" src="https://imgur.com/yP1YTT0.png">
