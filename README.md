@@ -557,7 +557,7 @@ pic 25:44
 
 - On the right side, click on Browse *80 to launch osTicket
 
-- * If osTicket didn't load for you normally then that would indicate that you did something wrong and would have to delete your Virtual Machine and do the steps over but more precise
+- * If osTicket didn't load for you normally, then that would indicate that you did something wrong and would have to delete your Virtual Machine and do the steps over, but more precisely
 
 
 <br>
@@ -574,7 +574,22 @@ pic 27:58
  
 - Re-open IIS -> go to "sites" -> go to "Default Web Site" -> click on "osTicket"
 
-- Double Click PHP Manager
+- Double-click "PHP Manager" -> Under PHP Extensions, click on Enable or Disable an extension
+
+
+<br>
+
+pic 27:58
+  
+<br>
+
+- Look for and enable these 3 extensions:
+
+- php_impap.dll, This is for mail
+
+- php.int.dll is referred to as international for localization.
+
+- And finally php_opache.dll 
 
 
 <h2>&#9326; Refresh osTicket</h2>
