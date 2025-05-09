@@ -571,6 +571,11 @@ pic 27:58
 <br>
 
 - Some of the Extensions are not enabled
+ 
+- Re-open IIS -> go to "sites" -> go to "Default Web Site" -> click on "osTicket"
+
+- Double Click PHP Manager
+
 
 <h2>&#9326; Refresh osTicket</h2>
 
