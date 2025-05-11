@@ -585,28 +585,32 @@ pic 27:58
 
 - Look for and enable these 3 extensions:
 
-- php_impap.dll, This is for mail
+- php_impap.dll, This extension enables IMAP, POP3, and NNTP email functions in PHP. It’s used when your app (like osTicket) needs to connect to and read emails from a mailbox, such as fetching tickets from an email inbox.
 
-- php.int.dll is referred to as international for localization.
+- php_intl.dll is the PHP extension for Internationalization (Intl). It provides tools for formatting dates, times, numbers, currencies, and handling text in different languages and locales.
 
-- And finally php_opache.dll 
+- Finally, php_opcache.dll is a tool that speeds up PHP by caching compiled scripts in memory. This reduces server load and makes apps like osTicket run faster.
 
-
-<h2>&#9326; Refresh osTicket</h2>
-
-<p>After refreshing your web browser on osTicket, notice how more features are now available to use.</p>
-<img width="608" alt="OSticket changes" src="https://imgur.com/bdJ05kP.png">
 <br>
+
+pic 30:08
+  
 <br>
+
 
 <h2>&#9327; Rename ost-config.php</h2>
 
-<p> Under c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php, rename "ost-sampleconfig.php" to "ost-config.php"</p>
-<img width="527" alt="ostconfig rename" src="https://imgur.com/yP1YTT0.png">
-<br>
 <br>
 
-<h3>&#12882; Change ost-config.php permissions</h3>
+- Go to file explorer -> Click Windows (c:) -> Click inetpub -> Click wwwwroot -> Click osTicket
+
+- Click include -> Scroll down to "ost-sampleconfig.php" -> Right-click it and press "rename"
+
+- 
+
+<br>
+
+<h2>&#9328; Change ost-config.php permissions</h2>
 
 <p>Change ost-config.php permissions (right click)</p>
 <p>Properties -> Security -> Advance -> Disable Inheritance</p> 
