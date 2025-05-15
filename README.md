@@ -598,15 +598,27 @@ pic 30:08
 <br>
 
 
-<h2>&#9327; Rename ost-config.php</h2>
+<h2>&#9326; Rename ost-config.php/ Assign Permissions to it</h2>
 
 <br>
 
 - Go to file explorer -> Click Windows (c:) -> Click inetpub -> Click wwwwroot -> Click osTicket
 
-- Click include -> Scroll down to "ost-sampleconfig.php" -> Right-click it and press "rename"
+- Click the "include" folder -> Scroll down to "ost-sampleconfig.php" -> Right-click it and press "rename"
 
-- 
+- Name it exactly ost-config.php DO NOT mess this step up
+
+- Now you have to assign permissions specifically for OS ticket so you're able to make changes to this file on the backend 
+
+<br>
+
+pic 31:16
+  
+<br>
+
+- Go to the file -> Right-Click it -> go to "Properties" -> Click on "Security" -> - Click "Advanced" -> Click "Disable Inheritance", this will remove all the current permissions -> Click "Remove all inherited permissions from this object"
+
+- Click "Add" -> Click "select a principal" at the top
 
 <br>
 
