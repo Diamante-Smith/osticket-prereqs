@@ -626,18 +626,24 @@ pic 31:16
 
 <h2>&#9328; Continue osTicket installation </h2>
 
+<br> 
+
+pic 32:31
+  
 <br>
 
-- 
+- Go back to the osTicket website -> Click on "Continue"
+
+- For "Helpdesk Name," name it whatever you like -> The email portion shouldn't matter
+
+- For Admin user, put your name -> Email address has to be different for the Admin from the one at the top 
+
+<br>
+32:51
 
 <h2>&#9329; </h2>
 
-<p> Continue through osTicket filling out only the first half of the page to this point.</p>
-<img width="611" alt="osticket signup" src="https://imgur.com/m7WratO.png">
-<br>
-<br>
-<p><strong>NOTE: The database credentials we'll fill out later.</strong> </p>
-<br>
+
 
 <h3>&#12884; Download and install Heidi SQL from the installation files</h3>
 
