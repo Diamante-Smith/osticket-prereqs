@@ -616,20 +616,21 @@ pic 31:16
   
 <br>
 
-- Go to the file -> Right-Click it -> go to "Properties" -> Click on "Security" -> - Click "Advanced" -> Click "Disable Inheritance", this will remove all the current permissions -> Click "Remove all inherited permissions from this object"
+- Right-Click on the file "ost-config.php"-> go to "Properties" -> Click on "Security" -> - Click "Advanced" -> Click "Disable Inheritance", this will remove all the current permissions -> Click "Remove all inherited permissions from this object"
 
-- Click "Add" -> Click "select a principal" at the top
+- To add new permissions, click on "ADD" -> Click "Select a principal" -> At the bottom, where it says "Enter the object name," type in "everyone" for this project, then hit OK
+
+- Press/ checkmark "Full control" -> Press Apply -> hit OK and press OK again
 
 <br>
 
-<h2>&#9328; Change ost-config.php permissions</h2>
+<h2>&#9328; Continue osTicket installation </h2>
 
-<p>Change ost-config.php permissions (right click)</p>
-<p>Properties -> Security -> Advance -> Disable Inheritance</p> 
-<p>Select "remove all inherited permissions" and add everyone as a principal. Select all boxes to ensure all permissions are granted. </p>
-<img width="571" alt="Permissions" src="https://imgur.com/mANNCMT.png">
+<br>
 
-<h3>&#12883; Continue osTicket installation</h3>
+- 
+
+<h2>&#9329; </h2>
 
 <p> Continue through osTicket filling out only the first half of the page to this point.</p>
 <img width="611" alt="osticket signup" src="https://imgur.com/m7WratO.png">
