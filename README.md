@@ -636,11 +636,19 @@ pic 32:31
 
 - For "Helpdesk Name," name it whatever you like -> The email portion shouldn't matter
 
-- For Admin user, put your name -> Email address has to be different for the Admin from the one at the top 
+- For Admin user, put your name -> The Admin User email address has to be different from the Default Email at the top
+  
+- Copy down the username and password; I'm gonna go with "adminuser" for the username and "Password 1" for the Password
 
+  
+
+<br> 
+
+pic 34:07
+  
 <br>
-32:51
 
+- Go back to Desktop -> Right click the files and click on File Explorer -> Click
 <h2>&#9329; </h2>
 
 
