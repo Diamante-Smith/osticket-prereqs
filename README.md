@@ -654,23 +654,26 @@ pic 34:07
 
 - Open up the "osTicket-Installation-Files"
              
+
+<br> 
+
+pic 34:32
+  
 <br>
-
-
 
 
 <h2>&#9329; Download and install HeidiSQL from the installation files</h2>
 
 - "HeidiSQL" is an application that allows us to make a connection to our database and configure and do some stuff in there
 
-<br> 
+- Double click the HeidiSQL file -> Once you open that up -> keep clicking through the file by pressing "Next"
 
-pic 34:39
-  
-<br>
+-  Make sure to check mark launch HeidiSQL and finish -> Press skip
 
-- Open HeidiSQL and create a new session. Make sure to fill in the username as root and create a password. After filling up your credentials, now click open and a new session should show up.
-</p>
+
+- With HeidiSQL We are going to make a connection to our database and then set up a database for osTicket to use
+
+
 
 <h3>&#12885; Create new database </h3>
 
