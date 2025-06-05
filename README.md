@@ -671,24 +671,41 @@ pic 34:32
 -  Make sure to check mark launch HeidiSQL and finish -> Press skip
 
 
-- With HeidiSQL We are going to make a connection to our database and then set up a database for osTicket to use
+- With HeidiSQL, we are going to make a connection to our database and then set up a database for osTicket to use
 
 
 
-<h3>&#12885; Create new database </h3>
+<h2>&#12885; Create new database </h2>
 
-<p>On the left side of the window, right click on "Unnamed" and create a new database named "osTicket".</p>
-<img width="512" alt="SQL" src="https://imgur.com/AbElzBn.png">
+<br> 
+
+pic 35:08
+  
 <br>
+
+- For this step, we are going to make a connection to our database, set up a database for osTicket to use
+
+- Click new -> In user type in "root", the password will also be "root" as well -> Click on Open
+
+- This opened a connection to our database
+
+- Right click on where it says "Unnamed" -> Go to create new -> Then click on "Database"
+
+- Type in the name exactly, osTicket -> Click "ok"
+
+<h2>&#12886; Finish osTicket Sign-Up</h2>
+
+<br> 
+
+pic 36:25
+  
 <br>
 
-<h3>&#12886; Finish osTicket Sign-Up</h3>
-
-<p>Revert back to your osTicket browser and fill out the incomplete credentials.</p>
-<img width="375" alt="osticket final signup" src="https://imgur.com/B2A1SMM.png">
+- Go back to the browser
 
 
-<h3>&#12887; Finalize osTicket installation</h3>
+
+<h2>&#12887; Finalize osTicket installation</h2>
 
 <p>Click install and osTicket should begin to setup. </p>
 
