@@ -701,13 +701,22 @@ pic 36:25
   
 <br>
 
-- Go back to the browser
+- Go back to the browser and go to the Database settings
 
+- Under MySQL Database, type in "osTicket"
+
+- Under MySQL Username, type in "root" and for the password type in "root" -> Click "install now" to finalize everything
 
 
 <h2>&#12887; Finalize osTicket installation</h2>
 
-<p>Click install and osTicket should begin to setup. </p>
+<br> 
+
+pic 37:14
+  
+<br>
+
+-
 
 
 <br>
