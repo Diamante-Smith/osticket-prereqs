@@ -655,14 +655,16 @@ pic 34:07
 - Open up the "osTicket-Installation-Files"
              
 
+<br>
+
+
+<h2>&#9329; Download and install HeidiSQL from the installation files</h2>
+
 <br> 
 
 pic 34:32
   
 <br>
-
-
-<h2>&#9329; Download and install HeidiSQL from the installation files</h2>
 
 - "HeidiSQL" is an application that allows us to make a connection to our database and configure and do some stuff in there
 
@@ -672,6 +674,8 @@ pic 34:32
 
 
 - With HeidiSQL, we are going to make a connection to our database and then set up a database for osTicket to use
+
+<br>
 
 
 
@@ -693,7 +697,9 @@ pic 35:08
 
 - Type in the name exactly, osTicket -> Click "ok"
 
-<h2>&#12886; Finish osTicket Sign-Up</h2>
+<br>
+
+<h2>&#12887; Finalize osTicket installation</h2>
 
 <br> 
 
@@ -701,31 +707,27 @@ pic 36:25
   
 <br>
 
-- Go back to the browser and go to the Database settings
+- Go back to the browser and go to the Database settings, like the osTicket set up
 
 - Under MySQL Database, type in "osTicket"
+
 
 - Under MySQL Username, type in "root" and for the password type in "root" -> Click "install now" to finalize everything
 
 
-<h2>&#12887; Finalize osTicket installation</h2>
+<br>
+
+<h1>Congratulations!! &#127881; you just installed osTicket</h1>
 
 <br> 
 
-pic 37:14
+pic 36:25
   
 <br>
 
--
+<h1> Post-installation Setup</h1>
 
-
-<br>
-<br>
-<h1>Congratulations!! &#127881; you just installed osTicket</h1>
-
-
-
-
+- 
 
 
 
