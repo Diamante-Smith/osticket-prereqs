@@ -699,7 +699,7 @@ pic 35:08
 
 <br>
 
-<h2>&#9327; Finalize osTicket installation</h2>
+<h2>&#9330; Finalize osTicket installation</h2>
 
 <br> 
 
@@ -721,15 +721,19 @@ pic 36:25
 
 <br> 
 
-pic 36:25
-  
-<br>
+
 
 <h1> Post-installation Setup</h1>
 
 <br>
 
-<h2> &#9312; Finalize osTicket installation</h2>
+pic 02:35
+  
+<br>
+
+<h2> &#9312; Acknowledge the Agent vs Admin Panel then Configure Roles </h2>
+
+- 
 
 
 
