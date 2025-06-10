@@ -624,7 +624,7 @@ pic 31:16
 
 <br>
 
-<h2>&#9328; Continue osTicket installation </h2>
+<h2>&#9327; Continue osTicket installation </h2>
 
 <br> 
 
@@ -658,7 +658,7 @@ pic 34:07
 <br>
 
 
-<h2>&#9329; Download and install HeidiSQL from the installation files</h2>
+<h2>&#9328; Download and install HeidiSQL from the installation files</h2>
 
 <br> 
 
@@ -679,7 +679,7 @@ pic 34:32
 
 
 
-<h2>&#12885; Create new database </h2>
+<h2>&#9329; Create new database </h2>
 
 <br> 
 
@@ -699,7 +699,7 @@ pic 35:08
 
 <br>
 
-<h2>&#12887; Finalize osTicket installation</h2>
+<h2>&#9327; Finalize osTicket installation</h2>
 
 <br> 
 
@@ -727,8 +727,9 @@ pic 36:25
 
 <h1> Post-installation Setup</h1>
 
-- 
+<br>
 
+<h2> &#9312; Finalize osTicket installation</h2>
 
 
 
