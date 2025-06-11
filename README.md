@@ -725,17 +725,27 @@ pic 36:25
 
 <h1> Post-installation Setup</h1>
 
+
+
+<h2> &#9312; Acknowledge the Agent vs Admin Panel then Configure Roles </h2>
+
 <br>
 
 pic 02:35
   
 <br>
 
-<h2> &#9312; Acknowledge the Agent vs Admin Panel then Configure Roles </h2>
+- Roles are like teams that group permissions together and give specific people access to those permissions.
 
-- 
+- Click on Agents -> Click Roles -> The various roles are assigned distinct levels of access, each tailored to specific responsibilities. This structure ensures clarity regarding who has access to particular resources, thereby minimizing confusion.
 
+<br>
 
+pic 03:43
+
+<br>
+
+- If we click on the "View" Role
 
 
 
