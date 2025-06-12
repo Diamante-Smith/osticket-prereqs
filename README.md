@@ -717,7 +717,7 @@ pic 36:25
 
 <br>
 
-<h1>Congratulations!! &#127881; you just installed osTicket</h1>
+<h3>Congratulations!! &#127881; you just installed osTicket</h3>
 
 <br> 
 
@@ -725,7 +725,8 @@ pic 36:25
 
 <h1> Post-installation Setup</h1>
 
-
+<br>
+<br>
 
 <h2> &#9312; Acknowledge the Agent vs Admin Panel then Configure Roles </h2>
 
