@@ -10,6 +10,7 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -746,7 +747,14 @@ pic 03:43
 
 <br>
 
-- If we click on the "View" Role
+- If we click on the "View" Role -> Then click on "permissions" -> You will notice this role doesn't have anything checkmarked
+
+- But go back to "roles" -> Click on the "Expanded Access" role -> Click on
+
+'permission' only certain things are checked
+
+
+
 
 
 
