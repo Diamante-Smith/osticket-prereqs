@@ -761,6 +761,7 @@ pic 03:43
 pic 04:44
 
 <br>
+
 - You can create\ define your own roles
 
 - Click on "Agents" -> Click on "Roles" -> Click "Add New Role" -> you can name it Supreme Admin
