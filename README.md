@@ -751,8 +751,19 @@ pic 03:43
 
 - But go back to "roles" -> Click on the "Expanded Access" role -> Click on
 
-'permission' only certain things are checked
+'permissions' only certain things are checked
 
+- Go back to roles -> Click on "All Access" to verify that everything is checked
+
+ 
+<br>
+
+pic 04:44
+
+<br>
+- You can create\ define your own roles
+
+- Click on "Agents" -> Click on "Roles" -> Click "Add New Role" -> you can name it Supreme Admin
 
 
 
