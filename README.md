@@ -688,7 +688,7 @@ pic 35:08
   
 <br>
 
-- For this step, we are going to make a connection to our database, set up a database for osTicket to use
+- For this step, we are going to make a connection to our database and set up a database for osTicket to use
 
 - Click new -> In user type in "root", the password will also be "root" as well -> Click on Open
 
@@ -764,8 +764,27 @@ pic 04:44
 
 - You can create\ define your own roles
 
-- Click on "Agents" -> Click on "Roles" -> Click "Add New Role" -> you can name it Supreme Admin
+- Click on "Agents" -> Click on "Roles" -> Click "Add New Role" -> you can name it "Supreme Admin"
 
+- Click on "Permissions" and checkmark everything -> Click on "Tasks" and checkmark everything to let be capable of doing everything
+
+- Click on "Knowledgebase" and checkmark that as well -> after that is over, click on "Add Role"; this will solidify our new role for "Supreme Admin"
+
+<br>
+
+pic 05:55
+
+<br>
+
+- Next will be diving into "Departments," which is for ticket visibility
+
+- Make sure you're in the "Admin Panel" -> Click on "Departments" -> Click on "Add New Department"
+
+- Under the settings for Parent, keep it as "Support" -> Name it "SysAdmins" -> For type, make it public
+
+- For the rest of the settings, you can choose to keep them as is or you can configure it to your liking
+
+- Click on "Create Dept"
 
 
 
