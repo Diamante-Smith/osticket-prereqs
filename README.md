@@ -786,6 +786,14 @@ pic 05:55
 
 - Click on "Create Dept"
 
+<br>
+
+pic 05:55
+
+<br>
+
+- For teams, it's a group of people 
+
 
 
 
