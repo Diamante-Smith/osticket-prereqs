@@ -733,11 +733,27 @@ pic 36:25
 
 <br>
 
-pic 02:35
+pic 01:52
+  
+<br>
+
+- If you log in, you can see 2 different panels
+
+- The Sysadmin Panel lets you configure a bunch of settings on the backend for osTicket
+
+- The Agent Panel is if you're like a helpdesk worker and working on tickets
+
+- For the lab, we will go back and forth between the 2
+
+<br>
+
+pic 03:26
   
 <br>
 
 - Roles are like teams that group permissions together and give specific people access to those permissions.
+
+- Go to the Admin Panel
 
 - Click on Agents -> Click Roles -> The various roles are assigned distinct levels of access, each tailored to specific responsibilities. This structure ensures clarity regarding who has access to particular resources, thereby minimizing confusion.
 
@@ -782,7 +798,7 @@ pic 05:55
 
 - Under the settings for Parent, keep it as "Support" -> Name it "SysAdmins" -> For type, make it public
 
-- For the rest of the settings, you can choose to keep them as is or you can configure it to your liking
+- For the rest of the settings, you can choose to keep them as is, or you can configure them to your liking
 
 - Click on "Create Dept"
 
