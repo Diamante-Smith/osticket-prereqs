@@ -753,7 +753,7 @@ pic 03:26
 
 - Roles are like teams that group permissions together and give specific people access to those permissions.
 
-- Go to the Admin Panel
+- Go to the Admin Panel or make sure you are in the Admin panel to verify, look at the top right portion, and if you see Agent Panel, then you are currently in the Admin Panel
 
 - Click on Agents -> Click Roles -> The various roles are assigned distinct levels of access, each tailored to specific responsibilities. This structure ensures clarity regarding who has access to particular resources, thereby minimizing confusion.
 
