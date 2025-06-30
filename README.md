@@ -784,7 +784,7 @@ pic 04:44
 
 - Click on "Permissions" and checkmark everything -> Click on "Tasks" and checkmark everything to let be capable of doing everything
 
-- Click on "Knowledgebase" and checkmark that as well -> after that is over, click on "Add Role"; this will solidify our new role for "Supreme Admin"
+- Click on "Knowledgebase" and checkmark "Premade" as well -> after that is over, click on "Add Role"; this will solidify our new role for "Supreme Admin"
 
 <br>
 
@@ -792,7 +792,7 @@ pic 05:55
 
 <br>
 
-- Next will be diving into "Departments," which is for ticket visibility
+- Next will be diving into "Departments," which is for ticket visibility, for instance, you can assign the Networking department a ticket so that only they should be able to look at it
 
 - Make sure you're in the "Admin Panel" -> Click on "Departments" -> Click on "Add New Department"
 
@@ -804,11 +804,15 @@ pic 05:55
 
 <br>
 
-pic 05:55
+pic 07:30
 
 <br>
 
-- For teams, it's a group of people 
+- For teams, it's a group of people from different departments
+
+- Make sure you're in the Admin panel -> Click Agent, then Teams
+
+- Press Add New Team
 
 
 
