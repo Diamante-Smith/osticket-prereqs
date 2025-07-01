@@ -814,6 +814,21 @@ pic 07:30
 
 - Press Add New Team
 
+- Name: put online banking and leave the rest settings as default -> Click on "Create Team"
+
+<br>
+
+<h2> &#9313; Allow end users the ability to create tickets on there own</h2>
+
+
+  
+<br>
+
+pic 08:10
+
+<br>
+
+- 
 
 
 
