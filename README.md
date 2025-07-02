@@ -821,14 +821,30 @@ pic 07:30
 <h2> &#9313; Allow end users the ability to create tickets on their own</h2>
 
 
-  
 <br>
 
 pic 08:10
 
 <br>
 
-- With this setting, it allows people to create tickets even though they are not registered in the system yet 
+- With this setting, it allows people to create tickets even though they are not registered in the system yet
+
+- Go to the Admin panel -> Click "Settings" at the top -> Click "Users" -> * For this important step, make sure to uncheck "Registration Required"
+
+
+<h2> &#9314; Configure Agents</h2>
+
+<br>
+
+pic 09:03
+
+<br>
+
+- Agents are the actual workers
+
+- In the Admin panel, click on "Agents" -> Click on "Add New Agent"
+
+- Type in 
 
 
 
