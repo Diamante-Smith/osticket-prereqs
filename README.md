@@ -818,7 +818,7 @@ pic 07:30
 
 <br>
 
-<h2> &#9313; Allow end users the ability to create tickets on there own</h2>
+<h2> &#9313; Allow end users the ability to create tickets on their own</h2>
 
 
   
@@ -828,7 +828,7 @@ pic 08:10
 
 <br>
 
-- 
+- With this setting, it allows people to create tickets even though they are not registered in the system yet 
 
 
 
