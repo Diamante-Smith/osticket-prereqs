@@ -844,7 +844,11 @@ pic 09:03
 
 - In the Admin panel, click on "Agents" -> Click on "Add New Agent"
 
-- Type in 
+- Type in "Jane Doe" for first and last name -> Email address type in "Jane@lognpacific.com"
+
+- For Username type in "jane"
+
+- Click on "Set Password"
 
 
 
