@@ -846,11 +846,22 @@ pic 09:03
 
 - Type in "Jane Doe" for first and last name -> Email address type in "Jane@lognpacific.com"
 
-- For Username type in "jane"
+- For Username type in "jane", don't forget to write down the username and password for later
 
-- Click on "Set Password"
+- Click on "Set Password."
 
 
+<br>
+
+pic 10:21
+
+<br>
+
+- At the top, left click on "Access"
+
+- We will make Jane Doe a Supreme Admin and have access to everything
+
+- Under assigned Teams, put in Online Banking
 
 
 
