@@ -857,12 +857,21 @@ pic 10:21
 
 <br>
 
-- At the top, left click on "Access"
+- At the top, left click on "Access" to see what lies in there
 
-- We will make Jane Doe a Supreme Admin and have access to everything
+- Under the primary Department section, click on "Sysadmins" -> Under
+- "Role," we will make Jane Doe a Supreme Admin and have access to everything
 
-- Under assigned Teams, put in Online Banking
+- Under assigned Teams, put her in Online Banking
 
+
+<br>
+
+pic 11:03
+
+<br>
+
+- Go back to agents, we will be creating another pers
 
 
 
