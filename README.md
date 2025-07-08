@@ -871,7 +871,9 @@ pic 11:03
 
 <br>
 
-- Go back to agents, we will be creating another pers
+- Go back to agents, we will be creating another person
+
+- Click on Agents 
 
 
 
