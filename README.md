@@ -871,12 +871,23 @@ pic 11:03
 
 <br>
 
-- Go back to agents, we will be creating another person
+- Go back to Agents, we will be creating another person
 
-- Click on Agents 
+- Click on "Agents" -> Click "Add New Agent" -> Type in "John Doe"
 
+- For the fake email, type in "john@lognpacific.com" -> Username will be "john"
 
+- His access once you click on "Access" under "Primary Department", click on "Support" -> For Role, click on "View Only" for this lab
 
+- Under "Permissions," leave everything as is -> Finally, click on "Create"
+
+<br>
+
+pic 12:03
+
+<br>
+
+-
 
 
 
