@@ -831,6 +831,7 @@ pic 08:10
 
 - Go to the Admin panel -> Click "Settings" at the top -> Click "Users" -> * For this important step, make sure to uncheck "Registration Required"
 
+<br>
 
 <h2> &#9314; Configure Agents</h2>
 
@@ -883,11 +884,31 @@ pic 11:03
 
 <br>
 
+<h2> &#9315; Set Passwords</h2>
+
+<br>
+
 pic 12:03
 
 <br>
 
--
+- *Go to Jane to see if you can set their password
+
+- Click on "Set Password" -> Uncheck once where it says "Send the agent a password reset email" -> That should allow you to create your password
+
+- For both Jane and John, I typed in "Password1" as my password for them
+
+- Uncheck where it says "Require password change at next login" and click on update
+
+- Then do the same steps for John
+
+<h2> &#9316; Create a User</h2>
+
+<br>
+
+pic 13:34
+
+<br>
 
 
 
