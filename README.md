@@ -910,9 +910,20 @@ pic 13:34
 
 <br>
 
-- Go to the Agent Panel -> Click on "Users" -> Click "Add User"
+- Go to the "Agent Panel" -> Click on "Users" -> Click "Add User"
 
-- Type in the fake, made-up email "karen@lognpacific.com
+- Type in the fake, made-up email "karen@lognpacific.com"
+
+- For Full name type "Karen" -> Click on "Add User" -> don't forget to write down the passwords and users for later to remember
+
+
+<br>
+
+pic 14:38
+
+<br>
+  
+- Just to remember
 
 
 
