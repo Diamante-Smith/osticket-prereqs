@@ -923,7 +923,9 @@ pic 14:38
 
 <br>
   
-- Just to remember
+- Just to remember, SLA's are service level agreements, it's how much time you have to do some specific task, whether it's to respond to a ticket or completing a ticket, and more
+
+- Go back to the Admin panel -> Click on Manage -> Click on SLA -> Click on "Add New SLA Plan"
 
 
 
