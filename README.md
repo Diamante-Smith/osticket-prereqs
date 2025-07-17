@@ -928,7 +928,29 @@ pic 14:38
 - Go back to the Admin panel -> Click on Manage -> Click on SLA -> Click on "Add New SLA Plan"
 
 
+- We are going to make 3, Sev A for a really bad problem, Sev B for a slightly less bad problem, and Sev C for even something less bad
 
+<br>
+
+pic 15:23
+
+<br>
+
+- In the new SLA plan, type in "Sev-A" for name, for status, press "Active"
+
+- Grace period, which is the number of hours after a ticket is created that it will be automatically marked as overdue
+
+- We will place a 1 in hours, and for schedule select 24/7, so for example, the ticket needs to be responded to in 1 hour -> after that, click on "Add Plan"
+
+<br>
+
+pic 16:44
+
+<br>
+
+- Click on "Add New SLA Plan" -> Type in "Sev-B" for name -> keep the status as "Active"
+
+- For grace period
 
 
 
