@@ -919,6 +919,10 @@ pic 13:34
 
 <br>
 
+<h2> &#9316; Configure SLA</h2>
+
+<br>
+
 pic 14:38
 
 <br>
@@ -950,7 +954,29 @@ pic 16:44
 
 - Click on "Add New SLA Plan" -> Type in "Sev-B" for name -> keep the status as "Active"
 
-- For grace period
+- For the grace period, make it 4hrs -> for the schedule, make it 24/7 -> Then press "Add plan"
+
+<br>
+
+pic 17:06
+
+<br>
+
+- Click on "Add New SLA Plan" -> Type in "Sev-C" for name -> keep the status as "Active"
+
+- For the grace period, make it 8hrs -> for the schedule, make it normal business hrs Mon-Fri -> Then press "Add plan"
+
+<h2> &#9316; Configure Help Topics</h2>
+
+<br>
+
+pic 17:57
+
+<br>
+
+- Go to Admin panel -> Manage -> Help Topics -> Click on "Add new help topic"
+
+- For Topic type in 
 
 
 
