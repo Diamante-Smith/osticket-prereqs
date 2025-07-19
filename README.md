@@ -988,7 +988,9 @@ pic 18:30
 
 - We are going to make more, so again, click on "Add new help topic"
 
-- Type in for topic
+- Type in for topic "Personal Computer Issues" -> Status press "Active" -> Type will be Public
+
+- For parent Topic
 
 
 
