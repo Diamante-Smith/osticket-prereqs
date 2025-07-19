@@ -978,7 +978,7 @@ pic 17:57
 
 - For Topic type in "Business Critical Outage" -> Status select Active -> Type press "Public"
 
-- For parent topic select "Report a Problem"
+- For parent topic select "Report a Problem" -> Click on "Add Topic"
 
 <br>
 
@@ -988,10 +988,48 @@ pic 18:30
 
 - We are going to make more, so again, click on "Add new help topic"
 
-- Type in for topic "Personal Computer Issues" -> Status press "Active" -> Type will be Public
+- Type in for topic "Personal Computer Issues" -> Status press "Active" -> The type will be
+"Public"
 
-- For parent Topic
+- For parent topic select "Report a Problem" -> Click on "Add Topic"
 
+<br>
+
+pic 18:51
+
+<br>
+
+- Click on "Add new help topic"
+
+- Type in for topic "Equipment Request" -> Status press "Active" -> The type will be
+"Public"
+
+- For parent topic select "General Inquiry" -> Click on "Add Topic"
+
+<br>
+
+pic 19:16
+
+<br>
+
+- Click on "Add new help topic"
+
+- Type in for topic "Password Reset" -> Status press "Active" -> The type will be
+"Public"
+
+- For parent topic select "Report a Problem" -> Click on "Add Topic"
+
+<br>
+
+pic 19:38
+
+<br>
+
+- Click on "Add new help topic"
+
+- For this last one, type in for topic "Other" -> Status press "Active" -> The type will be "Public"
+
+- For parent topic select "General Inquiry" -> Click on "Add Topic"
 
 
 
