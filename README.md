@@ -976,7 +976,19 @@ pic 17:57
 
 - Go to Admin panel -> Manage -> Help Topics -> Click on "Add new help topic"
 
-- For Topic type in 
+- For Topic type in "Business Critical Outage" -> Status select Active -> Type press "Public"
+
+- For parent topic select "Report a Problem"
+
+<br>
+
+pic 18:30
+
+<br>
+
+- We are going to make more, so again, click on "Add new help topic"
+
+- Type in for topic
 
 
 
