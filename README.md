@@ -1031,6 +1031,18 @@ pic 19:38
 
 - For parent topic select "General Inquiry" -> Click on "Add Topic"
 
+<br>
+
+pic 02:01
+
+<br>
+
+* - Copy and paste this URL into the browser on your virtual lab, not your actual browser
+
+- Log in with your Admin User credentials
+
+- For this one, we are gonna go to the Admin panel -> Click on "Agents"
+
 
 
 
