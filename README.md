@@ -1033,15 +1033,22 @@ pic 19:38
 
 <br>
 
+pic 01:30
+
+<br>
+
+- http://localhost/osTicket/scp/login.php
+Copy and paste this URL into the browser on your virtual lab, not your actual browser
+
+- Log in with your Admin User credentials
+
+<br>
+
 pic 02:01
 
 <br>
 
-* - Copy and paste this URL into the browser on your virtual lab, not your actual browser
-
-- Log in with your Admin User credentials
-
-- For this one, we are gonna go to the Admin panel -> Click on "Agents" at the top -> Go to "Departments"
+- For this one, we are gonna go to the Admin panel -> Click on "Agents" at the top -> Click on "Departments"
 
 * - Click on the "Maintenance" Department -> Status click on "Disabled" -> For type you will press Public
  
