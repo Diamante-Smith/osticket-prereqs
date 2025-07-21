@@ -1041,7 +1041,11 @@ pic 02:01
 
 - Log in with your Admin User credentials
 
-- For this one, we are gonna go to the Admin panel -> Click on "Agents"
+- For this one, we are gonna go to the Admin panel -> Click on "Agents" at the top -> Go to "Departments"
+
+* - Click on the "Maintenance" Department -> Status click on "Disabled" -> For type you will press Public
+ 
+  - 
 
 
 
