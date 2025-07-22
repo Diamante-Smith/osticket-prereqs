@@ -1052,7 +1052,15 @@ pic 02:01
 
 * - Click on the "Maintenance" Department -> Status click on "Disabled" -> For type you will press Public
  
-  - 
+- For everything else, leave it as is and click on "save changes"
+
+<br>
+
+pic 02:45
+
+<br>
+
+- Go back to agents, then click on Departments -> Click on 
 
 
 
