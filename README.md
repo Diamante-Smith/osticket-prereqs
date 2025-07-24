@@ -1060,7 +1060,17 @@ pic 02:45
 
 <br>
 
-- Go back to agents, then click on Departments -> Click on 
+- Go back to agents, then click on Departments -> Click on SYSAdmins
+
+- Make sure "Parent" is set to "Top Level Department," then scroll down to the bottom and click on "Save changes"
+
+<br>
+
+pic 03:15
+
+<br>
+
+- 
 
 
 
