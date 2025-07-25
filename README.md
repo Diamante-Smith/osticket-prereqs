@@ -1066,11 +1066,11 @@ pic 02:45
 
 <br>
 
-pic 03:15
+pic 03:12
 
 <br>
 
-- 
+- Log out of the current user you are using in osTicket
 
 
 
