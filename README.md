@@ -1074,7 +1074,35 @@ pic 03:12
 
 - Log out of the current user you are using in osTicket
 
-- Press the browser for a new tab and paste this URL in it 
+- Press the browser for a new tab and paste this URL in it http://localhost/osTicket
+
+<br>
+
+pic 03:24
+
+<br>
+
+- Click on "Open a New Ticket", our end user will be Karen
+
+- Type in the email address "karen@lognpacific.com" -> put in whatever random phone number
+
+- For the Help topic, select "Report a problem" -> for the issue summary type in "Entire mobile/online banking system is down
+
+- Under that type in "My employees are reporting that users are no longer able to access the online banking portal, and the ones who can occasionally access it cannot log in
+
+- Click on "Create Ticket
+
+<br>
+
+pic 05:12
+
+<br>  
+
+- Press the browser for a new tab and paste this URL into it because we are going to log in as John http://localhost/osTicket/scp/login.php
+
+- If you have to change the password if prompted, go ahead and do so, just make sure to write it down
+
+-               
 
 
 
