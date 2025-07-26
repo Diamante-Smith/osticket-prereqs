@@ -1090,7 +1090,7 @@ pic 03:24
 
 - Under that type in "My employees are reporting that users are no longer able to access the online banking portal, and the ones who can occasionally access it cannot log in
 
-- Click on "Create Ticket
+- Click on "Create Ticket"
 
 <br>
 
