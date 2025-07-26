@@ -1070,7 +1070,11 @@ pic 03:12
 
 <br>
 
+- For this step, we will be making a ticket as an end user
+
 - Log out of the current user you are using in osTicket
+
+- Press the browser for a new tab and paste this URL in it 
 
 
 
