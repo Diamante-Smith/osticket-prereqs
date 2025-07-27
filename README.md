@@ -1102,8 +1102,17 @@ pic 05:12
 
 - If you have to change the password if prompted, go ahead and do so, just make sure to write it down
 
--               
+- You will notice your first ticket, we will be observing the stuff that is in this ticket
 
+<br>
+
+pic 08:22
+
+<br>
+
+- Look at the top portion of the ticket, its priority is normal
+
+- The department is now "support" -> The SLA is "Default SLA"
 
 
 
