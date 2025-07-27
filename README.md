@@ -1110,9 +1110,31 @@ pic 08:22
 
 <br>
 
-- Look at the top portion of the ticket, its priority is normal
+- Look at the top portion of the ticket, its priority was defaulted to normal 
 
-- The department is now "support" -> The SLA is "Default SLA"
+- The department is now "support" -> The SLA is defaulted to "Default SLA" -> Assigned to is "Unassigned"
+
+- Usually, a new ticket will have lots of default settings on it and not have a user assigned to it unless the end user has the ability to assign it to a help desk admin or something
+
+<br>
+
+pic 10:42
+
+<br>
+
+- We are going to update the SLA plan for this ticket as its a major issue
+
+- Click on "Default SLA" -> Click on "Sev-A" -> Type in "wide impact, customers unable to do online banking" for the description
+
+- Click on "Update"
+
+<br>
+
+pic 11:32
+
+<br>
+
+- 
 
 
 
