@@ -1130,9 +1130,25 @@ pic 10:42
 
 <br>
 
-pic 11:32
+pic 11:28
 
 <br>
+
+- Click on "Help topic: report a problem"
+
+- Under Help Topic, under the drop-down, click on "Report a Problem/ Business Critical Outage"
+
+- For the description type in "No Customer is able to access online banking" -> Click on "Update"
+
+- Once you refresh the ticket as you scroll down, you will see the history of the ticket, who worked on it when, and what changed
+
+<br>
+
+pic 12:28
+
+<br>
+
+- Click on "Assigned To" you will see indidviduals you can assign the ticket to
 
 - 
 
