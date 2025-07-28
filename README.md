@@ -1148,12 +1148,35 @@ pic 12:28
 
 <br>
 
-- Click on "Assigned To" you will see indidviduals you can assign the ticket to
+- Click on "Assigned To", you will see assignees you can designate the ticket to, such as individuals or teams
+
+- Click on "Online Banking" -> In the description type, "the customer is not able to access the online banking portal assigning to online banking team"
+
+- Then Click "Assign"
+
+- Some permissions were made in the beginning so certain people could not see specific tickets just a heads up, if you wanted to have certain users not be able to see certain tickets
+
+<br>
+
+pic 14:51
+
+<br>
+
+- Log out of John's account, then log in as Jane
+
+- Click on the online/ banking ticket that shows up when you log in
+
+- Click on "Online Banking" -> click on Jane Doe under assignee, as we are going to assign it to Jane
+
+- For the description type in "I'll be taking this ticket" -> Click on "Assign" -> now it's specifically assigned to Jane
+
+<br>
+
+pic 15:41
+
+<br>
 
 - 
-
-
-
 
 
 
