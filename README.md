@@ -1176,7 +1176,9 @@ pic 15:41
 
 <br>
 
-- 
+- Scroll down to the bottom of the ticket
+
+- For the post reply, put in the description 
 
 
 
