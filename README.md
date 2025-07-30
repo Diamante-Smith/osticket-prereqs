@@ -1178,7 +1178,9 @@ pic 15:41
 
 - Scroll down to the bottom of the ticket
 
-- For the post reply, put in the description 
+- For the post reply, put in the description "I suspect the problem might be related to the recent updates we tested them sufficiently, but I'm going to look into it further and roll them back if I determine that was the cause
+
+- 
 
 
 
