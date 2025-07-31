@@ -1178,9 +1178,19 @@ pic 15:41
 
 - Scroll down to the bottom of the ticket
 
-- For the post reply, put in the description "I suspect the problem might be related to the recent updates we tested them sufficiently, but I'm going to look into it further and roll them back if I determine that was the cause
+- For the post reply, put in the description, "I suspect the problem might be related to the recent updates. We tested them sufficiently, but I'm going to look into it further and roll them back if I determine that was the cause."
 
-- 
+- Click on "Post Reply"
+
+- Whenever you reply to a thread in an email ticket, all the people subscribed to the ticket usually will get emails whenever something is updated or someone makes a remark
+
+- And you can see a trail of replies/ activity that has been taking place to resolve an issue
+
+<br>
+
+pic 
+
+<br>
 
 
 
