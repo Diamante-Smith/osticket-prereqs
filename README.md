@@ -1182,20 +1182,59 @@ pic 15:41
 
 - Click on "Post Reply"
 
-- Whenever you reply to a thread in an email ticket, all the people subscribed to the ticket usually will get emails whenever something is updated or someone makes a remark
+- Whenever you reply to a thread in an email ticket, all the people subscribed to the ticket usually will get emails whenever something is updated or someone makes a comment
 
 - And you can see a trail of replies/ activity that has been taking place to resolve an issue
 
 <br>
 
-pic 
+pic 17:22
 
 <br>
 
+- We will act like we went to the back end and checked out online banking as Jane and figured that the problem was a recent update that was installed, then we uninstalled the update and rolled back the system, and that fixed the issue
 
+- For the post reply, put in the description, "It was determined that the root cause was the recent update. We rolled it back, notified the vendor, and are waiting for a proper fix. Online banking should now be up and running.
+        
+- Click "Post reply" -> Go to the top, click on "Open" for the status, set the ticket to "Resolved
 
+- To check previously closed tickets, you would have to sign in as the admin user, go to tickets, then closed, and click on yesterday or any of the previous days
 
+<br>
 
+pic 19:46
+
+<br>
+
+- Go back to the end-user portal to create a new ticket http://localhost/osTicket
+
+- For the email address, since we made 2 end users, this one is for Ken, put in his email address "ken@lognpacific.com"
+
+- Put in whatever random phone number -> For the Help topic, select "General inquiry / other"
+  
+- Click on "create Ticket" -> For the issue summary, type in "Accounting department needs Adobe upgrade"
+
+- For the description type in "it looks like many people in the account department can't use their Adobe software"
+
+- It's good to inspect before upgrading what the end user wants, because it could be a simple matter where they just don't have access to the software right now
+
+<br>
+
+pic 21:18
+
+<br>
+
+- We will log in as John to look at this new ticket
+
+- Then we see the ticket come through from Ken -> Click on it
+
+- When inspecting further on the customer to better understand what they want, it's best to email them, especially if their contact listed on their ticket
+
+<br>
+
+pic 22:51
+
+<br>
 
 
 
