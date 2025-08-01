@@ -1228,13 +1228,23 @@ pic 21:18
 
 - Then we see the ticket come through from Ken -> Click on it
 
-- When inspecting further on the customer to better understand what they want, it's best to email them, especially if their contact listed on their ticket
+- When inspecting further on the customer to better understand what they want, it's best to email them, especially if their contact information is listed on their ticket
 
 <br>
 
 pic 22:51
 
 <br>
+
+- After gaining further infoto take the next course, you can click on the blue link next to SLA Plan
+
+- We changed the SLA to Sev-C -> At the bottom, type in the description "Only 2 people unable to open Adobe Reader, Classifying as Sev-C since the impact isn't so bad
+
+- Click on "Department" as we will be assigning it to the "Support Team"
+
+- And next to "Assign to," click on the blue link on the pop-up up select "John Doe"
+
+- In the "Post reply" description type in "CX states
 
 
 
