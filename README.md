@@ -1236,7 +1236,7 @@ pic 22:51
 
 <br>
 
-- After gaining further infoto take the next course, you can click on the blue link next to SLA Plan
+- After gaining further information, to take the next course, you can click on the blue link next to SLA Plan
 
 - We changed the SLA to Sev-C -> At the bottom, type in the description "Only 2 people unable to open Adobe Reader, Classifying as Sev-C since the impact isn't so bad
 
@@ -1244,7 +1244,21 @@ pic 22:51
 
 - And next to "Assign to," click on the blue link on the pop-up up select "John Doe"
 
-- In the "Post reply" description type in "CX states
+- In the "Post reply" description, type in "Customer states that only two people in the accounting department are unable to open and use Adobe Reader. Customer testing restart, will call back after lunch."
+
+- Then click "Post Reply"
+
+<br>
+
+pic 24:46
+
+<br>
+
+- In the scenario, we wait for some hrs for the customer to reach back out to us, then we take lunch as time rolls on, and then Ken calls back, he restarted the computer, and everything is working again with no issues
+
+- For the description reply, we make a note saying "customer states that a restart fixed the issue, closing out ticket."
+
+- Then click "Post Reply"
 
 
 
