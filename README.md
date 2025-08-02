@@ -1260,6 +1260,30 @@ pic 24:46
 
 - Then click "Post Reply"
 
+<br>
+
+pic 25:38
+
+<br>
+
+- Click on the ticket we just did -> And scroll down towards the bottom portion where it says "Post Internal Note"
+
+- These are notes that the customers can't see             
+
+- Always assume these notes will be looked at or can be viewed by a customer
+
+- SO please act professional when writing Internal note to your fellow coworkers
+
+
+<br>
+
+pic 27:32
+
+<br>
+
+- Lets now go to status
+
+
 
 
 
