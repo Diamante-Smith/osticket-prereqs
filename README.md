@@ -1272,7 +1272,7 @@ pic 25:38
 
 - Always assume these notes will be looked at or can be viewed by a customer
 
-- SO please act professional when writing Internal note to your fellow coworkers
+- So please act professionally when writing an Internal note to your coworkers
 
 
 <br>
@@ -1281,7 +1281,51 @@ pic 27:32
 
 <br>
 
-- Lets now go to status
+- Let's now go to status at the top and click on "Resolved"
+
+- For the description, type in restart fixed the issue for both users -> Click on "Close"
+
+<br>
+
+pic 28:49
+
+<br>
+
+- For this last ticket, it will be discussing a problem with our laptop how it is not turning on
+
+- http://localhost/osTicket, go to open a new ticket
+
+- This ticket will be from Karen, Type in the email address "karen@lognpacific.com"
+
+- Put in whatever random phone number
+
+- For the Help topic, select "Report a problem/ personal computer issues" -> for the issue summary type in "CFO states he is unable to use laptop
+
+- Under that type in  "laptop won't power on despite pressing the power button"
+
+- Click on "Create Ticket"
+
+<br>
+
+pic 29:43
+
+<br>
+
+- If you're still logged in as John, then you can see the new ticket and click on it
+
+- Set the priority to Emergency -> Then click on SLA and change that to Sev-B
+
+- Underneath for the description type "May re-classify after getting more info", since the customer never told us basically if it's impacting a business, etc., other than himself
+
+- Click on the link also next to "Assigned To" -> Choose John Doe as the assignee -> no need to make notes, and then click assign
+
+<br>
+
+pic 31:12
+
+<br>
+
+-
 
 
 
