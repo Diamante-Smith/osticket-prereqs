@@ -1325,7 +1325,9 @@ pic 31:12
 
 <br>
 
--
+- Then take it upon yourself to contact the CFO in some way
+
+- Go to the post reply and at the bottom for the description type in "CFO's laptop was not"
 
 
 
