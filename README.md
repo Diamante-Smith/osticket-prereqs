@@ -1329,7 +1329,7 @@ pic 31:12
 
 - In this scenario, you went to the laptop, and it turned out that his charger was actually broken, and he couldn't charge it, so the battery died
 
-- Go to the post reply and at the bottom for the description type in "CFO's laptop was not charging due to broken charger, brought new charger, now successfully charging"
+- Go to the post reply and at the bottom for the description type in "CFO's laptop was not charging due to broken charger, brought new charger, now successfully charging."
 
 - Then click "Post Reply"
 
