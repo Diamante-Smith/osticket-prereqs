@@ -1333,7 +1333,17 @@ pic 31:12
 
 - Then click "Post Reply"
 
-- 
+<br>
+
+pic 32:50 
+
+<br>
+
+- Set the status to "Resolved"
+  
+- At the bottom, for the description type in "Charger was broken, because of this, the battery was dead and unable to turn on"
+
+- Click close, and the ticket should be gone
 
 
 
