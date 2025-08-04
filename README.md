@@ -1345,6 +1345,8 @@ pic 32:50
 
 - Click close, and the ticket should be gone
 
+- Log in as an admin
+
 
 
 
