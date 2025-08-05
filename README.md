@@ -1345,7 +1345,13 @@ pic 32:50
 
 - Click close, and the ticket should be gone
 
-- Log in as an admin
+- Log in as an admin and look at the different permissions as you need to give John and other people the ability to see closed tickets, or vice versa, if you don't want them to have the ability
+
+<br>
+
+pic 35:12
+
+<br>
 
 
 
