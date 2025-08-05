@@ -1359,8 +1359,21 @@ pic 35:12
 
 - You can use ChatGPT to facilitate a person and help them with their ticket, as this builds a mindset for real-world scenarios and issues
 
-- Doing these a couple of times can help you solve issues much faster  
+- Doing these a couple of times can help you solve issues much faster
+  
+<br> 
 
+<h2> Final Thoughts </h2>
+
+Working through this osTicket installation and configuration project has been a huge step forward in my IT journey. It gave me a real-world look into what it’s like to support users, set up systems from scratch, and manage an actual ticketing platform like you would in a real help desk environment.
+
+I started by creating a virtual machine in Microsoft Azure, then installed and configured key components like IIS, PHP, MySQL, and osTicket itself. Throughout the process, I learned how each piece connects — from the web server and database to the backend files and front-end support interface. This taught me how to troubleshoot installation issues, manage configurations, and make the system actually work for users.
+
+Beyond just setup, I got hands-on with configuring the system for daily IT use — building out user roles, permissions, departments, SLA plans, and help topics. I also practiced resolving tickets from both the admin and agent sides, which gave me a real sense of how IT teams operate and communicate internally to solve issues for end users.
+
+Most importantly, this project helped me grow more confident with tools and tasks that are common in IT support roles, like remote desktop, server configuration, and permission handling. It also reminded me how important communication, documentation, and structure are in IT environments.
+
+Overall, this was more than just a lab — it was a chance to think like a real IT professional, and it helped me build the practical skills I’ll need to succeed in the field.
 
 
 
