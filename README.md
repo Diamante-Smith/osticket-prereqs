@@ -1353,6 +1353,14 @@ pic 35:12
 
 <br>
 
+- You never know, you might get a call stating an issue that has just occurred with someone's laptop or cell phone, for example
+
+- Then you will probably get all their contact info and make notes for later to organize your notes and get back to them with an understanding mindset
+
+- You can use ChatGPT to facilitate a person and help them with their ticket, as this builds a mindset for real-world scenarios and issues
+
+- Doing these a couple of times can help you solve issues much faster  
+
 
 
 
