@@ -902,6 +902,8 @@ pic 12:03
 
 - Then do the same steps for John
 
+<br>
+
 <h2> &#9316; Create a User</h2>
 
 <br>
@@ -919,7 +921,7 @@ pic 13:34
 
 <br>
 
-<h2> &#9316; Configure SLA</h2>
+<h2> &#9317; Configure SLA</h2>
 
 <br>
 
@@ -966,7 +968,7 @@ pic 17:06
 
 - For the grace period, make it 8hrs -> for the schedule, make it normal business hrs Mon-Fri -> Then press "Add plan"
 
-<h2> &#9316; Configure Help Topics</h2>
+<h2> &#9318; Configure Help Topics</h2>
 
 <br>
 
@@ -1033,6 +1035,10 @@ pic 19:38
 
 <br>
 
+<h2> &#9319; Logging into the Admin Panel</h2>
+
+<br>
+
 pic 01:30
 
 <br>
@@ -1041,6 +1047,10 @@ pic 01:30
 Copy and paste this URL into the browser on your virtual lab, not your actual browser
 
 - Log in with your Admin User credentials
+
+<br>
+
+<h2> &#9320; Modifying the Maintenance Department</h2>
 
 <br>
 
