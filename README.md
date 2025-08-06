@@ -1060,9 +1060,11 @@ pic 02:01
 
 - For this one, we are gonna go to the Admin panel -> Click on "Agents" at the top -> Click on "Departments"
 
-* - Click on the "Maintenance" Department -> Status click on "Disabled" -> For type you will press Public
- 
-- For everything else, leave it as is and click on "save changes"
+- Delete the "Maintenance Department" -> the checkmark box next to it -> Click on the "More" dropdown menu and select "Delete"
+
+<br>
+
+<h2> &#9321; Verifying the SYSAdmins Department</h2>
 
 <br>
 
@@ -1073,6 +1075,10 @@ pic 02:45
 - Go back to agents, then click on Departments -> Click on SYSAdmins
 
 - Make sure "Parent" is set to "Top Level Department," then scroll down to the bottom and click on "Save changes"
+
+<br>
+
+<h2> &#9322; Creating a Ticket as an End User</h2>
 
 <br>
 
@@ -1104,6 +1110,10 @@ pic 03:24
 
 <br>
 
+<h2> &#9323; Logging In as John</h2>
+
+<br>
+
 pic 05:12
 
 <br>  
@@ -1113,6 +1123,10 @@ pic 05:12
 - If you have to change the password if prompted, go ahead and do so, just make sure to write it down
 
 - You will notice your first ticket, we will be observing the stuff that is in this ticket
+
+<br>
+
+<h2> &#9324; Reviewing Default Ticket Settings</h2>
 
 <br>
 
@@ -1126,17 +1140,26 @@ pic 08:22
 
 - Usually, a new ticket will have lots of default settings on it and not have a user assigned to it unless the end user has the ability to assign it to a help desk admin or something
 
+
+<br>
+
+<h2> &#9325; Updating SLA to Sev-A</h2>
+
 <br>
 
 pic 10:42
 
 <br>
 
-- We are going to update the SLA plan for this ticket as its a major issue
+- We are going to update the SLA plan for this ticket as it's a major issue
 
 - Click on "Default SLA" -> Click on "Sev-A" -> Type in "wide impact, customers unable to do online banking" for the description
 
 - Click on "Update"
+
+<br>
+
+<h2> &#9326; Updating Help Topic</h2>
 
 <br>
 
@@ -1154,6 +1177,10 @@ pic 11:28
 
 <br>
 
+<h2> &#9327; Assigning certain tickets to a Team</h2>
+
+<br>
+
 pic 12:28
 
 <br>
@@ -1168,6 +1195,10 @@ pic 12:28
 
 <br>
 
+<h2> &#9328; Reassigning a ticket to Jane</h2>
+
+<br>
+
 pic 14:51
 
 <br>
@@ -1179,6 +1210,10 @@ pic 14:51
 - Click on "Online Banking" -> click on Jane Doe under assignee, as we are going to assign it to Jane
 
 - For the description type in "I'll be taking this ticket" -> Click on "Assign" -> now it's specifically assigned to Jane
+
+<br>
+
+<h2> &#9329; Posting a Troubleshooting Reply</h2>
 
 <br>
 
@@ -1198,6 +1233,10 @@ pic 15:41
 
 <br>
 
+<h2> &#9330; Resolving the Ticket</h2>
+
+<br>
+
 pic 17:22
 
 <br>
@@ -1209,6 +1248,10 @@ pic 17:22
 - Click "Post reply" -> Go to the top, click on "Open" for the status, set the ticket to "Resolved
 
 - To check previously closed tickets, you would have to sign in as the admin user, go to tickets, then closed, and click on yesterday or any of the previous days
+
+<br>
+
+<h2> &#9331; Creating a Ticket as Ken</h2>
 
 <br>
 
@@ -1230,6 +1273,10 @@ pic 19:46
 
 <br>
 
+<h2> &#9332; Reviewing Ken’s Ticket</h2>
+
+<br>
+
 pic 21:18
 
 <br>
@@ -1239,6 +1286,10 @@ pic 21:18
 - Then we see the ticket come through from Ken -> Click on it
 
 - When inspecting further on the customer to better understand what they want, it's best to email them, especially if their contact information is listed on their ticket
+
+<br>
+
+<h2> &#9333; Changing SLA & Assigning</h2>
 
 <br>
 
@@ -1260,6 +1311,10 @@ pic 22:51
 
 <br>
 
+<h2> &#9334; Marking Ticket as Resolved </h2>
+
+<br>
+
 pic 24:46
 
 <br>
@@ -1269,6 +1324,10 @@ pic 24:46
 - For the description reply, we make a note saying "customer states that a restart fixed the issue, closing out ticket."
 
 - Then click "Post Reply"
+
+<br>
+
+<h2> &#9335; Adding Internal Notes </h2>
 
 <br>
 
@@ -1284,6 +1343,9 @@ pic 25:38
 
 - So please act professionally when writing an Internal note to your coworkers
 
+<br>
+
+<h2> &#9336; Finalizing a Resolution  </h2>
 
 <br>
 
@@ -1291,9 +1353,12 @@ pic 27:32
 
 <br>
 
-- Let's now go to status at the top and click on "Resolved"
+- Let's now go to the status at the top and click on "Resolved"
 
 - For the description, type in restart fixed the issue for both users -> Click on "Close"
+<br>
+
+<h2> &#9337; Submitting New Ticket for Laptop Issue </h2>
 
 <br>
 
@@ -1317,6 +1382,10 @@ pic 28:49
 
 <br>
 
+<h2> &#9338; Investigating the Laptop Ticket </h2>
+
+<br>
+
 pic 29:43
 
 <br>
@@ -1328,6 +1397,10 @@ pic 29:43
 - Underneath for the description type "May re-classify after getting more info", since the customer never told us basically if it's impacting a business, etc., other than himself
 
 - Click on the link also next to "Assigned To" -> Choose John Doe as the assignee -> no need to make notes, and then click assign
+
+<br>
+
+<h2> &#9339; Resolving the Laptop Issue</h2>
 
 <br>
 
