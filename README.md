@@ -1038,6 +1038,7 @@ pic 19:38
 <h1> Creating, Logging In, and Managing Initial Tickets </h1>
 
 <br>
+<br>
 
 <h2> &#9312; Logging into the Admin Panel</h2>
 
