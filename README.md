@@ -1273,7 +1273,7 @@ pic 19:46
 
 <br>
 
-<h2> &#9332; Reviewing Ken’s Ticket</h2>
+<h2>&#9332; Reviewing Ken’s Ticket</h2>
 
 <br>
 
@@ -1289,7 +1289,7 @@ pic 21:18
 
 <br>
 
-<h2> &#9333; Changing SLA & Assigning</h2>
+<h2>&#9333; Changing SLA & Assigning</h2>
 
 <br>
 
