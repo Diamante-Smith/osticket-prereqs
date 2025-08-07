@@ -1035,7 +1035,11 @@ pic 19:38
 
 <br>
 
-<h2> &#9319; Logging into the Admin Panel</h2>
+<h1> Creating, Logging In, and Managing Initial Tickets </h1>
+
+<br>
+
+<h2> &#9312; Logging into the Admin Panel</h2>
 
 <br>
 
@@ -1050,7 +1054,7 @@ Copy and paste this URL into the browser on your virtual lab, not your actual br
 
 <br>
 
-<h2> &#9320; Modifying the Maintenance Department</h2>
+<h2> &#9313; Modifying the Maintenance Department</h2>
 
 <br>
 
@@ -1064,7 +1068,7 @@ pic 02:01
 
 <br>
 
-<h2> &#9321; Verifying the SYSAdmins Department</h2>
+<h2> &#9314; Verifying the SYSAdmins Department</h2>
 
 <br>
 
