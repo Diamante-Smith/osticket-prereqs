@@ -1083,7 +1083,7 @@ pic 02:45
 
 <br>
 
-<h2> &#9322; Creating a Ticket as an End User</h2>
+<h2> &#9315; Creating a Ticket as an End User</h2>
 
 <br>
 
@@ -1115,7 +1115,7 @@ pic 03:24
 
 <br>
 
-<h2> &#9323; Logging In as John</h2>
+<h2> &#9316; Logging In as John</h2>
 
 <br>
 
@@ -1131,7 +1131,7 @@ pic 05:12
 
 <br>
 
-<h2> &#9324; Reviewing Default Ticket Settings</h2>
+<h2> &#9317; Reviewing Default Ticket Settings</h2>
 
 <br>
 
@@ -1148,7 +1148,7 @@ pic 08:22
 
 <br>
 
-<h2> &#9325; Updating SLA to Sev-A</h2>
+<h2> &#9318; Updating SLA to Sev-A</h2>
 
 <br>
 
@@ -1164,7 +1164,7 @@ pic 10:42
 
 <br>
 
-<h2> &#9326; Updating Help Topic</h2>
+<h2> &#9319; Updating Help Topic</h2>
 
 <br>
 
@@ -1182,7 +1182,7 @@ pic 11:28
 
 <br>
 
-<h2> &#9327; Assigning certain tickets to a Team</h2>
+<h2> &#9320; Assigning certain tickets to a Team</h2>
 
 <br>
 
@@ -1200,7 +1200,10 @@ pic 12:28
 
 <br>
 
-<h2> &#9328; Reassigning a ticket to Jane</h2>
+<h1> Reassigning, Updating, Following Up, and Closing Support Tickets </h1>
+<br>
+<br>
+<h2> &#9312; Reassigning a ticket to Jane</h2>
 
 <br>
 
@@ -1218,7 +1221,7 @@ pic 14:51
 
 <br>
 
-<h2> &#9329; Posting a Troubleshooting Reply</h2>
+<h2> &#9313; Posting a Troubleshooting Reply</h2>
 
 <br>
 
@@ -1238,7 +1241,7 @@ pic 15:41
 
 <br>
 
-<h2> &#9330; Resolving the Ticket</h2>
+<h2> &#9314; Resolving the Ticket</h2>
 
 <br>
 
@@ -1256,7 +1259,7 @@ pic 17:22
 
 <br>
 
-<h2> &#9331; Creating a Ticket as Ken</h2>
+<h2> &#9315; Creating a Ticket as Ken</h2>
 
 <br>
 
