@@ -1281,7 +1281,7 @@ pic 19:46
 
 <br>
 
-<h2>&#9332; Reviewing Ken’s Ticket</h2>
+<h2>&#9316; Reviewing Ken’s Ticket</h2>
 
 <br>
 
@@ -1297,7 +1297,7 @@ pic 21:18
 
 <br>
 
-<h2>&#9333; Changing SLA & Assigning</h2>
+<h2>&#9317; Changing SLA & Assigning</h2>
 
 <br>
 
@@ -1319,7 +1319,7 @@ pic 22:51
 
 <br>
 
-<h2> &#9334; Marking Ticket as Resolved </h2>
+<h2> &#9318; Marking Ticket as Resolved </h2>
 
 <br>
 
@@ -1335,7 +1335,7 @@ pic 24:46
 
 <br>
 
-<h2> &#9335; Adding Internal Notes </h2>
+<h2> &#9319; Adding Internal Notes </h2>
 
 <br>
 
@@ -1353,7 +1353,7 @@ pic 25:38
 
 <br>
 
-<h2> &#9336; Finalizing a Resolution  </h2>
+<h2> &#9320; Finalizing a Resolution  </h2>
 
 <br>
 
@@ -1366,7 +1366,7 @@ pic 27:32
 - For the description, type in restart fixed the issue for both users -> Click on "Close"
 <br>
 
-<h2> &#9337; Submitting New Ticket for Laptop Issue </h2>
+<h2> &#9321; Submitting New Ticket for Laptop Issue </h2>
 
 <br>
 
@@ -1390,7 +1390,7 @@ pic 28:49
 
 <br>
 
-<h2> &#9338; Investigating the Laptop Ticket </h2>
+<h2> &#9322; Investigating the Laptop Ticket </h2>
 
 <br>
 
@@ -1408,7 +1408,7 @@ pic 29:43
 
 <br>
 
-<h2> &#9339; Resolving the Laptop Issue</h2>
+<h2> &#9323; Resolving the Laptop Issue</h2>
 
 <br>
 
@@ -1426,6 +1426,10 @@ pic 31:12
 
 <br>
 
+<h2> &#9324; Reviewing Ticket Access Permissions</h2>
+
+<br>
+
 pic 32:50 
 
 <br>
@@ -1437,6 +1441,10 @@ pic 32:50
 - Click close, and the ticket should be gone
 
 - Log in as an admin and look at the different permissions as you need to give John and other people the ability to see closed tickets, or vice versa, if you don't want them to have the ability
+
+<br>
+
+<h2> &#9325; Real-World Reminder</h2>
 
 <br>
 
@@ -1453,6 +1461,14 @@ pic 35:12
 - Doing these a couple of times can help you solve issues much faster
   
 <br> 
+
+<h3>🎉 Congratulations!! &#127881; You just created your first customer support ticket and provided real assistance!</h3>
+
+You’ve officially taken your first big step into the world of IT support by opening, managing, and responding to customer tickets. 
+From understanding the issue to providing updates and resolving the problem, you’ve practiced the exact workflow real help desk teams use every day.
+Keep building on this skill — every ticket you handle sharpens your problem-solving, communication, and technical abilities. 🚀
+
+<br>
 
 <h2> Final Thoughts </h2>
 
