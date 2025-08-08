@@ -1465,7 +1465,8 @@ pic 35:12
 <h3>🎉 Congratulations!! &#127881; You just created your first customer support ticket and provided real assistance!</h3>
 
 You’ve officially taken your first big step into the world of IT support by opening, managing, and responding to customer tickets. 
-From understanding the issue to providing updates and resolving the problem, you’ve practiced the exact workflow real help desk teams use every day.
+From understanding the issue to providing updates and resolving the problem, you’ve practiced the exact workflow real help desk teams use every day
+
 Keep building on this skill — every ticket you handle sharpens your problem-solving, communication, and technical abilities. 🚀
 
 <br>
