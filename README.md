@@ -64,6 +64,13 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 - When determining the appropriate size, it is essential to ensure that there are a minimum of 2 virtual CPUs (VCPUs) allocated. Additionally, it is advisable to document your username and password in a secure location for future reference
 
+<br>
+
+<img width="587" height="654" alt="Screenshot 2025-08-19 at 11 28 46 AM" src="https://github.com/user-attachments/assets/0ac8ff97-6fb6-48d7-a17a-5bd8832044a6" />
+
+<br>
+
+
 - Username will be "labuser" and your password could be whatever you can remember
 
 <br>
