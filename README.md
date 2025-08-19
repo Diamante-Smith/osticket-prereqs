@@ -36,26 +36,45 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 <br>
 
+<img width="341" height="373" alt="Screenshot 2025-08-19 at 10 59 30 AM" src="https://github.com/user-attachments/assets/440cb77f-e92e-44cf-8902-33c7d6b5c1eb" />
+<br>
+
+<img width="582" height="659" alt="Screenshot 2025-08-19 at 11 11 27 AM" src="https://github.com/user-attachments/assets/e0b2398b-426b-47ad-ad24-82d3476c69e6" />
+
+<br>
+
+
 - To begin this step, first search for Virtual Machines and hit Create; Make sure to click on Azure Virtual Machine 
 
 - For the resource group, click on "Create New" so that you can make a new resource group. I named it "osTicket" It can be any name you choose -> Click "OK"
   
-- For the name of the virtual machine, I have chosen "osTicket-VM"
+- For the name of the virtual machine, I have chosen "osticket-vm"
   
 - I have selected my region, "East US 2," and I have retained the options as displayed. Furthermore, I have chosen the image for this virtual machine as "Windows 10 Pro, version 22H2 - x64 Gen2"
 
 
 <br>
 
-pic 1:40
+<img width="301" height="250" alt="Screenshot 2025-08-19 at 11 12 54 AM" src="https://github.com/user-attachments/assets/4d29b907-06e2-414d-8377-29eae70a204c" />
+
 
 <br>
+
+
 
 - When determining the appropriate size, it is essential to ensure that there are a minimum of 2 virtual CPUs (VCPUs) allocated. Additionally, it is advisable to document your username and password in a secure location for future reference
 
+- Username will be "labuser" and your password could be whatever you can remember
+
 <br>
 
-pic 2:21
+<img width="574" height="643" alt="Screenshot 2025-08-19 at 11 23 47 AM" src="https://github.com/user-attachments/assets/d38a8241-880d-49e8-b7ca-e9e85cdfb025" />
+
+<br>
+
+
+<img width="371" height="87" alt="Screenshot 2025-08-19 at 11 28 33 AM" src="https://github.com/user-attachments/assets/0bd471c2-9c5b-48bb-8bd8-6378b36b6287" />
+
 
 <br>
 
