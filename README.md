@@ -39,7 +39,8 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 <img width="341" height="373" alt="Screenshot 2025-08-19 at 10 59 30 AM" src="https://github.com/user-attachments/assets/440cb77f-e92e-44cf-8902-33c7d6b5c1eb" />
 <br>
 
-<img width="582" height="659" alt="Screenshot 2025-08-19 at 11 11 27 AM" src="https://github.com/user-attachments/assets/e0b2398b-426b-47ad-ad24-82d3476c69e6" />
+<img width="613" height="677" alt="Screenshot 2025-08-21 at 4 42 47 PM" src="https://github.com/user-attachments/assets/ba43bbb0-f4e9-4b48-bdbe-96a3f0dcb80b" />
+
 
 <br>
 
@@ -75,17 +76,26 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 <br>
 
-<img width="574" height="643" alt="Screenshot 2025-08-19 at 11 23 47 AM" src="https://github.com/user-attachments/assets/d38a8241-880d-49e8-b7ca-e9e85cdfb025" />
+<img width="612" height="758" alt="Screenshot 2025-08-21 at 4 47 18 PM" src="https://github.com/user-attachments/assets/644d10ab-94e0-4cfd-8b45-093608d43973" />
+
 
 <br>
 
+
+
+
+- In Networking this time, we will allow the Virtual Machine to create its Virtual network
+
+<br>
 
 <img width="371" height="87" alt="Screenshot 2025-08-19 at 11 28 33 AM" src="https://github.com/user-attachments/assets/0bd471c2-9c5b-48bb-8bd8-6378b36b6287" />
 
+<br>
+
+<img width="568" height="113" alt="Screenshot 2025-08-21 at 4 56 51 PM" src="https://github.com/user-attachments/assets/353f3e53-f610-4435-a458-e18e0a09133d" />
 
 <br>
 
-- In Networking this time, we will allow the Virtual Machine to create its Virtual network
 
 - Please ensure that the licensing agreement presented is checked, and then proceed by selecting "Review + Create," followed by "Create"
 
@@ -97,7 +107,8 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 <br>
 
-pic 3:45
+<img width="1135" height="81" alt="Screenshot 2025-08-21 at 5 01 43 PM" src="https://github.com/user-attachments/assets/c04f39b8-f788-4bde-8065-2f7c9063b59d" />
+
 
 <br>
 
