@@ -118,9 +118,7 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 - Then Open Remote Desktop 
 
-<br>
 
-<img width="276" alt="Screenshot 2025-01-13 at 1 12 03 PM" src="https://github.com/user-attachments/assets/f63c13d1-7408-4d1c-9568-884061a5557e" /> 
 
 <br>
 
@@ -142,6 +140,16 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 <br>
 
+<img width="469" height="532" alt="Screenshot 2025-08-22 at 1 33 23 PM" src="https://github.com/user-attachments/assets/9294f458-955f-48b4-be16-1b97ece1acca" />
+
+<br>
+
+<img width="283" height="166" alt="Screenshot 2025-08-22 at 1 39 38 PM" src="https://github.com/user-attachments/assets/c90b6117-9491-4a68-a1f0-927fd8be7113" />
+
+<br>
+
+
+
 - Open Microsoft Remote Desktop --> Click on the Plus icon and click on add Pc --> Name it "osTicket" in "Friendly Name:" ---> paste the public IP address in the PC name ---> press add to connect (if needed put in the username and password u made to connect)
 
 
@@ -151,17 +159,27 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 <h3>- Resetting Passwords </h3>
 
-<br>
-
-pic 4:29
 
 <br>
 
 - If you are confident that you have entered all the information accurately, yet you are still unable to establish a remote desktop connection to the virtual machine, the issue may be related to the password.
 
+<br>
 
-- To reset your password, please access the Azure portal. Select your Windows virtual machine, navigate to the "Help" section, and click "Reset password." Enter your new password and then select "Update." This process should effectively resolve the issue.
+<img width="233" height="137" alt="Screenshot 2025-08-22 at 1 46 43 PM" src="https://github.com/user-attachments/assets/f5713205-ff29-4987-a3e4-b394ee5f7aa1" />
 
+<br>
+
+<img width="572" height="274" alt="Screenshot 2025-08-22 at 1 47 36 PM" src="https://github.com/user-attachments/assets/ede26243-3342-4f78-b465-498c8887b168" />
+
+<br>
+
+<img width="103" height="53" alt="Screenshot 2025-08-22 at 1 47 44 PM" src="https://github.com/user-attachments/assets/9c368088-8eb2-4172-8c09-5b1afe56b34c" />
+<br>
+
+
+- To reset your password, please access the Azure portal. Select your Windows virtual machine, navigate to the "Help" section, and click "Reset password." Enter your new password and then select "Update." This process should effectively resolve the issue. And may take a few minutes to update
+<br>
 
 <h1>Installation Steps</h1>
 
