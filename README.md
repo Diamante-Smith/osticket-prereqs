@@ -178,7 +178,7 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 <br>
 
 
-- To reset your password, please access the Azure portal. Select your Windows virtual machine, navigate to the "Help" section, and click "Reset password." Enter your new password and then select "Update." This process should effectively resolve the issue. And may take a few minutes to update
+- To reset your password, please access the Azure portal. Select your Windows virtual machine, navigate to the "Help" section, and click "Reset password." Enter your new password and then select "Update." This process should effectively resolve the issue. And it may take a few minutes to update
 <br>
 
 <h1>Installation Steps</h1>
@@ -187,6 +187,8 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 <br>
 
 <h2>&#9312; Professional Installation & Configuration of osTicket from Scratch  </h2>
+
+- WE will be basically installing all the dependencies that are required for osTicket to work and run
 
 <br>
 
@@ -198,12 +200,16 @@ pic 7:18
   
 <https://docs.osticket.com/en/latest/Getting%20Started/Installation.html>
 
-- You can instead also download the osTicket installation files here provided by Josh Madakor, our instructor
+- You can instead also download the osTicket installation files here, provided by Josh Madakor, our instructor
   
 <https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>
+
+https://docs.google.com/document/d/1DyjX8LeVU98LjhXO2t2K2F0aHywI2N9GD57T3taO5qo/edit?tab=t.0
+
+- And don't forget to check the lab checklist, and also place that one in a separate window
   
 
-- After the installation, Click Folder -> go to downloads there should be a folder named "osTicket-Installation-Files"             
+- After the installation, Click Folder -> go to downloads, there should be a folder named "osTicket-Installation-Files"             
                                                                                                             
 pic 7:52                                                                                                        
 <br>                                                                                                                  
