@@ -201,12 +201,26 @@ pic 7:18
 <https://docs.osticket.com/en/latest/Getting%20Started/Installation.html>
 
 - You can instead also download the osTicket installation files here, provided by Josh Madakor, our instructor
+
+<br>
+
+<img width="498" height="146" alt="Screenshot 2025-08-22 at 2 07 14 PM" src="https://github.com/user-attachments/assets/67a499c0-9906-4caa-9878-a6fe75b140d8" />
+
+<br>
+
   
 <https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>
 
 https://docs.google.com/document/d/1DyjX8LeVU98LjhXO2t2K2F0aHywI2N9GD57T3taO5qo/edit?tab=t.0
 
-- And don't forget to check the lab checklist, and also place that one in a separate window
+<br>
+
+<img width="748" height="645" alt="Screenshot 2025-08-22 at 2 01 08 PM" src="https://github.com/user-attachments/assets/39e9a263-24a2-449e-a7e1-5c1d7c1cc736" />
+
+<br>
+
+
+- And don't forget to check the lab checklist, and also place that one in a separate window in the virtual machine you made
   
 
 - After the installation, Click Folder -> go to downloads, there should be a folder named "osTicket-Installation-Files"             
