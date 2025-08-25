@@ -561,7 +561,7 @@ pic 21:48
 
 - Under "Connections" located on the left side, click on "osticket-vm"
 
-- Then on the right side under "Actions" Click on "Stop"
+- Then, on the right side under "Actions" Click on "Stop"
 
 - You could also right-click on "osticket-vm", then click on "Stop" to get the same results
 
@@ -628,7 +628,7 @@ pic 25:44
 
 - On the right side, click on Browse *80 to launch osTicket
 
-- * If osTicket didn't load for you normally, then that would indicate that you did something wrong and would have to delete your Virtual Machine and do the steps over, but more precisely
+- If osTicket didn't load for you normally, then that would indicate that you did something wrong and would have to delete your Virtual Machine and do the steps over, but more precisely
 
 
 <br>
