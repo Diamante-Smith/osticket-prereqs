@@ -190,11 +190,6 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 - WE will be basically installing all the dependencies that are required for osTicket to work and run
 
-<br>
-
-pic 7:18
-
-<br>
 
 - To get all the files needed for osTicket, go to osTicket documentation and collect them all to install them 1 at a time
   
@@ -284,7 +279,7 @@ pic 10:21
 <img width="376" alt="13" src="https://github.com/user-attachments/assets/489920cc-fae1-4930-8713-4ecaf8be4c8e" />
   
 
-- We also have to install CGI as well since osTicket depends on this program as well
+- We also have to install CGI as well since osTicket depends on this program as well for part of the web server
 
 <br>
 
@@ -401,7 +396,7 @@ pic 15:37
 
 <br>
 
-- First, Double-click on the PHP file that will be unzipped, Here are the actual language files
+- First, Double-click on the PHP file that will be unzipped, Here, inside the folder, are the actual language files
 
 
 
