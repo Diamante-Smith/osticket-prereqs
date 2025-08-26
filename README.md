@@ -693,6 +693,8 @@ pic 31:16
 
 - Press/ checkmark "Full control" -> Press Apply -> hit OK and press OK again
 
+- osTicket now has full control to the configuration file
+
 <br>
 
 <h2>&#9327; Continue osTicket installation </h2>
@@ -709,7 +711,7 @@ pic 32:31
 
 - For Admin user, put your name -> The Admin User email address has to be different from the Default Email at the top
   
-- Copy down the username and password; I'm gonna go with "adminuser" for the username and "Password 1" for the Password
+- Copy down the username and password; I'm gonna go with "adminuser" for the username and "Password1" for the Password
 
   
 
@@ -784,6 +786,8 @@ pic 36:25
 
 
 - Under MySQL Username, type in "root" and for the password type in "root" -> Click "install now" to finalize everything
+
+- All these tables were created within our osTicket database, a bunch of stuff it will use on the backend
 
 
 <br>
