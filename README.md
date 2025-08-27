@@ -215,13 +215,24 @@ https://docs.google.com/document/d/1DyjX8LeVU98LjhXO2t2K2F0aHywI2N9GD57T3taO5qo/
 <br>
 
 
-- And don't forget to check the lab checklist, and also place that one in a separate window in the virtual machine you made
-  
+- And don't forget to check the lab checklist, and also place that one in a separate window in Microsoft Edge, the browser in the virtual machine you made
 
+<br>
+
+<img width="1050" height="197" alt="Screenshot 2025-08-24 at 1 48 51 PM" src="https://github.com/user-attachments/assets/c1258eac-ee90-4f83-b70c-5c0f45eb8c63" />
+
+<br>
+<img width="775" height="436" alt="Screenshot 2025-08-24 at 1 50 15 PM" src="https://github.com/user-attachments/assets/d081d4ae-7349-4322-aa35-d8dfbfdf3e44" />
+<br>
+  
 - After the installation, Click Folder -> go to downloads, there should be a folder named "osTicket-Installation-Files"             
                                                                                                             
-pic 7:52                                                                                                        
-<br>                                                                                                                  
+                                                                                                      
+<br> 
+<img width="102" height="103" alt="Screenshot 2025-08-24 at 1 51 05 PM" src="https://github.com/user-attachments/assets/a6c1b9bf-9c69-4d07-b951-120be63787da" />
+
+<br>
+                                                                                                                 
 
 - We are going to unzip them onto the desktop and then into a folder called "osTicket-Installation-Files"
   
@@ -230,16 +241,32 @@ pic 7:52
 
 <br>
 
-pic 07:58
+<img width="212" height="123" alt="Screenshot 2025-08-24 at 1 51 32 PM" src="https://github.com/user-attachments/assets/dd920b72-3308-4732-974b-5b11f0a87ba6" />
+
 
 <br>
 
 - Right-click on the folder -> Click on Extract all
 
+<br>
+<img width="608" height="442" alt="Screenshot 2025-08-24 at 1 52 00 PM" src="https://github.com/user-attachments/assets/6f28c761-bb80-4907-8c18-5f7a53205b33" />
+
+<br>
+<img width="186" height="97" alt="Screenshot 2025-08-24 at 1 53 29 PM" src="https://github.com/user-attachments/assets/91a83cd0-dee1-49bc-8a3e-0bca728983e2" />
+<br>
+
 
 - Make sure that it is going towards the Desktop\osTicket-Installation-Files -> then hit "Extract"
+  
+- You can put the zipped file in the recycle bin
 
+<br>
+<img width="93" height="100" alt="Screenshot 2025-08-24 at 1 53 38 PM" src="https://github.com/user-attachments/assets/b3fa67e0-c4a7-4147-a8af-546ea2ea82ba" />
+<br>
+<img width="656" height="341" alt="Screenshot 2025-08-24 at 1 54 07 PM" src="https://github.com/user-attachments/assets/42add71e-a179-4a20-aad1-93f2ecff9796" />
+<br>
 
+- Everything was extracted into the new folder
 
 <br>
 
@@ -252,7 +279,8 @@ pic 07:58
 
 <br>
 
-pic 9:30
+<img width="623" height="669" alt="Screenshot 2025-08-24 at 1 54 50 PM" src="https://github.com/user-attachments/assets/c3d6da6c-8b85-4426-a816-b8f829e65c50" />
+
 
 <br>
 
@@ -262,7 +290,9 @@ pic 9:30
 
  <br> 
 
-pic 9:55
+<img width="622" height="680" alt="Screenshot 2025-08-24 at 1 55 31 PM" src="https://github.com/user-attachments/assets/d70ec70f-7356-445b-abd7-12484ed23afc" />
+<br>
+<img width="180" height="66" alt="Screenshot 2025-08-24 at 1 55 57 PM" src="https://github.com/user-attachments/assets/a61631fe-7c91-4b21-9490-2cb6062cf95e" />
 
 <br>
 
@@ -270,22 +300,32 @@ pic 9:55
 
 <br>
 
-pic 10:21
+<img width="190" height="59" alt="Screenshot 2025-08-24 at 1 56 35 PM" src="https://github.com/user-attachments/assets/5305780f-2220-49ec-8098-97dbed6d3b58" />
 
 <br>
+<img width="759" height="349" alt="Screenshot 2025-08-24 at 1 57 05 PM" src="https://github.com/user-attachments/assets/e45b2b0d-b53a-4ade-af03-20363073bb5e" />
+
+<br>
+<img width="231" height="66" alt="Screenshot 2025-08-24 at 1 57 45 PM" src="https://github.com/user-attachments/assets/3a1eea8a-27b2-45f7-ae48-08970f4cf276" />
+
+<br>
+<img width="281" height="214" alt="Screenshot 2025-08-24 at 2 00 37 PM" src="https://github.com/user-attachments/assets/3bf5694e-d829-49e6-add9-749b7488aa27" />
+<br>
+
 
 - Click on "Turn Windows features on or off" -> Check the box that says "Internet Information Services" and expand that folder
+<br>
 
 <img width="376" alt="13" src="https://github.com/user-attachments/assets/489920cc-fae1-4930-8713-4ecaf8be4c8e" />
+
+<br>
+<img width="649" height="448" alt="Screenshot 2025-08-24 at 2 01 44 PM" src="https://github.com/user-attachments/assets/cd9cc4a5-53a3-4805-8eee-01b427b8067a" />
+<br>
+
   
 
-- We also have to install CGI as well since osTicket depends on this program as well for part of the web server
+- We also have to install CGI, as well, since osTicket depends on this program as well for part of the web server
 
-<br>
-
-pic 10:40
-
-<br>
 
 - Expand on "World Wide Web Services" -> Expand "Application Development Features" -> Click on "CGI" -> Click on "OK" and wait a few minutes for it all to install
 
