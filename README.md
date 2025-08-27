@@ -360,7 +360,8 @@ https://docs.google.com/document/d/1DyjX8LeVU98LjhXO2t2K2F0aHywI2N9GD57T3taO5qo/
 
 <br>
 
-pic 13:20 
+<img width="796" height="360" alt="Screenshot 2025-08-24 at 2 05 04 PM" src="https://github.com/user-attachments/assets/690e9507-a6b9-4bd0-89bc-36015af75873" />
+
 
 <br>
 
@@ -368,7 +369,8 @@ pic 13:20
 
 <br>
 
-pic 13:40
+<img width="717" height="413" alt="Screenshot 2025-08-24 at 2 10 51 PM" src="https://github.com/user-attachments/assets/713dc22a-de5d-4445-a5e3-8c76142f1373" />
+
 
 <br>
 
@@ -376,7 +378,8 @@ pic 13:40
 
 <br>
 
-pic 13:42
+<img width="500" height="410" alt="Screenshot 2025-08-24 at 2 11 04 PM" src="https://github.com/user-attachments/assets/4427319b-921d-474e-a676-c138b53e9f8c" />
+
 
 <br>
 
@@ -384,23 +387,28 @@ pic 13:42
 
 <br>
 
-pic 13:47
+<img width="502" height="410" alt="Screenshot 2025-08-24 at 2 11 24 PM" src="https://github.com/user-attachments/assets/6ac0052d-c1d8-4357-a9d5-e7b31de5ccd1" />
+
 
 <br>
 
 - Say yes to everything and install it -> Click Close
 
-<br>
-
-pic 14:00
 
 <br>
 
 <h2>&#9315; Download and Install the Rewrite Module</h2>
 
 <br>
+<img width="700" height="396" alt="Screenshot 2025-08-24 at 2 12 42 PM" src="https://github.com/user-attachments/assets/56120dcc-9808-4464-ad4b-9c9611f4b6eb" />
+<br>
 
 - In the same folder, we will install the Rewrite module, another requirement for osTicket -> Double-click it and press Install
+
+<br>
+<img width="494" height="391" alt="Screenshot 2025-08-24 at 2 13 45 PM" src="https://github.com/user-attachments/assets/8216bf35-cf7d-40b1-95c6-8a76569234b2" />
+<br>
+- Click on finish, and now that part is complete
 
 
 <h2>&#9316; Create a New Directory</h2>
@@ -411,7 +419,8 @@ pic 14:00
 
 <br>
 
-pic 14:47
+<img width="294" height="481" alt="Screenshot 2025-08-24 at 2 13 56 PM" src="https://github.com/user-attachments/assets/2631d7c3-a5be-4176-a792-87a5cc325ba3" />
+
 
 <br>
 
@@ -419,39 +428,63 @@ pic 14:47
 
 <br>
 
-pic 14:59
+<img width="564" height="236" alt="Screenshot 2025-08-24 at 2 15 35 PM" src="https://github.com/user-attachments/assets/f02e56e1-95e0-417e-aa02-a9ff1c27f2d4" />
 
 <br>
+<img width="83" height="29" alt="Screenshot 2025-08-24 at 2 15 51 PM" src="https://github.com/user-attachments/assets/9148c1a2-1620-4c4e-8d2a-79154e472a60" />
+<br>
+
 
 - Go to the C:\ Drive We are going to make a folder -> Right-click on Windows (C:) drive -> Hit New -> go to Folder -> name it "PHP"
 
-
+<br>
+<img width="225" height="29" alt="Screenshot 2025-08-24 at 2 17 25 PM" src="https://github.com/user-attachments/assets/8ec94b0b-2f94-47d0-aefc-8fb931fddc2a" />
+<br>
 
 
 - From the “osTicket-Installation-Files” folder, unzip this file PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 
 <br>
 
-pic 15:37
+<img width="423" height="579" alt="Screenshot 2025-08-24 at 2 19 50 PM" src="https://github.com/user-attachments/assets/8aa83d88-4e3d-40ca-bba8-780fa55ec6d9" />
+
 
 <br>
 
 - First, Double-click on the PHP file that will be unzipped, Here, inside the folder, are the actual language files
 
+<br>
+
+<img width="303" height="87" alt="Screenshot 2025-08-24 at 2 20 19 PM" src="https://github.com/user-attachments/assets/294b062e-f553-44fe-946b-34573d651f63" />
+<br>
 
 
 - Right-click on this and press Extract all
 
 <br>
 
-pic 15:41
+<img width="547" height="49" alt="Screenshot 2025-08-24 at 2 20 34 PM" src="https://github.com/user-attachments/assets/cfb98740-d001-4861-89ca-214fb5504f8d" />
+
+<br>
+<img width="306" height="279" alt="Screenshot 2025-08-24 at 2 21 02 PM" src="https://github.com/user-attachments/assets/236c7c8f-eeba-47b7-80ac-230953ef6d27" />
+
+<br>
+<img width="548" height="33" alt="Screenshot 2025-08-24 at 2 21 13 PM" src="https://github.com/user-attachments/assets/a334a24d-66f3-4dc0-9f94-62c0a42fdece" />
 
 <br>
 
+
+
+
 - Before pressing Extract at the top where it says browse, type in "C:\PHP" -> then hit Extract
+
+<br>
+<img width="351" height="247" alt="Screenshot 2025-08-24 at 2 22 17 PM" src="https://github.com/user-attachments/assets/2722b08d-b9f4-40cd-9470-0e7b39695dff" />
+
+<br>
   
 
-- After the extraction, you will see in the C:\ Drive the PHP folder that was created plus other things that were extracted inside of it   
+- After the extraction, you will see in the C:\ Drive the PHP folder that was created, plus other things that were extracted inside of it   
   
 
 - Basically, we are putting the PHP files the osTicket is going to use on the C:\ Drive
@@ -464,7 +497,8 @@ pic 15:41
 
 <br>
 
-pic 16:55
+<img width="131" height="25" alt="Screenshot 2025-08-24 at 2 26 02 PM" src="https://github.com/user-attachments/assets/2d435276-a02c-4284-899a-e02cae014930" />
+
 
 <br>
 
