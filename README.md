@@ -501,6 +501,13 @@ https://docs.google.com/document/d/1DyjX8LeVU98LjhXO2t2K2F0aHywI2N9GD57T3taO5qo/
 
 
 <br>
+<img width="481" height="299" alt="Screenshot 2025-08-24 at 2 26 15 PM" src="https://github.com/user-attachments/assets/40986031-84d5-4445-8c4c-83902e1ef8fe" />
+
+<br>
+<img width="482" height="299" alt="Screenshot 2025-08-24 at 2 26 28 PM" src="https://github.com/user-attachments/assets/b05fb74c-c673-471b-95ee-8edb70197915" />
+
+<br>
+
 
 - We are going to install the "VC redistributable file" -> Double-click the file -> make sure to press yes 
 
@@ -512,7 +519,8 @@ https://docs.google.com/document/d/1DyjX8LeVU98LjhXO2t2K2F0aHywI2N9GD57T3taO5qo/
 
 <br>
 
-pic 17:06
+<img width="701" height="391" alt="Screenshot 2025-08-24 at 2 28 43 PM" src="https://github.com/user-attachments/assets/eae7e32e-76e7-4473-ba05-70987e04260b" />
+
 
 <br>
 
