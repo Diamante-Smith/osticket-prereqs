@@ -408,6 +408,7 @@ https://docs.google.com/document/d/1DyjX8LeVU98LjhXO2t2K2F0aHywI2N9GD57T3taO5qo/
 <br>
 <img width="494" height="391" alt="Screenshot 2025-08-24 at 2 13 45 PM" src="https://github.com/user-attachments/assets/8216bf35-cf7d-40b1-95c6-8a76569234b2" />
 <br>
+
 - Click on finish, and now that part is complete
 
 
@@ -892,6 +893,7 @@ pic 36:25
 pic 01:52
   
 <br>
+
 - Here is the link to log in as the Admin, remember your password and Username to get in http://localhost/osTicket/scp/login.php
 
 - If you log in, you can see 2 different panels
