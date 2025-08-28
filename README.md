@@ -892,6 +892,7 @@ pic 36:25
 pic 01:52
   
 <br>
+- Here is the link to log in as the Admin, remember your password and Username to get in http://localhost/osTicket/scp/login.php
 
 - If you log in, you can see 2 different panels
 
@@ -934,11 +935,11 @@ pic 04:44
 
 <br>
 
-- You can create\ define your own roles
+- You can create and define your own roles
 
 - Click on "Agents" -> Click on "Roles" -> Click "Add New Role" -> you can name it "Supreme Admin"
 
-- Click on "Permissions" and checkmark everything -> Click on "Tasks" and checkmark everything to let be capable of doing everything
+- Click on "Permissions" and checkmark everything -> Click on "Tasks" and checkmark everything so they can be capable of doing everything
 
 - Click on "Knowledgebase" and checkmark "Premade" as well -> after that is over, click on "Add Role"; this will solidify our new role for "Supreme Admin"
 
@@ -952,7 +953,7 @@ pic 05:55
 
 - Make sure you're in the "Admin Panel" -> Click on "Departments" -> Click on "Add New Department"
 
-- Under the settings for Parent, keep it as "Support" -> Name it "SysAdmins" -> For type, make it public
+- Under the settings for Parent, keep it as "Top Level Department" -> Name it "SysAdmins" -> For type, make it public
 
 - For the rest of the settings, you can choose to keep them as is, or you can configure them to your liking
 
