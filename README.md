@@ -1222,7 +1222,9 @@ pic 02:01
 
 <br>
 
-- For this one, we are gonna go to the Admin panel -> Click on "Agents" at the top -> Click on "Departments"
+- For this one, if you didn't get to remove the maintenance department, I will show you how to delete it
+
+ - We are gonna go to the Admin panel -> Click on "Agents" at the top -> Click on "Departments"
 
 - Delete the "Maintenance Department" -> the checkmark box next to it -> Click on the "More" dropdown menu and select "Delete"
 
