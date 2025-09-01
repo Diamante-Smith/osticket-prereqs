@@ -535,7 +535,13 @@ https://docs.google.com/document/d/1DyjX8LeVU98LjhXO2t2K2F0aHywI2N9GD57T3taO5qo/
 
 <br>
 
-pic 17:20
+<img width="495" height="386" alt="Screenshot 2025-08-24 at 2 29 01 PM" src="https://github.com/user-attachments/assets/700d053e-0069-4835-a2d2-7a64acd481cc" />
+
+
+<br>
+
+<img width="499" height="387" alt="Screenshot 2025-08-24 at 2 29 48 PM" src="https://github.com/user-attachments/assets/0efad866-726c-4e87-a121-72f0eb567cf1" />
+
 
 
 <br>
@@ -549,7 +555,8 @@ to allow the app to make changes
 
 <br>
 
-pic 17:52
+<img width="501" height="383" alt="Screenshot 2025-08-24 at 2 33 11 PM" src="https://github.com/user-attachments/assets/7c79e556-769d-4f36-90e4-d6fce371fb9e" />
+
 
 
 <br>
@@ -1017,7 +1024,7 @@ pic 10:21
 
 <br>
 
-- At the top, left click on "Access" to see what lies in there
+- At the top, left-click on "Access" to see what lies in there
 
 - Under the primary Department section, click on "Sysadmins" -> Under
 - "Role," we will make Jane Doe a Supreme Admin and have access to everything
