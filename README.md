@@ -1443,7 +1443,7 @@ pic 19:46
   
 - Click on "create Ticket" -> For the issue summary, type in "Accounting department needs Adobe upgrade"
 
-- For the description type in "it looks like many people in the account department can't use their Adobe software"
+- For the description type in "It looks like many people in the account department can't use their Adobe software"
 
 - It's good to inspect before upgrading what the end user wants, because it could be a simple matter where they just don't have access to the software right now
 
@@ -1473,13 +1473,13 @@ pic 22:51
 
 <br>
 
-- After gaining further information, to take the next course, you can click on the blue link next to SLA Plan
+- After gaining further information, to take the next course of action, you can click on the blue link next to SLA Plan
 
-- We changed the SLA to Sev-C -> At the bottom, type in the description "Only 2 people unable to open Adobe Reader, Classifying as Sev-C since the impact isn't so bad
+- We changed the SLA to Sev-C -> At the bottom, type in the description "Only 2 people are unable to open Adobe Reader, Classifying as Sev-C since the impact isn't so bad
 
-- Click on "Department" as we will be assigning it to the "Support Team"
+- Click on "Department" as we will be assigning it to the "Support Team" if it isn't already selected
 
-- And next to "Assign to," click on the blue link on the pop-up up select "John Doe"
+- And next to "Assign to," click on the blue link on the pop-up, select "John Doe"
 
 - In the "Post reply" description, type in "Customer states that only two people in the accounting department are unable to open and use Adobe Reader. Customer testing restart, will call back after lunch."
 
@@ -1497,7 +1497,7 @@ pic 24:46
 
 - In the scenario, we wait for some hrs for the customer to reach back out to us, then we take lunch as time rolls on, and then Ken calls back, he restarted the computer, and everything is working again with no issues
 
-- For the description reply, we make a note saying "customer states that a restart fixed the issue, closing out ticket."
+- For the description reply, we make a note saying "Customer states that a restart fixed the issue, closing out the ticket."
 
 - Then click "Post Reply"
 
@@ -1512,6 +1512,10 @@ pic 25:38
 <br>
 
 - Click on the ticket we just did -> And scroll down towards the bottom portion where it says "Post Internal Note"
+
+- Type in the title "Customer is very mad"
+
+- For the description underneath, type in "Try to be empathetic with him."
 
 - These are notes that the customers can't see             
 
@@ -1531,7 +1535,7 @@ pic 27:32
 
 - Let's now go to the status at the top and click on "Resolved"
 
-- For the description, type in restart fixed the issue for both users -> Click on "Close"
+- For the description, type in "Restart fixed the issue for both users" -> Click on "Close"
 <br>
 
 <h2> &#9321; Submitting New Ticket for Laptop Issue </h2>
@@ -1550,9 +1554,9 @@ pic 28:49
 
 - Put in whatever random phone number
 
-- For the Help topic, select "Report a problem/ personal computer issues" -> for the issue summary type in "CFO states he is unable to use laptop
+- For the Help topic, select "Report a problem/ personal computer issues" -> for the issue summary type in "CFO states he is unable to use laptop"
 
-- Under that type in  "laptop won't power on despite pressing the power button"
+- Under that type in  "Laptop won't power on despite pressing the power button"
 
 - Click on "Create Ticket"
 
@@ -1584,7 +1588,7 @@ pic 31:12
 
 <br>
 
-- Then take it upon yourself to contact the CFO in some way
+- And in this scenario, where you work, you will then take it upon yourself to contact the CFO in some way
 
 - In this scenario, you went to the laptop, and it turned out that his charger was actually broken, and he couldn't charge it, so the battery died
 
@@ -1616,9 +1620,14 @@ pic 32:50
 
 <br>
 
-pic 35:12
+<img width="647" height="396" alt="Screenshot 2025-09-03 at 12 46 40 PM" src="https://github.com/user-attachments/assets/42bfd430-7e06-4577-937f-3a8e04fa9d37" />
 
 <br>
+<img width="960" height="848" alt="Screenshot 2025-09-03 at 12 47 05 PM" src="https://github.com/user-attachments/assets/3b7b4231-03dd-4f2f-b59a-0fb99ba8fab3" />
+
+<br>
+
+
 
 - You never know, you might get a call stating an issue that has just occurred with someone's laptop or cell phone, for example
 
