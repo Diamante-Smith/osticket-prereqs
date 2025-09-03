@@ -1566,7 +1566,13 @@ pic 28:49
 
 <br>
 
-pic 29:43
+<img width="650" height="253" alt="Screenshot 2025-09-03 at 12 14 25 PM" src="https://github.com/user-attachments/assets/9c316a93-2404-4786-8ded-0e407b3158a8" />
+
+<br>
+<img width="647" height="252" alt="Screenshot 2025-09-03 at 12 15 42 PM" src="https://github.com/user-attachments/assets/cc7fc8d0-357e-4ca5-b7c6-118baf564a44" />
+
+<br>
+<img width="648" height="252" alt="Screenshot 2025-09-03 at 12 16 07 PM" src="https://github.com/user-attachments/assets/002ff441-d03d-42ab-8924-e6c24b71eafe" />
 
 <br>
 
@@ -1584,7 +1590,8 @@ pic 29:43
 
 <br>
 
-pic 31:12
+<img width="734" height="85" alt="Screenshot 2025-09-03 at 12 41 30 PM" src="https://github.com/user-attachments/assets/0a4fd350-6e15-461c-a8ae-ae67c2e1548a" />
+
 
 <br>
 
@@ -1602,7 +1609,8 @@ pic 31:12
 
 <br>
 
-pic 32:50 
+<img width="651" height="227" alt="Screenshot 2025-09-03 at 12 42 30 PM" src="https://github.com/user-attachments/assets/5f10b4ac-5386-47e1-a8e5-77c9112c0513" />
+
 
 <br>
 
@@ -1624,9 +1632,15 @@ pic 32:50
 
 <br>
 <img width="960" height="848" alt="Screenshot 2025-09-03 at 12 47 05 PM" src="https://github.com/user-attachments/assets/3b7b4231-03dd-4f2f-b59a-0fb99ba8fab3" />
+<br>
+<br>
+<br>
+
+<img width="956" height="688" alt="Screenshot 2025-09-03 at 12 44 08 PM" src="https://github.com/user-attachments/assets/e4b01b82-b57e-46c4-a176-b8bbc3ce579a" />
 
 <br>
 
+- This is the full conversation throughout the time of the ticket
 
 
 - You never know, you might get a call stating an issue that has just occurred with someone's laptop or cell phone, for example
