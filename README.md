@@ -1426,6 +1426,18 @@ pic 17:22
 - To check previously closed tickets, you would have to sign in as the admin user, go to tickets, then closed, and click on yesterday or any of the previous days
 
 <br>
+<br>
+<br>
+<img width="960" height="877" alt="Screenshot 2025-09-03 at 12 45 26 PM" src="https://github.com/user-attachments/assets/72846783-097b-4d2e-af28-78e5eb558e23" />
+
+<br>
+<img width="961" height="339" alt="Screenshot 2025-09-03 at 12 45 37 PM" src="https://github.com/user-attachments/assets/45a8179b-4457-41c2-a35b-0892cb975db4" />
+
+<br>
+
+- This is the full conversation throughout the time of the ticket
+
+<br>
 
 <h2> &#9315; Creating a Ticket as Ken</h2>
 
@@ -1536,7 +1548,14 @@ pic 27:32
 - Let's now go to the status at the top and click on "Resolved"
 
 - For the description, type in "Restart fixed the issue for both users" -> Click on "Close"
+  
 <br>
+<br>
+<img width="954" height="856" alt="Screenshot 2025-09-03 at 12 44 42 PM" src="https://github.com/user-attachments/assets/dcb72aed-23a0-4391-b71e-a0d65e5abdf6" />
+
+<br>
+
+- This is the full conversation throughout the time of the ticket
 
 <h2> &#9321; Submitting New Ticket for Laptop Issue </h2>
 
