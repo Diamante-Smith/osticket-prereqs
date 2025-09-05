@@ -542,9 +542,17 @@ https://docs.google.com/document/d/1DyjX8LeVU98LjhXO2t2K2F0aHywI2N9GD57T3taO5qo/
 
 <img width="499" height="387" alt="Screenshot 2025-08-24 at 2 29 48 PM" src="https://github.com/user-attachments/assets/0efad866-726c-4e87-a121-72f0eb567cf1" />
 
+<br>
 
+<img width="497" height="388" alt="Screenshot 2025-08-24 at 2 30 11 PM" src="https://github.com/user-attachments/assets/67295444-9fb9-4826-993c-d9b80521e3ef" />
 
 <br>
+
+<img width="497" height="387" alt="Screenshot 2025-08-24 at 2 30 25 PM" src="https://github.com/user-attachments/assets/3e3691c6-108c-4cad-a937-c1b9722654c5" />
+
+<br>
+
+
 
 
 - When choosing Setup type, click on "Typical" -> Press Install -> Click "Yes"
@@ -557,16 +565,21 @@ to allow the app to make changes
 
 <img width="501" height="383" alt="Screenshot 2025-08-24 at 2 33 11 PM" src="https://github.com/user-attachments/assets/7c79e556-769d-4f36-90e4-d6fce371fb9e" />
 
+<br>
 
+<img width="501" height="382" alt="Screenshot 2025-08-24 at 2 33 23 PM" src="https://github.com/user-attachments/assets/17f8c339-ebd4-41ae-9fcb-f3002d089e24" />
 
 <br>
+
+
 
 - Press "Next" -> Choose "Standard Configuration" -> Press "Next" -> Leave everything as is and press "Next"
 
 
 <br>
 
-pic 18:06
+<img width="502" height="384" alt="Screenshot 2025-08-24 at 2 34 22 PM" src="https://github.com/user-attachments/assets/cf11b2e2-4ce4-45a9-8b56-c4edf07e7746" />
+
 
 
 <br>
@@ -574,6 +587,20 @@ pic 18:06
 - For this part, make sure you DO NOT mess this one up
 
 - For new root password, just type in the word "root" for both to keep everything simple for this project, write this down on a notepad as well for later
+
+<br>
+
+<img width="500" height="383" alt="Screenshot 2025-08-24 at 2 35 24 PM" src="https://github.com/user-attachments/assets/fcb84673-336d-452a-954c-974557d67200" />
+
+<br>
+
+<img width="502" height="381" alt="Screenshot 2025-08-24 at 2 35 55 PM" src="https://github.com/user-attachments/assets/219e10c9-c022-4bea-b927-64fd0197dc5e" />
+
+<br>
+
+
+
+
 
 - Click Next, then Execute on the 2 check-marked bubbled options that will automatically appear
 
@@ -587,7 +614,8 @@ pic 18:06
 <br>
 
 
-pic 20:22
+<img width="747" height="316" alt="Screenshot 2025-08-24 at 2 36 40 PM" src="https://github.com/user-attachments/assets/f7749684-4e7f-49fe-98a8-597c06d3aa4b" />
+
 
 <br>
 
@@ -596,17 +624,22 @@ pic 20:22
 
 - Search IIS in the Windows search bar, then right-click and select "run as Administrator"
 
+<br>
+
+<img width="899" height="605" alt="Screenshot 2025-08-24 at 2 37 19 PM" src="https://github.com/user-attachments/assets/99e008ba-cf90-4fbb-b840-6856139b783f" />
+
+
 <br> 
 
 
-<br>
 
 <h2>&#9320; Register PHP Manager </h2>
 
 <br>
 
 
-pic 20:51
+<img width="65" height="77" alt="Screenshot 2025-08-25 at 3 43 42 PM" src="https://github.com/user-attachments/assets/5aadaad2-0a51-49cc-9a0a-e919f7b16910" />
+
 
 <br>
 
@@ -618,7 +651,8 @@ pic 20:51
 <br>
 
 
-pic 21:11
+<img width="905" height="668" alt="Screenshot 2025-08-25 at 3 43 55 PM" src="https://github.com/user-attachments/assets/8c7fdf77-b421-4a45-b2bd-be7cec1a8204" />
+
   
 <br>
 
