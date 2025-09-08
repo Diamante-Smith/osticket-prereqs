@@ -656,15 +656,26 @@ to allow the app to make changes
   
 <br>
 
+<img width="734" height="289" alt="Screenshot 2025-08-25 at 3 44 21 PM" src="https://github.com/user-attachments/assets/380fa6e5-d6f4-4c19-8ddb-741a8c884c26" />
+
+<br>
+
+
 
 - Open the PHP manager that we installed -> Click on register a new PHP version and browse to it by clicking on the 3 dots on the right side to browse
 
 
 <br>
 
-pic 21:14
+<img width="580" height="207" alt="Screenshot 2025-08-25 at 3 50 32 PM" src="https://github.com/user-attachments/assets/d675276e-d2bd-456c-b620-865cb17726a3" />
+
   
 <br>
+
+<img width="509" height="221" alt="Screenshot 2025-08-25 at 3 50 44 PM" src="https://github.com/user-attachments/assets/8ed48b0b-826b-4df3-925d-e4d64d6a09c4" />
+
+<br>
+
 
 - Once the folder shows up, click on "Windows (C:) A.K.A the C: Drive" -> Click on the PHP folder -> When you see php.cgi that is the only executable binary for PHP -> Double click it, and then click OK
 
@@ -679,7 +690,8 @@ pic 21:14
 
 <br>
 
-pic 21:48
+<img width="344" height="159" alt="Screenshot 2025-08-25 at 3 53 29 PM" src="https://github.com/user-attachments/assets/acbd1b73-ba19-427b-a01e-9dba83787c85" />
+
   
 <br>
 
@@ -688,6 +700,13 @@ pic 21:48
 - Then, on the right side under "Actions" Click on "Stop"
 
 - You could also right-click on "osticket-vm", then click on "Stop" to get the same results
+
+<br>
+
+<img width="368" height="135" alt="Screenshot 2025-08-25 at 3 53 51 PM" src="https://github.com/user-attachments/assets/0ab8b88a-54b4-40bc-9c6a-d60b0b578757" />
+
+<br>
+
 
 - Give it a moment to stop, then right-click on "osticket-vm" and click on "Start"
 
@@ -698,13 +717,14 @@ pic 21:48
 
 <br>
 
-pic 22:49
+<img width="249" height="98" alt="Screenshot 2025-08-25 at 4 13 01 PM" src="https://github.com/user-attachments/assets/002715ee-135b-492d-8cc3-227c27a69d31" />
+
   
 <br>
 
 - Go back to the osTicket installation files folder
 
-- Right-click on the file name osTicket-v1.15.8 -> Click "Extract All" and wait for it to finish, during the process, you will see another folder pop up at the top with the same name
+- Right-click on the file name osTicket-v1.15.8 -> Click "Extract All" and wait for it to finish -> During the process, you will see another folder pop up at the top with the same name
 
 <br>
 
