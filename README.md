@@ -726,15 +726,16 @@ to allow the app to make changes
 
 <br>
 
+<img width="123" height="29" alt="Screenshot 2025-08-25 at 4 15 39 PM" src="https://github.com/user-attachments/assets/096c081b-8fed-4eca-80b0-a7712fd16abb" />
+
+<br>
+
+
 
 - Go back to the osTicket installation files folder
 
 
-<br>
 
-<img width="123" height="29" alt="Screenshot 2025-08-25 at 4 15 39 PM" src="https://github.com/user-attachments/assets/096c081b-8fed-4eca-80b0-a7712fd16abb" />
-
-<br>
 
 - Right-click on the file name osTicket-v1.15.8 -> Click "Extract All" and wait for it to finish -> During the process, you will see another folder pop up at the top with the same name
 
@@ -766,9 +767,20 @@ to allow the app to make changes
 
 <br>
 
-pic 25:06
+<img width="747" height="316" alt="Screenshot 2025-08-24 at 2 36 40 PM" src="https://github.com/user-attachments/assets/772eea10-a70b-43c0-a351-ac6145416a5d" />
+
   
 <br>
+
+<img width="344" height="159" alt="Screenshot 2025-08-25 at 3 53 29 PM" src="https://github.com/user-attachments/assets/7fd95253-b070-408e-8f00-20913cf55634" />
+
+<br>
+
+<img width="368" height="135" alt="Screenshot 2025-08-25 at 3 53 51 PM" src="https://github.com/user-attachments/assets/c5d5d01c-da5c-40f9-8df2-5df61044c5c4" />
+
+<br>
+
+
 
 - Type and open up "Internet Information Services (IIS) Manager, remember to run as an administrator
   
@@ -780,13 +792,26 @@ pic 25:06
 
 <br>
 
-pic 25:44
+<img width="200" height="152" alt="Screenshot 2025-08-25 at 4 21 57 PM" src="https://github.com/user-attachments/assets/8002a8a1-f540-4e40-ada5-b35b552bf7d6" />
+
   
 <br>
+
+
 
 - To launch osTicket under "Connections" located on the left side, expand "osticket-vm" with the down arrow 
 
 - Expand "sites" -> Expand "Default Web site" -> Click on "osTicket"
+
+<br>
+
+<img width="200" height="73" alt="Screenshot 2025-08-25 at 4 22 06 PM" src="https://github.com/user-attachments/assets/98fac256-89e4-4614-a0bf-5bbfeb21b471" />
+
+<br>
+
+<img width="822" height="741" alt="Screenshot 2025-08-25 at 4 27 42 PM" src="https://github.com/user-attachments/assets/5d67c9bd-0c46-4962-9b11-532af8720132" />
+
+
 
 - On the right side, click on Browse *80 to launch osTicket
 
