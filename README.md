@@ -722,15 +722,33 @@ to allow the app to make changes
   
 <br>
 
+<img width="583" height="424" alt="Screenshot 2025-08-25 at 4 13 18 PM" src="https://github.com/user-attachments/assets/49319409-8868-495d-98b0-0859cca7878a" />
+
+<br>
+
+
 - Go back to the osTicket installation files folder
+
+
+<br>
+
+<img width="123" height="29" alt="Screenshot 2025-08-25 at 4 15 39 PM" src="https://github.com/user-attachments/assets/096c081b-8fed-4eca-80b0-a7712fd16abb" />
+
+<br>
 
 - Right-click on the file name osTicket-v1.15.8 -> Click "Extract All" and wait for it to finish -> During the process, you will see another folder pop up at the top with the same name
 
+
 <br>
 
-pic 23:22
+<img width="84" height="22" alt="Screenshot 2025-08-25 at 4 18 09 PM" src="https://github.com/user-attachments/assets/ae061ae9-8936-4544-81f3-7e143d087ffd" />
   
 <br>
+
+<img width="85" height="28" alt="Screenshot 2025-08-25 at 4 18 19 PM" src="https://github.com/user-attachments/assets/3ee202e0-f749-4c38-9b28-0a4ef32031d9" />
+
+<br>
+
 
 - Open that folder up, which will contain 2 other folders as well
 
