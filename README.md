@@ -824,7 +824,13 @@ to allow the app to make changes
 
 <br>
 
-pic 28:44
+<img width="200" height="152" alt="Screenshot 2025-08-25 at 4 21 57 PM" src="https://github.com/user-attachments/assets/590bf781-e3b1-4dad-986a-7940f4b05c17" />
+
+
+<br>
+
+<img width="278" height="634" alt="Screenshot 2025-08-25 at 4 29 50 PM" src="https://github.com/user-attachments/assets/62440e40-ce7b-43fd-a00d-232d241ebf22" />
+
   
 <br>
 
@@ -837,9 +843,20 @@ pic 28:44
 
 <br>
 
-pic 27:58
+<img width="237" height="46" alt="Screenshot 2025-08-25 at 4 30 29 PM" src="https://github.com/user-attachments/assets/b5833fa7-3fac-40b8-b002-5c51a70db24c" />
+
   
 <br>
+
+<img width="182" height="59" alt="Screenshot 2025-08-25 at 4 30 50 PM" src="https://github.com/user-attachments/assets/8af134f8-802a-4f2d-a9e8-4b2e6cf52375" />
+
+<br>
+
+<img width="201" height="51" alt="Screenshot 2025-08-25 at 4 31 24 PM" src="https://github.com/user-attachments/assets/0c7ae367-a684-499c-8e9f-b82fb6ad5ee3" />
+
+<br>
+
+
 
 - Look for and enable these 3 extensions:
 
@@ -851,18 +868,44 @@ pic 27:58
 
 <br>
 
-pic 30:08
+<img width="549" height="448" alt="Screenshot 2025-08-25 at 4 31 50 PM" src="https://github.com/user-attachments/assets/1eaf3590-6bbf-4716-b39e-32bfb63283d0" />
+
   
 <br>
 
+- Hit the "Refresh button" on the browser after enabling all the needed permissions
+
+<br>
 
 <h2>&#9326; Rename ost-config.php/ Assign Permissions to it</h2>
 
 <br>
 
+<img width="83" height="24" alt="Screenshot 2025-08-25 at 4 33 54 PM" src="https://github.com/user-attachments/assets/e262a357-038d-4b70-acd7-28ce760d3590" />
+
+<br>
+
+<img width="149" height="26" alt="Screenshot 2025-08-25 at 4 34 26 PM" src="https://github.com/user-attachments/assets/c5aedc7a-501f-420b-9d69-95c4767ad1d7" />
+
+<br>
+
+<img width="95" height="26" alt="Screenshot 2025-08-25 at 4 34 48 PM" src="https://github.com/user-attachments/assets/a5b333bf-e531-4fb5-a761-97c1fb9f4c8a" />
+
+<br>
+
+
+
+
 - Go to file explorer -> Click Windows (c:) -> Click inetpub -> Click wwwwroot -> Click osTicket
 
 - Click the "include" folder -> Scroll down to "ost-sampleconfig.php" -> Right-click it and press "rename"
+
+<br>
+
+<img width="112" height="25" alt="Screenshot 2025-08-25 at 4 36 41 PM" src="https://github.com/user-attachments/assets/8d02f7f2-af49-4154-9d35-05bfc0bb1656" />
+
+<br>
+
 
 - Name it exactly ost-config.php DO NOT mess this step up
 
@@ -870,9 +913,25 @@ pic 30:08
 
 <br>
 
-pic 31:16
+<img width="107" height="33" alt="Screenshot 2025-08-25 at 4 37 03 PM" src="https://github.com/user-attachments/assets/00f2105b-6a23-4c7b-bc96-fa622340d281" />
+
   
 <br>
+
+<img width="354" height="406" alt="Screenshot 2025-08-25 at 4 37 25 PM" src="https://github.com/user-attachments/assets/0b2b448a-b378-4e4b-9da2-36b970723925" />
+
+<br>
+
+<img width="151" height="32" alt="Screenshot 2025-08-25 at 4 37 42 PM" src="https://github.com/user-attachments/assets/916dea29-73db-4f69-b5b7-8718426e3b31" />
+
+<br>
+
+<img width="391" height="44" alt="Screenshot 2025-08-25 at 4 37 53 PM" src="https://github.com/user-attachments/assets/150d33dc-c9fe-43ab-a7a8-f9e155b8d425" />
+
+<br>
+
+
+
 
 - Right-Click on the file "ost-config.php"-> go to "Properties" -> Click on "Security" -> - Click "Advanced" -> Click "Disable Inheritance", this will remove all the current permissions -> Click "Remove all inherited permissions from this object"
 
