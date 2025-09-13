@@ -935,6 +935,33 @@ to allow the app to make changes
 
 - Right-Click on the file "ost-config.php"-> go to "Properties" -> Click on "Security" -> - Click "Advanced" -> Click "Disable Inheritance", this will remove all the current permissions -> Click "Remove all inherited permissions from this object"
 
+<br>
+
+<img width="645" height="224" alt="Screenshot 2025-08-25 at 4 38 20 PM" src="https://github.com/user-attachments/assets/a8f401b2-1e1d-4e32-be38-b611bf471bcc" />
+
+<br>
+
+<img width="65" height="26" alt="Screenshot 2025-08-25 at 4 38 42 PM" src="https://github.com/user-attachments/assets/7a059954-1f35-4577-9b84-539840d68078" />
+
+<br>
+
+<img width="145" height="130" alt="Screenshot 2025-08-25 at 4 39 09 PM" src="https://github.com/user-attachments/assets/84fb5c0c-1567-40d5-8713-54f388f6d6f7" />
+
+<br>
+
+<img width="768" height="521" alt="Screenshot 2025-08-25 at 4 39 59 PM" src="https://github.com/user-attachments/assets/86611b48-466e-4e9d-9c31-d8167a95c91b" />
+
+<br>
+
+<img width="364" height="507" alt="Screenshot 2025-08-25 at 4 40 17 PM" src="https://github.com/user-attachments/assets/9dd13571-b701-4af8-9d41-b8077a0f08f7" />
+
+<br>
+
+
+
+
+
+
 - To add new permissions, click on "ADD" -> Click "Select a principal" -> At the bottom, where it says "Enter the object name," type in "everyone" for this project, then hit OK
 
 - Press/ checkmark "Full control" -> Press Apply -> hit OK and press OK again
@@ -947,7 +974,8 @@ to allow the app to make changes
 
 <br> 
 
-pic 32:31
+<img width="434" height="805" alt="Screenshot 2025-08-26 at 5 00 45 PM" src="https://github.com/user-attachments/assets/6642df0f-38b5-488c-80c4-63f2ef7877ab" />
+
   
 <br>
 
@@ -981,13 +1009,34 @@ pic 34:07
 
 <br> 
 
-pic 34:32
+<img width="193" height="26" alt="Screenshot 2025-08-26 at 5 46 49 PM" src="https://github.com/user-attachments/assets/2877a823-1787-4d82-b3ae-88f03769cb3b" />
+
   
 <br>
 
 - "HeidiSQL" is an application that allows us to make a connection to our database and configure and do some stuff in there
 
+<br>
+
+<img width="601" height="467" alt="Screenshot 2025-08-26 at 5 47 25 PM" src="https://github.com/user-attachments/assets/bb32e3f1-a5de-4291-8e1d-5d2b9d9fe474" />
+
+<br>
+
+<img width="596" height="465" alt="Screenshot 2025-08-26 at 5 47 54 PM" src="https://github.com/user-attachments/assets/ad5425b0-dc27-44e8-83fe-4183c8f1818b" />
+
+<br>
+
+
+
 - Double click the HeidiSQL file -> Once you open that up -> keep clicking through the file by pressing "Next"
+
+<br>
+
+
+<img width="599" height="464" alt="Screenshot 2025-08-26 at 6 36 20 PM" src="https://github.com/user-attachments/assets/e8a114ee-073d-45bb-b8a9-98291ee88616" />
+
+<br>
+
 
 -  Make sure to check mark launch HeidiSQL and finish -> Press skip
 
