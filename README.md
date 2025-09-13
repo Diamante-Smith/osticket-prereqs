@@ -1057,9 +1057,23 @@ pic 35:08
 
 - For this step, we are going to make a connection to our database and set up a database for osTicket to use
 
+<br>
+
+<img width="686" height="483" alt="Screenshot 2025-08-26 at 6 46 07 PM" src="https://github.com/user-attachments/assets/1b34a8f0-4ace-4c37-ad48-0b07f0721e42" />
+
+<br>
+
+
 - Click new -> In user type in "root", the password will also be "root" as well -> Click on Open
 
 - This opened a connection to our database
+
+<br>
+
+<img width="527" height="226" alt="Screenshot 2025-08-26 at 6 47 10 PM" src="https://github.com/user-attachments/assets/ed535b5b-baae-4b86-aec5-5bd3c223da66" />
+
+<br>
+
 
 - Right click on where it says "Unnamed" -> Go to create new -> Then click on "Database"
 
