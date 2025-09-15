@@ -1068,6 +1068,10 @@ pic 34:07
 
 <br>
 
+<img width="319" height="260" alt="Screenshot 2025-08-26 at 6 47 43 PM" src="https://github.com/user-attachments/assets/27347fdc-1aed-43f5-b689-10f60bdcdaa2" />
+
+<br>
+
 
 - Right click on where it says "Unnamed" -> Go to create new -> Then click on "Database"
 
@@ -1079,8 +1083,12 @@ pic 34:07
 
 <br> 
 
-<img width="319" height="260" alt="Screenshot 2025-08-26 at 6 47 43 PM" src="https://github.com/user-attachments/assets/27347fdc-1aed-43f5-b689-10f60bdcdaa2" />
 
+
+
+<img width="589" height="421" alt="Screenshot 2025-08-26 at 7 17 11 PM" src="https://github.com/user-attachments/assets/7fada424-f3e7-4985-aa66-3b5aad6137c2" />
+
+<br>
   
 
 - Go back to the browser and go to the Database settings, like the osTicket setup
@@ -1089,15 +1097,12 @@ pic 34:07
 
 <img width="107" height="23" alt="Screenshot 2025-08-26 at 6 48 58 PM" src="https://github.com/user-attachments/assets/76bc790b-46be-4184-8b68-1d376a6147bc" />
 
-<br>
+
+
 
 - Under MySQL Database, type in "osTicket"
 
-<br>
 
-<img width="589" height="421" alt="Screenshot 2025-08-26 at 7 17 11 PM" src="https://github.com/user-attachments/assets/7fada424-f3e7-4985-aa66-3b5aad6137c2" />
-
-<br>
 
 
 
