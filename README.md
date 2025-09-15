@@ -1079,6 +1079,16 @@ pic 34:07
 
 <br>
 
+<img width="107" height="23" alt="Screenshot 2025-08-26 at 6 48 58 PM" src="https://github.com/user-attachments/assets/76bc790b-46be-4184-8b68-1d376a6147bc" />
+
+<br>
+
+- As you can see, it was created here, and nothing is in it
+
+- The actual installation that is happening in the browser will make use of the database and put stuff in there
+
+
+
 <h2>&#9330; Finalize osTicket installation</h2>
 
 <br> 
@@ -1093,9 +1103,6 @@ pic 34:07
 
 - Go back to the browser and go to the Database settings, like the osTicket setup
 
-<br>
-
-<img width="107" height="23" alt="Screenshot 2025-08-26 at 6 48 58 PM" src="https://github.com/user-attachments/assets/76bc790b-46be-4184-8b68-1d376a6147bc" />
 
 
 
@@ -1108,7 +1115,37 @@ pic 34:07
 
 - Under MySQL Username, type in "root" and for the password type in "root" -> Click "install now" to finalize everything
 
+<br>
+
+<img width="107" height="23" alt="Screenshot 2025-08-26 at 6 48 58 PM" src="https://github.com/user-attachments/assets/c32f71c4-73fc-4af2-8bf9-7ebf15ec7bdb" />
+
+
+<br>
+
+
+<img width="345" height="376" alt="Screenshot 2025-08-26 at 7 23 40 PM" src="https://github.com/user-attachments/assets/bf78b826-b568-4b3e-bb4d-03e43a97a7d7" />
+
+<br>
+
+- Right-Click on "osticket" -> then click on "Refresh"
+
+<br>
+
+<img width="606" height="380" alt="Screenshot 2025-08-26 at 7 27 11 PM" src="https://github.com/user-attachments/assets/85724b85-3c45-4057-8984-783fdc5f4ee1" />
+
+
+<br>
+
+
+
 - All these tables were created within our osTicket database, a bunch of stuff it will use on the backend
+
+<br>
+
+<img width="824" height="638" alt="Screenshot 2025-08-26 at 7 17 55 PM" src="https://github.com/user-attachments/assets/988ac75d-240c-4a92-aa80-de1b86184cf6" />
+
+<br>
+
 
 
 <br>
