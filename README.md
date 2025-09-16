@@ -1165,11 +1165,24 @@ pic 34:07
 
 <br>
 
-pic 01:52
+<img width="845" height="504" alt="Screenshot 2025-08-28 at 1 33 43 PM" src="https://github.com/user-attachments/assets/1cf79bab-1e9e-454f-8d89-a0b1a72aaede" />
+
   
 <br>
 
 - Here is the link to log in as the Admin, remember your password and Username to get in http://localhost/osTicket/scp/login.php
+
+<br>
+
+<img width="979" height="501" alt="Screenshot 2025-08-28 at 1 35 01 PM" src="https://github.com/user-attachments/assets/611a90a0-56ba-41dc-9885-a0995dd44edd" />
+
+<br>
+
+<img width="966" height="353" alt="Screenshot 2025-08-28 at 1 35 15 PM" src="https://github.com/user-attachments/assets/71f12d51-b9f0-4429-a3b5-d5cdfd8eeff7" />
+
+<br>
+
+
 
 - If you log in, you can see 2 different panels
 
@@ -1181,7 +1194,8 @@ pic 01:52
 
 <br>
 
-pic 03:26
+<img width="959" height="308" alt="Screenshot 2025-08-28 at 1 49 50 PM" src="https://github.com/user-attachments/assets/9ee84fc4-f274-413a-a972-6f4bf85e2fc9" />
+
   
 <br>
 
@@ -1193,22 +1207,43 @@ pic 03:26
 
 <br>
 
-pic 03:43
+<img width="526" height="496" alt="Screenshot 2025-08-28 at 1 50 18 PM" src="https://github.com/user-attachments/assets/558842bb-1c35-4c4d-8100-cc4fb3c4bf95" />
+
 
 <br>
 
 - If we click on the "View" Role -> Then click on "permissions" -> You will notice this role doesn't have anything checkmarked
 
+<br>
+
+<img width="663" height="572" alt="Screenshot 2025-08-28 at 1 50 45 PM" src="https://github.com/user-attachments/assets/70674e4c-9207-4a5f-99fe-466536a320b3" />
+
+
+<br>
+
 - But go back to "roles" -> Click on the "Expanded Access" role -> Click on
 
 'permissions' only certain things are checked
+
+<br>
+
+<img width="501" height="489" alt="Screenshot 2025-08-28 at 2 02 55 PM" src="https://github.com/user-attachments/assets/df86de85-903f-4fa0-8513-dd5f3fd4a9e1" />
+
+
+<br>
 
 - Go back to roles -> Click on "All Access" to verify that everything is checked
 
  
 <br>
 
-pic 04:44
+<img width="138" height="42" alt="Screenshot 2025-08-28 at 2 04 41 PM" src="https://github.com/user-attachments/assets/0bc339c0-c477-47ad-afec-fa028ed485b7" />
+
+<br>
+
+<img width="316" height="29" alt="Screenshot 2025-08-28 at 2 05 20 PM" src="https://github.com/user-attachments/assets/82ac031c-6afa-402c-941b-bbff7553a5f3" />
+
+<br>
 
 <br>
 
@@ -1216,19 +1251,46 @@ pic 04:44
 
 - Click on "Agents" -> Click on "Roles" -> Click "Add New Role" -> you can name it "Supreme Admin"
 
+<br>
+
+<img width="496" height="478" alt="Screenshot 2025-08-28 at 2 10 06 PM" src="https://github.com/user-attachments/assets/48d2e491-d5e7-421a-bebd-254ee7a083dc" />
+
+<br>
+
+<img width="416" height="250" alt="Screenshot 2025-08-28 at 2 10 28 PM" src="https://github.com/user-attachments/assets/19cf6014-f87f-4a03-ab9c-48e7328ff1a0" />
+
+<br>
+
+
+
 - Click on "Permissions" and checkmark everything -> Click on "Tasks" and checkmark everything so they can be capable of doing everything
+
+<br>
+
+<img width="470" height="111" alt="Screenshot 2025-08-28 at 2 10 38 PM" src="https://github.com/user-attachments/assets/022d27f3-a04b-4c8d-82be-6c5ed5641b2d" />
+
+<br>
+
 
 - Click on "Knowledgebase" and checkmark "Premade" as well -> after that is over, click on "Add Role"; this will solidify our new role for "Supreme Admin"
 
 <br>
 
-pic 05:55
+<img width="851" height="235" alt="Screenshot 2025-08-28 at 2 12 17 PM" src="https://github.com/user-attachments/assets/ed1d7f26-b73b-4cba-8a37-5276c8e60768" />
+
 
 <br>
 
-- Next will be diving into "Departments," which is for ticket visibility, for instance, you can assign the Networking department a ticket so that only they should be able to look at it
+- Next will be diving into "Departments," which is for ticket visibility. For instance, you can assign the Networking department a ticket so that only they should be able to look at it
 
 - Make sure you're in the "Admin Panel" -> Click on "Departments" -> Click on "Add New Department"
+
+<br>
+
+<img width="607" height="921" alt="Screenshot 2025-08-28 at 2 17 14 PM" src="https://github.com/user-attachments/assets/728fbfc4-275d-48ca-8ab6-d5165f394132" />
+
+<br>
+
 
 - Under the settings for Parent, keep it as "Top Level Department" -> Name it "SysAdmins" -> For type, make it public
 
@@ -1238,7 +1300,8 @@ pic 05:55
 
 <br>
 
-pic 07:30
+<img width="850" height="223" alt="Screenshot 2025-08-28 at 2 20 24 PM" src="https://github.com/user-attachments/assets/6525170e-0387-4929-a55c-01cf91fc533a" />
+
 
 <br>
 
@@ -1247,6 +1310,13 @@ pic 07:30
 - Make sure you're in the Admin panel -> Click Agent, then Teams
 
 - Press Add New Team
+
+<br>
+
+<img width="850" height="223" alt="Screenshot 2025-08-28 at 2 20 24 PM" src="https://github.com/user-attachments/assets/e39c49d2-df13-4f78-88ef-ca70266a2742" />
+
+<br>
+
 
 - Name: put online banking and leave the rest settings as default -> Click on "Create Team"
 
@@ -1257,7 +1327,8 @@ pic 07:30
 
 <br>
 
-pic 08:10
+<img width="671" height="613" alt="Screenshot 2025-08-28 at 2 24 41 PM" src="https://github.com/user-attachments/assets/199bb606-e0f6-4e1b-a478-eefe025a83dc" />
+
 
 <br>
 
@@ -1271,7 +1342,8 @@ pic 08:10
 
 <br>
 
-pic 09:03
+<img width="850" height="274" alt="Screenshot 2025-08-28 at 2 27 01 PM" src="https://github.com/user-attachments/assets/69f97a3b-00ff-4084-bbf4-029a6b16cd5b" />
+
 
 <br>
 
