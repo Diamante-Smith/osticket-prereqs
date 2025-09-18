@@ -1351,16 +1351,23 @@ pic 34:07
 
 - In the Admin panel, click on "Agents" -> Click on "Add New Agent"
 
+<br>
+
+<img width="720" height="583" alt="Screenshot 2025-08-28 at 2 36 17 PM" src="https://github.com/user-attachments/assets/3210f44a-c10f-41fb-9a35-87ea615b8b29" />
+
+<br>
+
 - Type in "Jane Doe" for first and last name -> Email address type in "Jane@lognpacific.com"
 
 - For Username type in "jane", don't forget to write down the username and password for later
 
-- Click on "Set Password."
+- Click on "Set Password"
 
 
 <br>
 
-pic 10:21
+<img width="406" height="316" alt="Screenshot 2025-08-28 at 2 37 11 PM" src="https://github.com/user-attachments/assets/0d6b5ac6-c907-4375-b80a-0638bcae53d6" />
+
 
 <br>
 
@@ -1369,12 +1376,20 @@ pic 10:21
 - Under the primary Department section, click on "Sysadmins" -> Under
 - "Role," we will make Jane Doe a Supreme Admin and have access to everything
 
-- Under assigned Teams, put her in Online Banking
+<br>
+
+<img width="590" height="276" alt="Screenshot 2025-08-28 at 2 38 07 PM" src="https://github.com/user-attachments/assets/2149a4f9-2fd6-4d0f-a85d-f7fffb41ec22" />
 
 
 <br>
 
-pic 11:03
+- Under assigned Teams, put her in "Online Banking"
+
+
+<br>
+
+<img width="717" height="447" alt="Screenshot 2025-08-28 at 2 45 39 PM" src="https://github.com/user-attachments/assets/711d4c4f-5bf1-4a33-badb-fa4066ca7aaf" />
+
 
 <br>
 
@@ -1384,7 +1399,26 @@ pic 11:03
 
 - For the fake email, type in "john@lognpacific.com" -> Username will be "john"
 
+<br>
+
+<img width="411" height="274" alt="Screenshot 2025-08-28 at 2 46 04 PM" src="https://github.com/user-attachments/assets/e4f11da0-afcd-466e-a596-7addaf2283eb" />
+
+<br>
+
+
 - His access once you click on "Access" under "Primary Department", click on "Support" -> For Role, click on "View Only" for this lab
+
+<br>
+
+<img width="438" height="300" alt="Screenshot 2025-08-30 at 2 14 36 PM" src="https://github.com/user-attachments/assets/239b1a02-2c57-4560-8621-4916d57a671e" />
+
+
+<br>
+
+<img width="581" height="208" alt="Screenshot 2025-08-30 at 2 14 49 PM" src="https://github.com/user-attachments/assets/f573eaf0-e74d-4252-b71c-3ac9a3617d1e" />
+
+<br>
+
 
 - Under "Permissions," leave everything as is -> Finally, click on "Create"
 
@@ -1394,11 +1428,12 @@ pic 11:03
 
 <br>
 
-pic 12:03
+<img width="649" height="393" alt="Screenshot 2025-08-30 at 2 17 45 PM" src="https://github.com/user-attachments/assets/169ffdd0-32f2-49ac-b916-cd9f12642a00" />
+
 
 <br>
 
-- *Go to Jane to see if you can set their password
+- Go to Jane to see if you can set their password
 
 - Click on "Set Password" -> Uncheck once where it says "Send the agent a password reset email" -> That should allow you to create your password
 
@@ -1414,11 +1449,19 @@ pic 12:03
 
 <br>
 
-pic 13:34
+<img width="832" height="312" alt="Screenshot 2025-08-30 at 3 04 42 PM" src="https://github.com/user-attachments/assets/1e0f0db8-47f7-4814-9ae3-0cdbac5d9a1c" />
+
 
 <br>
 
 - Go to the "Agent Panel" -> Click on "Users" -> Click "Add User"
+
+<br>
+
+<img width="648" height="398" alt="Screenshot 2025-08-30 at 3 06 00 PM" src="https://github.com/user-attachments/assets/d2c53968-9fdf-44a3-b80b-9a51118c2e2c" />
+
+
+<br>
 
 - Type in the fake, made-up email "karen@lognpacific.com"
 
@@ -1431,7 +1474,8 @@ pic 13:34
 
 <br>
 
-pic 14:38
+<img width="849" height="305" alt="Screenshot 2025-08-30 at 3 14 33 PM" src="https://github.com/user-attachments/assets/f21d278b-b4e2-405c-b1af-67df7d103e8b" />
+
 
 <br>
   
@@ -1444,7 +1488,8 @@ pic 14:38
 
 <br>
 
-pic 15:23
+<img width="646" height="528" alt="Screenshot 2025-08-30 at 3 15 50 PM" src="https://github.com/user-attachments/assets/cc43b098-2327-4bf1-92ae-72e25c0d38a3" />
+
 
 <br>
 
@@ -1452,11 +1497,12 @@ pic 15:23
 
 - Grace period, which is the number of hours after a ticket is created that it will be automatically marked as overdue
 
-- We will place a 1 in hours, and for schedule select 24/7, so for example, the ticket needs to be responded to in 1 hour -> after that, click on "Add Plan"
+- We will place a 1 in hours, and for the schedule select 24/7, so for example, the ticket needs to be responded to in 1 hour -> after that, click on "Add Plan"
 
 <br>
 
-pic 16:44
+<img width="596" height="524" alt="Screenshot 2025-08-30 at 3 20 28 PM" src="https://github.com/user-attachments/assets/c38c7d9c-a734-47a8-a209-74a5e5abd029" />
+
 
 <br>
 
@@ -1466,7 +1512,8 @@ pic 16:44
 
 <br>
 
-pic 17:06
+<img width="598" height="527" alt="Screenshot 2025-08-30 at 3 21 43 PM" src="https://github.com/user-attachments/assets/49342ed8-d68b-4930-a361-96e74b6e8ac9" />
+
 
 <br>
 
@@ -1478,9 +1525,15 @@ pic 17:06
 
 <br>
 
-pic 17:57
+<img width="848" height="421" alt="Screenshot 2025-08-30 at 3 23 15 PM" src="https://github.com/user-attachments/assets/97264d45-c343-423c-ae7d-486730b3063b" />
+
 
 <br>
+
+<img width="605" height="560" alt="Screenshot 2025-08-30 at 3 24 51 PM" src="https://github.com/user-attachments/assets/b3029d6d-eb91-4341-8609-f8e07a94bb09" />
+
+<br>
+
 
 - Go to Admin panel -> Manage -> Help Topics -> Click on "Add new help topic"
 
@@ -1490,20 +1543,21 @@ pic 17:57
 
 <br>
 
-pic 18:30
+<img width="615" height="556" alt="Screenshot 2025-08-30 at 3 26 08 PM" src="https://github.com/user-attachments/assets/5e4294aa-c055-4d57-985b-6bf0de8b1c01" />
+
 
 <br>
 
 - We are going to make more, so again, click on "Add new help topic"
 
-- Type in for topic "Personal Computer Issues" -> Status press "Active" -> The type will be
-"Public"
+- Type in for topic "Personal Computer Issues" -> Status press "Active" -> The type will be "Public"
 
 - For parent topic select "Report a Problem" -> Click on "Add Topic"
 
 <br>
 
-pic 18:51
+<img width="598" height="560" alt="Screenshot 2025-08-30 at 3 28 05 PM" src="https://github.com/user-attachments/assets/9602bd92-ac61-4659-88db-89157d53191e" />
+
 
 <br>
 
@@ -1516,7 +1570,8 @@ pic 18:51
 
 <br>
 
-pic 19:16
+<img width="601" height="559" alt="Screenshot 2025-08-30 at 3 29 35 PM" src="https://github.com/user-attachments/assets/a70cfe5c-d065-4d5d-ad37-24aad3f13005" />
+
 
 <br>
 
@@ -1529,7 +1584,13 @@ pic 19:16
 
 <br>
 
-pic 19:38
+<img width="848" height="421" alt="Screenshot 2025-08-30 at 3 23 15 PM" src="https://github.com/user-attachments/assets/e9d4669e-71d9-4b06-96bb-6d909f3b9597" />
+
+
+<br>
+
+<img width="611" height="496" alt="Screenshot 2025-08-30 at 3 33 01 PM" src="https://github.com/user-attachments/assets/23d44fe2-a2c9-4be2-b737-e66e71c06a05" />
+
 
 <br>
 
@@ -1565,7 +1626,8 @@ Copy and paste this URL into the browser on your virtual lab, not your actual br
 
 <br>
 
-pic 02:01
+<img width="959" height="359" alt="Screenshot 2025-08-31 at 1 10 53 PM" src="https://github.com/user-attachments/assets/36033562-7122-4f3d-a5af-c6aba511c5ec" />
+
 
 <br>
 
