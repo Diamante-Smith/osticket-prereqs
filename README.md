@@ -150,7 +150,7 @@ This tutorial provides a step-by-step guide for setting up the prerequisites and
 
 
 
-- Open Microsoft Remote Desktop --> Click on the Plus icon and click on add Pc --> Name it "osTicket" in "Friendly Name:" ---> paste the public IP address in the PC name ---> press add to connect (if needed put in the username and password u made to connect)
+- Open Microsoft Remote Desktop --> Click on the Plus icon and click on add Pc --> Name it "osTicket" in "Friendly Name:" ---> paste the public IP address in the PC name ---> press add to connect (if needed, put in the username and password u made to connect)
 
 
 - After that, you should be able to connect to your newly created virtual machine 
@@ -1611,7 +1611,8 @@ pic 34:07
 
 <br>
 
-pic 01:30
+<img width="845" height="504" alt="Screenshot 2025-08-28 at 1 33 43 PM" src="https://github.com/user-attachments/assets/3105528f-034f-4fad-8422-c581f6e0a41f" />
+
 
 <br>
 
@@ -1643,7 +1644,8 @@ Copy and paste this URL into the browser on your virtual lab, not your actual br
 
 <br>
 
-pic 02:45
+<img width="661" height="324" alt="Screenshot 2025-08-31 at 1 16 09 PM" src="https://github.com/user-attachments/assets/d3e451aa-ae6a-4cc7-a85a-c37fbb581657" />
+
 
 <br>
 
@@ -1657,7 +1659,8 @@ pic 02:45
 
 <br>
 
-pic 03:12
+<img width="842" height="491" alt="Screenshot 2025-08-31 at 1 20 32 PM" src="https://github.com/user-attachments/assets/b235100b-a26e-40cd-89c4-c1c95ed79953" />
+
 
 <br>
 
@@ -1669,7 +1672,8 @@ pic 03:12
 
 <br>
 
-pic 03:24
+<img width="772" height="620" alt="Screenshot 2025-08-31 at 1 28 45 PM" src="https://github.com/user-attachments/assets/141aadb4-144c-41dd-aa99-e61caf03f66c" />
+
 
 <br>
 
@@ -1689,7 +1693,8 @@ pic 03:24
 
 <br>
 
-pic 05:12
+<img width="403" height="288" alt="Screenshot 2025-08-31 at 2 57 20 PM" src="https://github.com/user-attachments/assets/44287257-9368-4dd2-916f-1d2f3a13e56a" />
+
 
 <br>  
 
@@ -1705,7 +1710,9 @@ pic 05:12
 
 <br>
 
-pic 08:22
+<img width="848" height="413" alt="Screenshot 2025-09-01 at 11 04 05 AM" src="https://github.com/user-attachments/assets/6498520b-323b-4a7f-83c7-d9c3871134ec" />
+
+
 
 <br>
 
@@ -1722,7 +1729,8 @@ pic 08:22
 
 <br>
 
-pic 10:42
+<img width="652" height="254" alt="Screenshot 2025-09-01 at 11 16 51 AM" src="https://github.com/user-attachments/assets/04651c7c-a383-469a-82a6-83c9eb54d2a3" />
+
 
 <br>
 
@@ -1738,7 +1746,8 @@ pic 10:42
 
 <br>
 
-pic 11:28
+<img width="651" height="257" alt="Screenshot 2025-09-01 at 11 18 26 AM" src="https://github.com/user-attachments/assets/2ceefb3d-f46f-41a2-8a59-f4674886881a" />
+
 
 <br>
 
@@ -1748,6 +1757,13 @@ pic 11:28
 
 - For the description type in "No Customer is able to access online banking" -> Click on "Update"
 
+<br>
+
+<img width="960" height="395" alt="Screenshot 2025-09-01 at 11 28 24 AM" src="https://github.com/user-attachments/assets/1eed462e-43dd-4f81-966d-cce7d8dec5da" />
+
+
+<br>
+
 - Once you refresh the ticket as you scroll down, you will see the history of the ticket, who worked on it when, and what changed
 
 <br>
@@ -1756,7 +1772,8 @@ pic 11:28
 
 <br>
 
-pic 12:28
+<img width="649" height="255" alt="Screenshot 2025-09-01 at 11 41 46 AM" src="https://github.com/user-attachments/assets/ccf7a0c9-5ecf-4a54-8384-c2c927a34f19" />
+
 
 <br>
 
@@ -1766,7 +1783,7 @@ pic 12:28
 
 - Then Click "Assign"
 
-- Some permissions were made in the beginning so certain people could not see specific tickets just a heads up, if you wanted to have certain users not be able to see certain tickets
+- Some permissions were made in the beginning so certain people could not see specific tickets, just a heads up, if you wanted to have certain users not be able to see certain tickets
 
 <br>
 
@@ -1777,7 +1794,8 @@ pic 12:28
 
 <br>
 
-pic 14:51
+<img width="735" height="329" alt="Screenshot 2025-09-02 at 10 05 40 PM" src="https://github.com/user-attachments/assets/f4927bb5-d999-45a1-991a-4e071af7a270" />
+
 
 <br>
 
@@ -1787,6 +1805,12 @@ pic 14:51
 
 - Click on "Online Banking" -> click on Jane Doe under assignee, as we are going to assign it to Jane
 
+<br>
+<img width="649" height="291" alt="Screenshot 2025-09-02 at 10 06 55 PM" src="https://github.com/user-attachments/assets/597d9667-c30b-4fd6-8bd8-e6f58e7300de" />
+
+
+<br>
+
 - For the description type in "I'll be taking this ticket" -> Click on "Assign" -> now it's specifically assigned to Jane
 
 <br>
@@ -1795,7 +1819,8 @@ pic 14:51
 
 <br>
 
-pic 15:41
+<img width="961" height="411" alt="Screenshot 2025-09-02 at 10 40 32 PM" src="https://github.com/user-attachments/assets/9ab8075b-b559-406e-9296-0468bc0409df" />
+
 
 <br>
 
@@ -1815,13 +1840,21 @@ pic 15:41
 
 <br>
 
-pic 17:22
+<img width="947" height="110" alt="Screenshot 2025-09-02 at 10 59 23 PM" src="https://github.com/user-attachments/assets/9a064972-90c3-4a6f-8213-2efc02c1ac41" />
+
 
 <br>
 
 - We will act like we went to the back end and checked out online banking as Jane and figured that the problem was a recent update that was installed, then we uninstalled the update and rolled back the system, and that fixed the issue
 
 - For the post reply, put in the description, "It was determined that the root cause was the recent update. We rolled it back, notified the vendor, and are waiting for a proper fix. Online banking should now be up and running.
+
+<br>
+
+<img width="233" height="86" alt="Screenshot 2025-09-02 at 11 05 36 PM" src="https://github.com/user-attachments/assets/9440a7da-5030-4ea7-9ba4-f74878dbf2ab" />
+
+
+<br>
         
 - Click "Post reply" -> Go to the top, click on "Open" for the status, set the ticket to "Resolved
 
@@ -1845,7 +1878,13 @@ pic 17:22
 
 <br>
 
-pic 19:46
+<img width="843" height="368" alt="Screenshot 2025-09-03 at 11 26 44 AM" src="https://github.com/user-attachments/assets/03b570f6-94ae-4f60-b670-0c4ea5e638bc" />
+
+
+<br>
+
+<img width="380" height="392" alt="Screenshot 2025-09-03 at 11 28 13 AM" src="https://github.com/user-attachments/assets/68fb25c4-a013-4005-8b25-1b500e94ef24" />
+
 
 <br>
 
@@ -1854,6 +1893,12 @@ pic 19:46
 - For the email address, since we made 2 end users, this one is for Ken, put in his email address "ken@lognpacific.com"
 
 - Put in whatever random phone number -> For the Help topic, select "General inquiry / other"
+
+<br>
+<img width="616" height="237" alt="Screenshot 2025-09-03 at 11 29 08 AM" src="https://github.com/user-attachments/assets/aa2cb0f1-2e73-449a-91b8-7d69b4ba0a13" />
+
+
+<br>
   
 - Click on "create Ticket" -> For the issue summary, type in "Accounting department needs Adobe upgrade"
 
@@ -1867,13 +1912,21 @@ pic 19:46
 
 <br>
 
-pic 21:18
+<img width="613" height="262" alt="Screenshot 2025-09-03 at 11 30 57 AM" src="https://github.com/user-attachments/assets/afd501d0-225c-4c59-ae19-a77c0b987773" />
+
 
 <br>
 
 - We will log in as John to look at this new ticket
 
 - Then we see the ticket come through from Ken -> Click on it
+
+<br>
+
+<img width="838" height="401" alt="Screenshot 2025-09-03 at 11 31 48 AM" src="https://github.com/user-attachments/assets/502bf268-7ff8-4f51-b9f7-012db483f744" />
+
+
+<br>
 
 - When inspecting further on the customer to better understand what they want, it's best to email them, especially if their contact information is listed on their ticket
 
@@ -1889,15 +1942,34 @@ pic 22:51
 
 - After gaining further information, to take the next course of action, you can click on the blue link next to SLA Plan
 
+<br>
+
+<img width="648" height="251" alt="Screenshot 2025-09-03 at 11 36 17 AM" src="https://github.com/user-attachments/assets/307995ac-b1de-47c7-93c7-ae1c051ac39f" />
+
+<br>
+
+
 - We changed the SLA to Sev-C -> At the bottom, type in the description "Only 2 people are unable to open Adobe Reader, Classifying as Sev-C since the impact isn't so bad
 
 - Click on "Department" as we will be assigning it to the "Support Team" if it isn't already selected
 
+
+
 - And next to "Assign to," click on the blue link on the pop-up, select "John Doe"
+
+<br>
+<img width="531" height="89" alt="Screenshot 2025-09-03 at 11 55 43 AM" src="https://github.com/user-attachments/assets/ddea6fcb-aa69-45ab-9e91-ddc2bb55f9c5" />
+
+
+<br>
 
 - In the "Post reply" description, type in "Customer states that only two people in the accounting department are unable to open and use Adobe Reader. Customer testing restart, will call back after lunch."
 
 - Then click "Post Reply"
+
+<br>
+
+<img width="963" height="376" alt="Screenshot 2025-09-03 at 11 52 31 AM" src="https://github.com/user-attachments/assets/83b22afe-195f-4812-b1ad-c20086dad5bd" />
 
 <br>
 
@@ -1921,7 +1993,8 @@ pic 24:46
 
 <br>
 
-pic 25:38
+<img width="465" height="88" alt="Screenshot 2025-09-03 at 12 02 10 PM" src="https://github.com/user-attachments/assets/495a1ff6-2162-491e-8794-5a982bbe558d" />
+
 
 <br>
 
