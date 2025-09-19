@@ -1649,7 +1649,7 @@ Copy and paste this URL into the browser on your virtual lab, not your actual br
 
 <br>
 
-- Go back to agents, then click on Departments -> Click on SYSAdmins
+- Go back to agents, then click on Departments -> Click on "SYSAdmins"
 
 - Make sure "Parent" is set to "Top Level Department," then scroll down to the bottom and click on "Save changes"
 
@@ -1977,7 +1977,8 @@ pic 22:51
 
 <br>
 
-pic 24:46
+<img width="531" height="89" alt="Screenshot 2025-09-03 at 11 55 43 AM" src="https://github.com/user-attachments/assets/8155c7e4-1e61-4c50-8367-ac57e2742e9e" />
+
 
 <br>
 
@@ -2036,7 +2037,8 @@ pic 27:32
 
 <br>
 
-pic 28:49
+<img width="410" height="587" alt="Screenshot 2025-09-03 at 12 11 46 PM" src="https://github.com/user-attachments/assets/aacd58dd-fff8-4d76-976a-c6585302f1c6" />
+
 
 <br>
 
@@ -2053,6 +2055,11 @@ pic 28:49
 - Under that type in  "Laptop won't power on despite pressing the power button"
 
 - Click on "Create Ticket"
+
+<br>
+
+<img width="689" height="134" alt="Screenshot 2025-09-03 at 12 13 40 PM" src="https://github.com/user-attachments/assets/3efb4a54-0e35-4c7a-bc94-013c8b387c79" />
+
 
 <br>
 
