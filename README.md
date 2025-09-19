@@ -1651,6 +1651,13 @@ Copy and paste this URL into the browser on your virtual lab, not your actual br
 
 - Go back to agents, then click on Departments -> Click on "SYSAdmins"
 
+<br>
+
+<img width="989" height="904" alt="Screenshot 2025-08-31 at 1 18 29 PM" src="https://github.com/user-attachments/assets/7e4d2634-8d52-492c-9c08-4d5d0cb8501d" />
+
+
+<br>
+
 - Make sure "Parent" is set to "Top Level Department," then scroll down to the bottom and click on "Save changes"
 
 <br>
@@ -1665,6 +1672,13 @@ Copy and paste this URL into the browser on your virtual lab, not your actual br
 <br>
 
 - For this step, we will be making a ticket as an end user
+
+<br>
+
+<img width="363" height="47" alt="Screenshot 2025-08-31 at 1 22 29 PM" src="https://github.com/user-attachments/assets/6776a037-c9dc-44e3-8a4e-a0cfd17f9079" />
+
+
+<br>
 
 - Log out of the current user you are using in osTicket
 
