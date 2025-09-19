@@ -1934,9 +1934,6 @@ Copy and paste this URL into the browser on your virtual lab, not your actual br
 
 <h2>&#9317; Changing SLA & Assigning</h2>
 
-<br>
-
-pic 22:51
 
 <br>
 
