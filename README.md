@@ -1824,6 +1824,7 @@ Copy and paste this URL into the browser on your virtual lab, not your actual br
 
 
 <br>
+<br>
 
 - For the description type in "I'll be taking this ticket" -> Click on "Assign" -> now it's specifically assigned to Jane
 
@@ -1859,9 +1860,9 @@ Copy and paste this URL into the browser on your virtual lab, not your actual br
 
 <br>
 
-- We will act like we went to the back end and checked out online banking as Jane and figured that the problem was a recent update that was installed, then we uninstalled the update and rolled back the system, and that fixed the issue
+- We will act like we went to the back end and checked out online banking as Jane, and figured that the problem was a recent update that was installed, then we uninstalled the update and rolled back the system, and that fixed the issue
 
-- For the post reply, put in the description, "It was determined that the root cause was the recent update. We rolled it back, notified the vendor, and are waiting for a proper fix. Online banking should now be up and running.
+- For the post reply, put in the description, "It was determined that the root cause was the recent update. We rolled it back, notified the vendor, and are waiting for a proper fix. Online banking should now be up and running."
 
 <br>
 
@@ -1940,6 +1941,7 @@ Copy and paste this URL into the browser on your virtual lab, not your actual br
 <img width="838" height="401" alt="Screenshot 2025-09-03 at 11 31 48 AM" src="https://github.com/user-attachments/assets/502bf268-7ff8-4f51-b9f7-012db483f744" />
 
 <br>
+<br>
 
 - When inspecting further on the customer to better understand what they want, it's best to email them, especially if their contact information is listed on their ticket
 
@@ -1959,7 +1961,7 @@ Copy and paste this URL into the browser on your virtual lab, not your actual br
 <br>
 
 
-- We changed the SLA to Sev-C -> At the bottom, type in the description "Only 2 people are unable to open Adobe Reader, Classifying as Sev-C since the impact isn't so bad
+- We changed the SLA to Sev-C -> At the bottom, type in the description "Only 2 people are unable to open Adobe Reader, Classifying as Sev-C since the impact isn't so bad"
 
 - Click on "Department" as we will be assigning it to the "Support Team" if it isn't already selected
 
