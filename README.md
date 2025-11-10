@@ -1939,7 +1939,6 @@ Copy and paste this URL into the browser on your virtual lab, not your actual br
 
 <img width="838" height="401" alt="Screenshot 2025-09-03 at 11 31 48 AM" src="https://github.com/user-attachments/assets/502bf268-7ff8-4f51-b9f7-012db483f744" />
 
-
 <br>
 
 - When inspecting further on the customer to better understand what they want, it's best to email them, especially if their contact information is listed on their ticket
