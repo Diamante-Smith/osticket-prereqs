@@ -1404,7 +1404,7 @@ pic 34:07
 <img width="411" height="274" alt="Screenshot 2025-08-28 at 2 46 04 PM" src="https://github.com/user-attachments/assets/e4f11da0-afcd-466e-a596-7addaf2283eb" />
 
 <br>
-
+<br>
 
 - His access once you click on "Access" under "Primary Department", click on "Support" -> For Role, click on "View Only" for this lab
 
