@@ -2029,7 +2029,12 @@ Copy and paste this URL into the browser on your virtual lab, not your actual br
 
 <br>
 
-pic 27:32
+
+
+<br>
+
+<img width="531" height="89" alt="Screenshot 2025-09-03 at 11 55 43 AM" src="https://github.com/user-attachments/assets/04368fbf-598c-45e0-bd0f-3e6de59480b5" />
+
 
 <br>
 
