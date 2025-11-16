@@ -991,11 +991,18 @@ to allow the app to make changes
 
 <br> 
 
-pic 34:07
+<img width="221" height="131" alt="Screenshot 2025-11-16 at 2 31 44 PM" src="https://github.com/user-attachments/assets/5c9f3f13-ca7d-4143-b1f3-caf3f8f99f1c" />
+
   
 <br>
 
-- For this step, we will be creating a database specifically for osTicket and then provide the credentials for it
+<img width="387" height="58" alt="Screenshot 2025-11-16 at 2 32 21 PM" src="https://github.com/user-attachments/assets/7f81a8f0-65c5-4ad4-87b9-9de542882f08" />
+
+
+
+<br>
+
+- For this step, we will be creating a database specifically for osTicket and then providing the credentials for it
 
 - Go back to the homescreen -> Right click the files and click on File Explorer -> Click on Desktop
 
